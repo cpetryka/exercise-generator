@@ -366,6 +366,7 @@ const createButton = (style, id, text, eventListener) => {
 const createDropdown = (style, id, text, arr) => {
     let dropdown = document.createElement('div');
     dropdown.setAttribute('class', 'dropdown');
+    dropdown.style.display = 'inline-block';
 
     let button = document.createElement('button');
     button.setAttribute('class', `btn btn-${style} dropdown-toggle`);
@@ -377,7 +378,7 @@ const createDropdown = (style, id, text, arr) => {
     dropdown.appendChild(button);
 
     let ul = document.createElement('ul');
-    ul.setAttribute('class', 'dropdown-menu');
+    ul.setAttribute('class', 'dropdown-menu dropdown-menu-dark');
     ul.setAttribute('aria-labelledby', id);
 
     for(let el of arr) {
@@ -388,6 +389,8 @@ const createDropdown = (style, id, text, arr) => {
         li.appendChild(a);
         ul.appendChild(li);
     }
+
+    dropdown.appendChild(ul);
 
     return dropdown;
 }
