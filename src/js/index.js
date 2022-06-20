@@ -296,7 +296,7 @@ const generateAnswer = (exercise, exerciseNumber) => {
     // Heading
     let heading = document.createElement('h4');
     heading.setAttribute('class', 'exercise-heading');
-    
+
     let span = document.createElement('span');
     span.setAttribute('class', 'exercise-number');
     span.innerText = `Exercise ${exerciseNumber}`;
@@ -352,6 +352,17 @@ const generateAnswersPDF = () => {
 }
 
 /**************************** GENERATING BUTTONS ****************************/
+const createButton = (style, id, eventListener, text) => {
+    let temp = document.createElement('button');
+    temp.setAttribute('type', 'button');
+    temp.setAttribute('class', `btn btn-${style}`);
+    temp.setAttribute('id', id);
+    temp.addEventListener('click', eventListener);
+    temp.innerText = text;
+    
+    return temp;
+}
+
 const generateButtons = () => {
     const buttonsContainer = document.createElement('div');
     buttonsContainer.setAttribute('id', 'buttons-container');
