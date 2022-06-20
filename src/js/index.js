@@ -352,13 +352,13 @@ const generateAnswersPDF = () => {
 }
 
 /**************************** GENERATING BUTTONS ****************************/
-const createButton = (style, id, eventListener, text) => {
+const createButton = (style, id, text, eventListener) => {
     let temp = document.createElement('button');
     temp.setAttribute('type', 'button');
     temp.setAttribute('class', `btn btn-${style}`);
     temp.setAttribute('id', id);
-    temp.addEventListener('click', eventListener);
     temp.innerText = text;
+    temp.addEventListener('click', eventListener);
     
     return temp;
 }
@@ -368,7 +368,7 @@ const generateButtons = () => {
     buttonsContainer.setAttribute('id', 'buttons-container');
 
     // Deleting all exercises
-    buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', deleteAllChosenExercises, 'Clear'));
+    buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', deleteAllChosenExercises));
 
     let as = document.createElement('button');
     as.setAttribute('type', 'button');
@@ -381,13 +381,13 @@ const generateButtons = () => {
     buttonsContainer.appendChild(as);
 
     // Saving chosen exercises
-    buttonsContainer.appendChild(createButton('primary', 'save-chosen-exercises', saveChosenExercises, 'Save the set'));
+    buttonsContainer.appendChild(createButton('primary', 'save-chosen-exercises', 'Save the set', saveChosenExercises));
 
     // Generating a pdf
-    buttonsContainer.appendChild(createButton('primary', 'generate-pdf', generatePDF, 'Generate a pdf'));
+    buttonsContainer.appendChild(createButton('primary', 'generate-pdf', 'Generate a pdf', generatePDF));
 
     // Generating answers
-    buttonsContainer.appendChild(createButton('primary', 'generate-answers', generateAnswersPDF, 'Generate answers'));
+    buttonsContainer.appendChild(createButton('primary', 'generate-answers', 'Generate answers', generateAnswersPDF));
 
     return buttonsContainer;
 }
