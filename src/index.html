@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise Generator</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1 class="text-center">Exercise Generator</h1>
+        </header>
+        <main class="position-relative">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6 scb" id="exercises-presentation"></div>
+                    <div class="col-md-6 scb print" id="generated-set"></div>
+                </div>
+            </div>
+
+            <div id="upload">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#uploadModal">
+                    <i class="fa-solid fa-file-arrow-up"></i>
+                </button>
+            </div>
+        </main>
+        <footer>
+            <p>Copyright © 2022 - Cezary Petryka</p>
+        </footer>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="uploadModal" tabindex="-1" aria-labelledby="uploadModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="uploadModalLabel">Upload a file</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form onsubmit="event.preventDefault()">
+                        <div class="mb-3">
+                            <label for="file-selector" class="form-label">Choose and upload a file:</label>
+                            <input class="form-control" type="file" id="file-selector" accept=".txt">
+                        </div>
+
+                        <input type="submit" class="btn btn-primary" id="submit-file"></input>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- https://stackoverflow.com/questions/8645369/how-do-i-get-the-file-content-from-a-form -->
+</body>
+
+</html>
