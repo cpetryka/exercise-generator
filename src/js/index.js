@@ -368,13 +368,7 @@ const generateButtons = () => {
     buttonsContainer.setAttribute('id', 'buttons-container');
 
     // Deleting all exercises
-    let dalce = document.createElement('button');
-    dalce.setAttribute('type', 'button');
-    dalce.setAttribute('class', 'btn btn-secondary');
-    dalce.setAttribute('id', 'delete-all-exercises');
-    dalce.addEventListener('click', deleteAllChosenExercises);
-    dalce.innerText = 'Clear';
-    buttonsContainer.appendChild(dalce);
+    buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', deleteAllChosenExercises, 'Clear'));
 
     let as = document.createElement('button');
     as.setAttribute('type', 'button');
@@ -387,31 +381,13 @@ const generateButtons = () => {
     buttonsContainer.appendChild(as);
 
     // Saving chosen exercises
-    let sts = document.createElement('button');
-    sts.setAttribute('type', 'button');
-    sts.setAttribute('class', 'btn btn-primary');
-    sts.setAttribute('id', 'save-chosen-exercises');
-    sts.addEventListener('click', saveChosenExercises);
-    sts.innerText = 'Save the set';
-    buttonsContainer.appendChild(sts);
+    buttonsContainer.appendChild(createButton('primary', 'save-chosen-exercises', saveChosenExercises, 'Save the set'));
 
     // Generating a pdf
-    let gpdf = document.createElement('button');
-    gpdf.setAttribute('type', 'button');
-    gpdf.setAttribute('class', 'btn btn-primary');
-    gpdf.setAttribute('id', 'generate-pdf');
-    gpdf.addEventListener('click', generatePDF);
-    gpdf.innerText = 'Generate a pdf';
-    buttonsContainer.appendChild(gpdf);
+    buttonsContainer.appendChild(createButton('primary', 'generate-pdf', generatePDF, 'Generate a pdf'));
 
     // Generating answers
-    let ga = document.createElement('button');
-    ga.setAttribute('type', 'button');
-    ga.setAttribute('class', 'btn btn-primary');
-    ga.setAttribute('id', 'generate-answers');
-    ga.addEventListener('click', generateAnswersPDF);
-    ga.innerText = 'Generate answers';
-    buttonsContainer.appendChild(ga);
+    buttonsContainer.appendChild(createButton('primary', 'generate-answers', generateAnswersPDF, 'Generate answers'));
 
     return buttonsContainer;
 }
