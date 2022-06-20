@@ -228,7 +228,7 @@ const generateSet = (gs) => {
         if(features.has(i)) {
             const separator = document.createElement('div');
             separator.setAttribute('class', 'separator');
-            separator.innerText = 'Homework';
+            // separator.innerText = 'Homework';
             separator.addEventListener('dblclick', () => {
                 features.delete(i);
                 refreshGeneratedSet();
@@ -404,11 +404,12 @@ const generateButtons = () => {
     buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', deleteAllChosenExercises));
 
     // Adding features to the set
-    let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-heading', 'add-line']);
+    let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-heading', 'add-separator']);
     buttonsContainer.appendChild(dropdown);
 
-    buttonsContainer.querySelector('#add-line').addEventListener('click', () => {
+    buttonsContainer.querySelector('#add-separator').addEventListener('click', () => {
         features.set(exerciseIds.length - 1, '-');
+        refreshGeneratedSet();
     });
 
     // Saving chosen exercises

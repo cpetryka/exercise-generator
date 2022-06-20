@@ -18,14 +18,16 @@ h1, h2, h3, h4 {
 }
 
 .separator {
-    margin: 18px auto 0;
+    // margin: 18px auto 0;
+    margin: auto;
+    height: 18px;
     width: 90%;
     border-bottom: 1px dashed rgba(0, 0, 0, 0.5);
     cursor: pointer;
-    user-select: none;
-    text-align: center;
-    font-size: 18px;
-    font-weight: bold;
+    // user-select: none;
+    // text-align: center;
+    // font-size: 18px;
+    // font-weight: bold;
 }
 
 #wrapper {
