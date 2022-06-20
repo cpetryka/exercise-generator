@@ -355,7 +355,7 @@ const generateAnswersPDF = () => {
 const createButton = (style, id, text, eventListener) => {
     let temp = document.createElement('button');
     temp.setAttribute('type', 'button');
-    temp.setAttribute('class', `btn btn-${style}`);
+    temp.setAttribute('class', `btn btn-${style} btn-sm `);
     temp.setAttribute('id', id);
     temp.innerText = text;
     temp.addEventListener('click', eventListener);
@@ -369,7 +369,7 @@ const createDropdown = (style, id, text, arr) => {
     dropdown.style.display = 'inline-block';
 
     let button = document.createElement('button');
-    button.setAttribute('class', `btn btn-${style} dropdown-toggle`);
+    button.setAttribute('class', `btn btn-${style} btn-sm  dropdown-toggle`);
     button.setAttribute('type', 'button');
     button.setAttribute('id', id);
     button.setAttribute('data-bs-toggle', 'dropdown');
