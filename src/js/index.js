@@ -258,8 +258,32 @@ const deleteAllChosenExercises = () => {
 
 
 /**************************** SAVING THE SET ****************************/
+const mapToString = (map) => {
+    let txt = '';
+
+    map.forEach((v, k) => {
+        txt += `${k},${v};`;
+    });
+
+    txt = txt.slice(0, txt.length - 1);
+
+    return txt;
+}
+
+const arrToMap = (arr) => {
+    let map = new Map();
+
+    for(let el of arr) {
+        const temp = el.split(',');
+        map.set(parseInt(temp[0]), temp[1]);
+    }
+
+    return map;
+}
+
 const saveChosenExercises = () => {
-    let blob = new Blob([exerciseIds.join(';')], { type: "text/plain;charset=utf-8" });
+    let str = exerciseIds.join(';') + '|' + mapToString(features);
+    let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
     saveAs(blob, "chosen-exercises.txt");
 }
 
@@ -438,7 +462,11 @@ submitFile.addEventListener('click', () => {
         reader.readAsBinaryString(file.files[0]);
 
         reader.onload = e => {
-            exerciseIds = e.target.result.split(';');
+            const tempArr = e.target.result.split('|');
+
+            exerciseIds = tempArr[0].split(';');
+            features = arrToMap(tempArr[1].split(';'));
+
             refreshGeneratedSet();
         }
     }
