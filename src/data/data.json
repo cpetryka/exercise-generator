@@ -2457,16 +2457,16 @@
                         "source": "Own tasks",
                         "task": "Przepisz zdania używając mowy zależnej.",
                         "content": [
-                            "She lives here. -> She told me (that) …",
-                            "I don't have time this Friday. -> She said (that) …",
-                            "They are talking too loud. -> He complained (that) …",
-                            "I will be here tomorrow. -> She said (that) …",
-                            "I must stay in this house. -> She said (that) …",
-                            "We are going to see him next week. -> They told us (that) …",
-                            "We can't come to your party. -> They explained …",
-                            "Sarah is going to start a new job. -> My sister told me (that) …",
-                            "This letter is a mistake. -> They informed us (that) …",
-                            "I saw them a few weeks ago. -> He said (that) …"
+                            "She lives here. --> She told me (that) …",
+                            "I don't have time this Friday. --> She said (that) …",
+                            "They are talking too loud. --> He complained (that) …",
+                            "I will be here tomorrow. --> She said (that) …",
+                            "I must stay in this house. --> She said (that) …",
+                            "We are going to see him next week. --> They told us (that) …",
+                            "We can't come to your party. --> They explained …",
+                            "Sarah is going to start a new job. --> My sister told me (that) …",
+                            "This letter is a mistake. --> They informed us (that) …",
+                            "I saw them a few weeks ago. --> He said (that) …"
                         ],
                         "answers": [
                             "He told me (that) she lived there.",
@@ -2516,14 +2516,14 @@
                         "source": "Own tasks",
                         "task": "Przekształć pytania na mowę zależną.",
                         "content": [
-                            "Where do you come from? -> Tom asked me …",
-                            "Where did you go last summer? -> He asked me …",
-                            "Do you like your town? -> Betty asked if …",
-                            "Did you have a good time? -> Tom asked if …",
-                            "How long have you been together? -> He asked us …",
-                            "Where is your wife? -> She asked me …",
-                            "What time will she arrive at the airport? -> He asked …",
-                            "Can you speak Spanish? -> Sam asked me …"
+                            "Where do you come from? --> Tom asked me …",
+                            "Where did you go last summer? --> He asked me …",
+                            "Do you like your town? --> Betty asked if …",
+                            "Did you have a good time? --> Tom asked if …",
+                            "How long have you been together? --> He asked us …",
+                            "Where is your wife? --> She asked me …",
+                            "What time will she arrive at the airport? --> He asked …",
+                            "Can you speak Spanish? --> Sam asked me …"
                         ],
                         "answers": [
                             "Tom aksed me where I came from.",
@@ -2750,12 +2750,12 @@
                         "source": "Own tasks",
                         "task": "Przekształć zdania na mowę zależną.",
                         "content": [
-                            "'I'm going to propose to Jane tomorrow.' -> Steve told me …",
-                            "'I started working for this company two years ago.' -> Sally said …",
-                            "'Where were you last night?' -> Mum asked me …",
-                            "'Do you like Chinese food?' -> Tim asked us …",
-                            "'Go to your room!' -> Mum told me …",
-                            "'Can you help me move things to my new flat?' -> Sally asked if …"
+                            "'I'm going to propose to Jane tomorrow.' --> Steve told me …",
+                            "'I started working for this company two years ago.' --> Sally said …",
+                            "'Where were you last night?' --> Mum asked me …",
+                            "'Do you like Chinese food?' --> Tim asked us …",
+                            "'Go to your room!' --> Mum told me …",
+                            "'Can you help me move things to my new flat?' --> Sally asked if …"
                         ],
                         "answers": [
                             "Steve told me he was going to propose to Jane the next day.",
