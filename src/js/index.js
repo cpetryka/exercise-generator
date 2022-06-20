@@ -385,6 +385,7 @@ const createDropdown = (style, id, text, arr) => {
         let li = document.createElement('li');
         let a = document.createElement('a');
         a.setAttribute('class', 'dropdown-item');
+        a.setAttribute('id', el);
         a.innerText = convertStringToTitle(el);
         li.appendChild(a);
         ul.appendChild(li);
@@ -402,15 +403,13 @@ const generateButtons = () => {
     // Deleting all exercises
     buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', deleteAllChosenExercises));
 
-    let as = document.createElement('button');
-    as.setAttribute('type', 'button');
-    as.setAttribute('class', 'btn btn-secondary');
-    as.setAttribute('id', 'add-line');
-    as.addEventListener('click', () => {
+    // Adding features to the set
+    let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-heading', 'add-line']);
+    buttonsContainer.appendChild(dropdown);
+
+    buttonsContainer.querySelector('#add-line').addEventListener('click', () => {
         features.set(exerciseIds.length - 1, '-');
     });
-    as.innerText = 'Add a separator';
-    buttonsContainer.appendChild(as);
 
     // Saving chosen exercises
     buttonsContainer.appendChild(createButton('primary', 'save-chosen-exercises', 'Save the set', saveChosenExercises));
