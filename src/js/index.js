@@ -363,6 +363,35 @@ const createButton = (style, id, text, eventListener) => {
     return temp;
 }
 
+const createDropdown = (style, id, text, arr) => {
+    let dropdown = document.createElement('div');
+    dropdown.setAttribute('class', 'dropdown');
+
+    let button = document.createElement('button');
+    button.setAttribute('class', `btn btn-${style} dropdown-toggle`);
+    button.setAttribute('type', 'button');
+    button.setAttribute('id', id);
+    button.setAttribute('data-bs-toggle', 'dropdown');
+    button.setAttribute('aria-expanded', 'false');
+    button.innerText = text;
+    dropdown.appendChild(button);
+
+    let ul = document.createElement('ul');
+    ul.setAttribute('class', 'dropdown-menu');
+    ul.setAttribute('aria-labelledby', id);
+
+    for(let el of arr) {
+        let li = document.createElement('li');
+        let a = document.createElement('a');
+        a.setAttribute('class', 'dropdown-item');
+        a.innerText = convertStringToTitle(el);
+        li.appendChild(a);
+        ul.appendChild(li);
+    }
+
+    return dropdown;
+}
+
 const generateButtons = () => {
     const buttonsContainer = document.createElement('div');
     buttonsContainer.setAttribute('id', 'buttons-container');
