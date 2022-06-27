@@ -1274,6 +1274,26 @@
                     },
                     {
                         "source": "Own tasks",
+                        "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
+                        "content": [
+                            "Eve hasn't found a new flat yet. (LOOKING)\nEve ... a new flat.",
+                            "Paul started working here two years ago. (BEEN)\nPaul ... two years.",
+                            "It's more than a month since I saw her. (SEEN)\nI ... for more than a month.",
+                            "Tom always gets to work on time. (LATE)\nTom ... for work.",
+                            "I have never visited Germany before. (FIRST)\nThis is ... ever visited Germany.",
+                            "Jason is still writing that report. (HAS)\nJason ... that report yet."
+                        ],
+                        "answers": [
+                            "is still looking for",
+                            "has been working here for",
+                            "have not seen her",
+                            "is never late",
+                            "the first time I have",
+                            "has not written"
+                        ]
+                    },
+                    {
+                        "source": "Own tasks",
                         "task": "Przetłumacz zdania.",
                         "content": [
                             "Zawsze spotykam się ze swoimi przyjaciółmi w sobotę na obiad.",
