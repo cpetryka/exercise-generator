@@ -281,10 +281,46 @@ const arrToMap = (arr) => {
     return map;
 }
 
+const convertMapToObjectsArray = (map) => {
+    const arr = [];
+
+    for(let [key, value] of features) {
+        const temp = {
+            "key": key, 
+            "value": value
+        };
+
+        arr.push(temp);
+    }
+
+    return arr;
+}
+
+const convertObjectsArrayToMap = (objectsArray) => {
+    const map = new Map();
+
+    for(let obj of objectsArray) {
+        map.set(obj.key, obj.value);
+    }
+
+    return map;
+}
+
 const saveChosenExercises = () => {
-    let str = exerciseIds.join(';') + '|' + mapToString(features);
-    let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
-    saveAs(blob, "chosen-exercises.txt");
+    // let str = exerciseIds.join(';') + '|' + mapToString(features);
+    // let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
+    // saveAs(blob, "chosen-exercises.txt");
+
+    const jsonObj = {
+        exerciseIds: [...exerciseIds],
+        features: [...convertMapToObjectsArray(features)]
+    }
+
+    const str = JSON.stringify(jsonObj, null, 4);
+    let blob = new Blob([str], {type: "text/plain"});
+    saveAs(blob, "chosen-exercises.json");
+
+    convertMapToObjectsArray(features);
 }
 
 /**************************** GENERATING A PDF AND ANSWERS ****************************/
@@ -462,10 +498,13 @@ submitFile.addEventListener('click', () => {
         reader.readAsBinaryString(file.files[0]);
 
         reader.onload = e => {
-            const tempArr = e.target.result.split('|');
+            // const tempArr = e.target.result.split('|');
+            // exerciseIds = tempArr[0].split(';');
+            // features = arrToMap(tempArr[1].split(';'));
 
-            exerciseIds = tempArr[0].split(';');
-            features = arrToMap(tempArr[1].split(';'));
+            const jsonObj = JSON.parse(e.target.result);
+            exerciseIds = jsonObj.exerciseIds;
+            features = convertObjectsArrayToMap(jsonObj.features);
 
             refreshGeneratedSet();
         }
