@@ -258,28 +258,28 @@ const deleteAllChosenExercises = () => {
 
 
 /**************************** SAVING THE SET ****************************/
-const mapToString = (map) => {
-    let txt = '';
+// const mapToString = (map) => {
+//     let txt = '';
 
-    map.forEach((v, k) => {
-        txt += `${k},${v};`;
-    });
+//     map.forEach((v, k) => {
+//         txt += `${k},${v};`;
+//     });
 
-    txt = txt.slice(0, txt.length - 1);
+//     txt = txt.slice(0, txt.length - 1);
 
-    return txt;
-}
+//     return txt;
+// }
 
-const arrToMap = (arr) => {
-    let map = new Map();
+// const arrToMap = (arr) => {
+//     let map = new Map();
 
-    for(let el of arr) {
-        const temp = el.split(',');
-        map.set(parseInt(temp[0]), temp[1]);
-    }
+//     for(let el of arr) {
+//         const temp = el.split(',');
+//         map.set(parseInt(temp[0]), temp[1]);
+//     }
 
-    return map;
-}
+//     return map;
+// }
 
 const convertMapToObjectsArray = (map) => {
     const arr = [];
