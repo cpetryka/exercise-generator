@@ -29,7 +29,7 @@ for(const unit of units) {
 //     .forEach(modalNode => new Modal(modalNode));
 
 
-/**************************** CREATING EXERCISE PRESENTATION ****************************/
+/**************************** SINLGE EXERCISES ****************************/
 const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }
@@ -82,6 +82,7 @@ const generateExercise = (exerciseNumber, data, exerciseId) => {
     return elem;
 }
 
+/**************************** GENERATING MAIN CONTENT ****************************/
 const generateContent = (data) => {
     let fragment = document.createDocumentFragment();
 
@@ -240,7 +241,6 @@ const generateSet = (gs) => {
             if(features.get(i) === '-') {
                 const separator = document.createElement('div');
                 separator.setAttribute('class', 'separator');
-                // separator.innerText = 'Homework';
                 separator.addEventListener('dblclick', () => {
                     features.delete(i);
                     refreshGeneratedSet();
@@ -441,7 +441,7 @@ const generateButtons = () => {
     buttonsContainer.appendChild(dropdown);
 
     buttonsContainer.querySelector('#add-heading').addEventListener('click', () => {
-        features.set(exerciseIds.length - 1, prompt('Enter the header: '));
+        features.set(exerciseIds.length - 1, prompt('Enter the heading: '));
         refreshGeneratedSet();
     });
 
