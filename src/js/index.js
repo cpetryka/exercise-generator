@@ -2,6 +2,7 @@ import 'jquery';
 import { Modal } from 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
 import { saveAs } from 'file-saver';
+import * as utils from './utils.js';
 
 import '../css/style.scss';
 
@@ -29,13 +30,6 @@ for(const unit of units) {
 
 
 /**************************** CREATING EXERCISE PRESENTATION ****************************/
-const convertStringToTitle = str => {
-    str = str.replace(/-/g, ' ');
-    str = str.charAt(0).toUpperCase() + str.slice(1);
-
-    return str;
-}
-
 const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }
@@ -102,7 +96,7 @@ const generateContent = (data) => {
         // Heading
         let heading = document.createElement('h3');
         heading.setAttribute('class', 'unit-heading');
-        heading.innerText = convertStringToTitle(data[i]["unit"]);
+        heading.innerText = utils.convertStringToTitle(data[i]["unit"]);
         unitContainer.appendChild(heading);
 
         // Accordion
@@ -127,7 +121,7 @@ const generateContent = (data) => {
             button.setAttribute('data-bs-target', `#${data[i]["unit"]}-collapse${j + 1}`);
             button.setAttribute('aria-expanded', 'false');
             button.setAttribute('aria-controls', `${data[i]["unit"]}-collapse${j + 1}`);
-            button.innerText = convertStringToTitle(data[i]["subsections"][j]["subsectionName"]);
+            button.innerText = utils.convertStringToTitle(data[i]["subsections"][j]["subsectionName"]);
 
             itemHeading.appendChild(button);
             accordionItem.appendChild(itemHeading);
@@ -273,71 +267,24 @@ const deleteAllChosenExercises = () => {
     refreshGeneratedSet();
 }
 
-
 /**************************** SAVING THE SET ****************************/
-// const mapToString = (map) => {
-//     let txt = '';
 
-//     map.forEach((v, k) => {
-//         txt += `${k},${v};`;
-//     });
-
-//     txt = txt.slice(0, txt.length - 1);
-
-//     return txt;
-// }
-
-// const arrToMap = (arr) => {
-//     let map = new Map();
-
-//     for(let el of arr) {
-//         const temp = el.split(',');
-//         map.set(parseInt(temp[0]), temp[1]);
-//     }
-
-//     return map;
-// }
-
-const convertMapToObjectsArray = (map) => {
-    const arr = [];
-
-    for(let [key, value] of features) {
-        const temp = {
-            "key": key, 
-            "value": value
-        };
-
-        arr.push(temp);
-    }
-
-    return arr;
-}
-
-const convertObjectsArrayToMap = (objectsArray) => {
-    const map = new Map();
-
-    for(let obj of objectsArray) {
-        map.set(obj.key, obj.value);
-    }
-
-    return map;
-}
 
 const saveChosenExercises = () => {
-    // let str = exerciseIds.join(';') + '|' + mapToString(features);
+    // let str = exerciseIds.join(';') + '|' + utils.convertMapToString(features);
     // let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
     // saveAs(blob, "chosen-exercises.txt");
 
     const jsonObj = {
         exerciseIds: [...exerciseIds],
-        features: [...convertMapToObjectsArray(features)]
+        features: [...utils.convertMapToObjectsArray(features)]
     }
 
     const str = JSON.stringify(jsonObj, null, 4);
     let blob = new Blob([str], {type: "text/plain"});
     saveAs(blob, "chosen-exercises.json");
 
-    convertMapToObjectsArray(features);
+    utils.convertMapToObjectsArray(features);
 }
 
 /**************************** GENERATING A PDF AND ANSWERS ****************************/
@@ -463,7 +410,7 @@ const createDropdown = (style, id, text, arr) => {
         let a = document.createElement('a');
         a.setAttribute('class', 'dropdown-item');
         a.setAttribute('id', el);
-        a.innerText = convertStringToTitle(el);
+        a.innerText = utils.convertStringToTitle(el);
         li.appendChild(a);
         ul.appendChild(li);
     }
@@ -517,11 +464,11 @@ submitFile.addEventListener('click', () => {
         reader.onload = e => {
             // const tempArr = e.target.result.split('|');
             // exerciseIds = tempArr[0].split(';');
-            // features = arrToMap(tempArr[1].split(';'));
+            // features = utils.convertArrToMap(tempArr[1].split(';'));
 
             const jsonObj = JSON.parse(e.target.result);
             exerciseIds = jsonObj.exerciseIds;
-            features = convertObjectsArrayToMap(jsonObj.features);
+            features = utils.convertObjectsArrayToMap(jsonObj.features);
 
             refreshGeneratedSet();
         }
