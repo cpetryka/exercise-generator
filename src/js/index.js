@@ -237,14 +237,26 @@ const generateSet = (gs) => {
         fragment.appendChild(temp);
 
         if(features.has(i)) {
-            const separator = document.createElement('div');
-            separator.setAttribute('class', 'separator');
-            // separator.innerText = 'Homework';
-            separator.addEventListener('dblclick', () => {
-                features.delete(i);
-                refreshGeneratedSet();
-            });
-            fragment.appendChild(separator);
+            if(features.get(i) === '-') {
+                const separator = document.createElement('div');
+                separator.setAttribute('class', 'separator');
+                // separator.innerText = 'Homework';
+                separator.addEventListener('dblclick', () => {
+                    features.delete(i);
+                    refreshGeneratedSet();
+                });
+                fragment.appendChild(separator);
+            }
+            else {
+                const heading = document.createElement('h2');
+                heading.setAttribute('class', 'additional-heading')
+                heading.innerText = features.get(i);
+                heading.addEventListener('dblclick', () => {
+                    features.delete(i);
+                    refreshGeneratedSet();
+                });
+                fragment.appendChild(heading);
+            }
         }
     }
 
@@ -269,7 +281,6 @@ const deleteAllChosenExercises = () => {
 
 /**************************** SAVING THE SET ****************************/
 
-
 const saveChosenExercises = () => {
     // let str = exerciseIds.join(';') + '|' + utils.convertMapToString(features);
     // let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
@@ -283,8 +294,6 @@ const saveChosenExercises = () => {
     const str = JSON.stringify(jsonObj, null, 4);
     let blob = new Blob([str], {type: "text/plain"});
     saveAs(blob, "chosen-exercises.json");
-
-    utils.convertMapToObjectsArray(features);
 }
 
 /**************************** GENERATING A PDF AND ANSWERS ****************************/
@@ -430,6 +439,11 @@ const generateButtons = () => {
     // Adding features to the set
     let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-heading', 'add-separator']);
     buttonsContainer.appendChild(dropdown);
+
+    buttonsContainer.querySelector('#add-heading').addEventListener('click', () => {
+        features.set(exerciseIds.length - 1, prompt('Enter the header: '));
+        refreshGeneratedSet();
+    });
 
     buttonsContainer.querySelector('#add-separator').addEventListener('click', () => {
         features.set(exerciseIds.length - 1, '-');

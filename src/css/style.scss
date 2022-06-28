@@ -112,6 +112,18 @@ main {
         margin-top: 0;
     }
 
+    .additional-heading {
+        font-weight: 700;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+
+    .additional-heading + .exercise {
+        .exercise-heading {
+            margin-top: 2px;
+        }
+    }
+
     p {
         padding: 0;
         margin: 0;
