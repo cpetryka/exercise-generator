@@ -1,0 +1,359 @@
+{
+    "unit": "reported-speech",
+    "subsections": [
+        {
+            "subsectionName": "reported-statements",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym jest mowa zależna, kiedy jej używamy oraz jak ją tworzymy."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przepisz zdania używając mowy zależnej.",
+                    "content": [
+                        "She lives here. --> She told me (that) …",
+                        "I don't have time this Friday. --> She said (that) …",
+                        "They are talking too loud. --> He complained (that) …",
+                        "I will be here tomorrow. --> She said (that) …",
+                        "I must stay in this house. --> She said (that) …",
+                        "We are going to see him next week. --> They told us (that) …",
+                        "We can't come to your party. --> They explained …",
+                        "Sarah is going to start a new job. --> My sister told me (that) …",
+                        "This letter is a mistake. --> They informed us (that) …",
+                        "I saw them a few weeks ago. --> He said (that) …"
+                    ],
+                    "answers": [
+                        "He told me (that) she lived there.",
+                        "She said (that) she didn't have time that Friday.",
+                        "He complained (that) they were talking too loud.",
+                        "She said (that) she would be there the next/following day.",
+                        "She said (that) she had to stay in that house.",
+                        "They told us (that) they were going to see him the following week.",
+                        "They explained why they couldn't come to our party.",
+                        "My sister told me (that) sarah was going to start a new job.",
+                        "They informed us (that) that letter was a mistake.",
+                        "He said (that) he had seen them a few weeks before."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Powiedzieli nam, że nic nie wiedzą.",
+                        "Powiedziała, że złapała królika.",
+                        "Moja żona powiedziała, że nie zrobi ciasta.",
+                        "Bob powiedział, że Jenny pojechała do Londynu.",
+                        "Mary powiedziała mi, że bardzo lubi Toma."
+                    ],
+                    "answers": [
+                        "They told us that they didn't know anything.",
+                        "He said that she had caught a rabbit.",
+                        "My wife said that she wouldn't make a cake. ",
+                        "Bob said that Jenny had gone to London.",
+                        "Mary told me she liked Tom a lot."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Pytaniem dnia jest: „czy lubisz plotkować”. Jeżeli tak to bardzo dobrze, ponieważ rozmawiasz z właściwą osobą, w dodatku na odpowiedni temat (jeżeli nie i tak wykonaj to zadanie). Opowiedz o najnowszych plotkach, które słyszałeś (plotki mogą dotyczyć np. celebrytów, twoich przyjaciół lub nauczycieli)."
+                }
+            ]
+        },
+        {
+            "subsectionName": "reported-questions",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz jak tworzymy pytania w mowie zależnej w języku angielskim"
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przekształć pytania na mowę zależną.",
+                    "content": [
+                        "Where do you come from? --> Tom asked me …",
+                        "Where did you go last summer? --> He asked me …",
+                        "Do you like your town? --> Betty asked if …",
+                        "Did you have a good time? --> Tom asked if …",
+                        "How long have you been together? --> He asked us …",
+                        "Where is your wife? --> She asked me …",
+                        "What time will she arrive at the airport? --> He asked …",
+                        "Can you speak Spanish? --> Sam asked me …"
+                    ],
+                    "answers": [
+                        "Tom aksed me where I came from.",
+                        "He asked me where we had gone the previous summer.",
+                        "Betty asked if I liked my town.",
+                        "Tom asked if I had had a good time.",
+                        "He asked us how long we had been together.",
+                        "She asked me where my wife was.",
+                        "He asked me what time she would arrive at the airport.",
+                        "Sam asked me if I could speak Spanish."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Spytała nas, czy znamy jej męża.",
+                        "Zapytał, czy mu pomogę.",
+                        "Nie pamiętałem, kogo zaprosiłem na imprezę.",
+                        "Nie wiedział, jaki jest mój ulubiony kolor.",
+                        "Zapytaliśmy, czy możemy tu parkować."
+                    ],
+                    "answers": [
+                        "She asked us if we knew her husband.",
+                        "He asked if I would help him.",
+                        "I didn't remember who I had invited to the party.",
+                        "He didn't know what my favourite color was.",
+                        "We asked if we could park there."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Zastanów się, o co ostatnio pytali cię znajomi, rodzice czy przechodnie na ulicy. Podaj 5 takich pytań w mowie zależnej.",
+                    "answers": [
+                        "PRZYKŁADOWA ODPOWIEDŹ:\nMy brother asked me if I could lend him some money.\nAnna asked me where I had bought my shoes.\nThe dentist asked me why she hadn't seen me for so long.\nI asked my wife if she wanted to have more children."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "reported-orders",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz jak tworzymy tryb rozkazujący w mowie zależnej (sytuacja wygląda identycznie w przypadku sugestii, propozycji itp.)."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przekształć podane zdania na mowę zależną.",
+                    "content": [
+                        "Go to your room! Mum (tell / I) … .",
+                        "Turn the music down! Kate (ask / John) … .",
+                        "Don't be so rude! Mary (tell / son) … .",
+                        "Don't be late! Mum (remind / I) … .",
+                        "Open the door! Mum (ask / I) … .",
+                        "Don't go there! She (tell / I) … ."
+                    ],
+                    "answers": [
+                        "Mum told me to go to my room.",
+                        "Kate asked John to turn the music down.",
+                        "Mury told her son not to be so rude.",
+                        "Mum reminded me not to be late.",
+                        "Mum asked me to open the door.",
+                        "She told me not to go there."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Poprosiła mnie, żebym został wieczorem.",
+                        "Poprosiłam Toma, aby pomógł mi przy pracy domowej z fizyki.",
+                        "Kazała mi o nim zapomnieć.",
+                        "Mama kazała mi posprzątać pokój i zrobić zakupy.",
+                        "Nauczyciel kazał mi zostać po szkole."
+                    ],
+                    "answers": [
+                        "She asked me to stay that night.",
+                        "I aksed Tom to help me with my Physics homework.",
+                        "She told me to forget about him.",
+                        "Mum told me to clean my room and do the shopping.",
+                        "The teacher told me to stay after school."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "reporting-verbs",
+            "exercises": [
+                {
+                    "source":"Password 3 (macmillan); ex. 1/47 from workbook",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "The police officer insisted (to see / on seeing) our documents. ",
+                        "Mary apologised (to / for) arriving late for the class.",
+                        "They warned me (not to go / from going) to the forest in the evening.",
+                        "Bill was obviously bored to death, so he suggested (to go / going) out.",
+                        "She explained (to me / me) that she was busy for the moment.",
+                        "The employer promised (that he would prepare / on preparing) all the details of the contract. ",
+                        "Mark offered (me to help / to help me) with the project on UNICEF.",
+                        "The man denied (being / to be) a member of the gang.",
+                        "The teacher encouraged his students (reading / to read) lots of authentic materials in English.",
+                        "She refused (to take / taking) any money from the strangers. "
+                    ],
+                    "answers": [
+                        "on seeing",
+                        "for",
+                        "not to go",
+                        "going",
+                        "to me",
+                        "that he would prepare",
+                        "to help me",
+                        "being",
+                        "to read",
+                        "to take"
+                    ]
+                },
+                {
+                    "source":"Password 3 (macmillan); ex. 3/48 from workbook",
+                    "task": "Uzupełnij zdania właściwą formą wyrazów podanych w nawiasach.",
+                    "content": [
+                        "As Steven isn't a good public speaker, he ... (object / make) a speech during the end-of-year ceremony.",
+                        "When Tom suggested joining a political party, I ... (refuse / take) his idea into consideration.",
+                        "They ... (advise / I / not make) any donations to that organisation.",
+                        "Last week Elsa ... (promise / not call) me after 10.00 p.m., but she broke her promise yesterday.",
+                        "In the headmaster's office, Henry ... (deny / be) responsible for the silly joke.",
+                        "After the exam results arrived, Karen ... (boast / she / score) the best mark in the school.",
+                        "Although Drake was upset after the game he ... (congratulate / his opponent / win) the tournament.",
+                        "At the last meeting, Paul ... (assure / we / he / consider) our proposal. "
+                    ],
+                    "answers": [
+                        "objected to making",
+                        "refused to take",
+                        "advised me not to make",
+                        "promised not to call",
+                        "denied being",
+                        "boasted that she had scored",
+                        "congratulated his opponent on winning",
+                        "assured us that he would consider"
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "summary",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 1/46 from workbook",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "When I asked for advice, Sara said (that) she (had / had had) no time to help me.",
+                        "The man promised (that) he would regularly (give / gave) money to charity.",
+                        "Ellen wanted to know if I (had / could) speak a foreign language fluently.",
+                        "The journalist asked what (were we going / we were going) to do with the money we had raised.",
+                        "After I came back from holiday, Jackson asked me who I (went / had gone) to Barcelona with.",
+                        "I believed that the only thing that (may / might) have made people more tolerant (is / was) a well-organised campaign.",
+                        "The expert stressed that inflation (was still increasing / had increased) at the time.",
+                        "I (told / said) Kevin that I couldn't meet him, because I was waiting for an important phone call (before / then).",
+                        "Helen asked me (if I enjoyed / did I enjoy) organising money-raising events.",
+                        "To everyone's amazement, Mary (announced / has announced) that she had got married (the next day / the day before)."
+                    ],
+                    "answers": [
+                        "had",
+                        "give",
+                        "could",
+                        "we were going",
+                        "had gone",
+                        "might, was",
+                        "was still increasing",
+                        "told, then",
+                        "if I enjoyed",
+                        "announced, the day before"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 5/58 from student's book",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "Mary said that she ... (wait) for nearly an hour before the lecture started.",
+                        "Kelly asked us what we ... (plan) to do that evening and if she ... (could) join us.",
+                        "Janet told me that I ... (must) join the International Club because it ... (be) such a great experience for her.",
+                        "Tomas asked Marissa whether she ... (get used to) the weather in the UK, and she said that she still ... (cannot) stay warm in winter.",
+                        "Marion said that she ... (not be able) to help with the fundraiser, and asked if we ... (go) in her place.",
+                        "An audience member asked the lecturer if she ... (enjoy) her visit to the college. The lecturer explained that she ... (be) a student there 20 years before and it ... (be) a wonderful experience to return.",
+                        "Paul said that he ... (would never reveal) a secret, and added that he ... (never break) a promise before in his life.",
+                        "Tony asked me what I ... (do) all morning, and I explained that I ... (read) about volunteer programmes abroad. "
+                    ],
+                    "answers": [
+                        "had been waiting",
+                        "were planning, could",
+                        "had to, had been",
+                        "had got used to, couldn't",
+                        "wasn't able/wouldn't be able, would/could go",
+                        "had enjoyed/was enjoying, had been, had been/was",
+                        "would never reveal, had never broken",
+                        "had been doing, had been reading"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 2/46 from workbook",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "Gina told me that the parcel ... (arrive / day / before).",
+                        "Mr and Mrs Jones reported that ... (they / eat dinner) when the eartquake took place.",
+                        "John asked me ... (can / call / he / next day).",
+                        "Dad wanted to know how long ... (I / think) about joining the army.",
+                        "Diana made it clear that she ... (not understand / why / people / be) against globalisation.",
+                        "Fred asked me ... (I / see / his wallet) anywhere.",
+                        "The local authorities hoped that economic growth ... (reduce / employ) and improve the quality of of life.",
+                        "Lucy called me to ask ... (can / come to the meeting / next day)."
+                    ],
+                    "answers": [
+                        "had arrived the day before",
+                        "they had been eatinng dinner",
+                        "if I could call him the next day",
+                        "I had been thinking",
+                        "didn't understand why people were",
+                        "if I had seen his wallet",
+                        "would reduce unemployment",
+                        "if I could come to the meeting the next day"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przekształć zdania na mowę zależną.",
+                    "content": [
+                        "'I'm going to propose to Jane tomorrow.' --> Steve told me …",
+                        "'I started working for this company two years ago.' --> Sally said …",
+                        "'Where were you last night?' --> Mum asked me …",
+                        "'Do you like Chinese food?' --> Tim asked us …",
+                        "'Go to your room!' --> Mum told me …",
+                        "'Can you help me move things to my new flat?' --> Sally asked if …"
+                    ],
+                    "answers": [
+                        "Steve told me he was going to propose to Jane the next day.",
+                        "Sally said she had started working for this company two years before.",
+                        "Mum asked me where I had been the night before.",
+                        "Tim asked us if we liked Chinese food.",
+                        "Mum told me to go to my room.",
+                        "Sally asked if I could help her move things to her new flat."
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 23/47 from workbook",
+                    "task": "Przekształć zdania na mowę zależną.",
+                    "content": [
+                        "'I've been doing voluntary work for a year so far.' Frank told us ... .",
+                        "'The minister might not be willing to talk to us.' We feared ... .",
+                        "'We must finish the report today.' We all agreed that ... .",
+                        "'Who are you going to vote for tomorrow?' My friend asked me ... .",
+                        "'What would you like to write about?' Bob asked me ... .",
+                        "'You should do more research for your project.' The teacher told us ... .",
+                        "'We have never broken any of the safety rules.' The rescuers declared that ... .",
+                        "'Did you watch the news last night?' She asked me ... .",
+                        "'We can't solve this problem on our own.' The students said ... .",
+                        "'The men were looking for the document they had lost.' The detective thought that ... .",
+                        "'I couldn't concentrate in such a noise.' He complained that ... .",
+                        "'I had finished reading the book yesterday.' She said that ... ."
+                    ],
+                    "answers": [
+                        "(that) he had been doing voluntary work for a year so far.",
+                        "(that) the minister might not be willing to talk to us.",
+                        "we had to finish the report that day.",
+                        "who I was going to vote for the following day.",
+                        "what I would like to write about.",
+                        "(that) we should do more research for our project.",
+                        "they had never broken any of the safety rules.",
+                        "if I had watched the news the previous night / the night before.",
+                        "(that) they couldn't solve the problem on their own.",
+                        "the men had been looking for the document they had lost.",
+                        "he couldn't concentrate in such a noise.",
+                        "she had finished reading the book the day before."
+                    ]
+                }
+            ]
+        }
+    ]
+}

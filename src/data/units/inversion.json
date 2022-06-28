@@ -1,0 +1,95 @@
+{
+    "unit": "inversion",
+    "subsections": [
+        {
+            "subsectionName": "inversion",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym jest inwersja stylistyczna oraz kiedy jej używamy."
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 1/97 from workbook",
+                    "task": "Uzupełnij zdania jednym z podanych słów: little, so, hardly, such, never, only, no sooner, not.",
+                    "content": [
+                        "... by studying hard can you achieve high scores in a test!",
+                        "... only was he late, but he was also unprepared for the lesson.",
+                        "... was the heat that we spent the whole day by the swimming pool.",
+                        "... have I been so insulted in my entire life!",
+                        "... did we realise what was going to happen just a moment later.",
+                        "... funny did he look that we couldn't help laughing at him.",
+                        "... had we entered the hall than the phone rang.",
+                        "... had I started reading the book when my brother told me how it would end."
+                    ],
+                    "answers": [
+                        "only",
+                        "not",
+                        "such",
+                        "never",
+                        "little",
+                        "so",
+                        "no sooner",
+                        "hardly"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 2/97 from workbook",
+                    "task": "Uzupełnij zdania właściwą formą wyrazów podanych w nawiasach.",
+                    "content": [
+                        "It was a crazy day yesterday. Hardly ... (we / enter) the school when the fire drill ... (start).",
+                        "Only by using the Internet ... (you / be / able) to access unlimited resources from all over the world.",
+                        "I can't believe he was so rude to us. Not only ... (he / make) us wait for over half an hour but ... (he also / not want) to listen to us!",
+                        "This is a great crime story, indeed! Never before ... (I / have) so much fun reading about detectives!",
+                        "Rarely ... (writers / publish) three bestsellers in a row.",
+                        "Not until ... (the police / phone) us ... (we / find) out that he'd been kidnapped.",
+                        "They must have been watching her house. No sooner ... (she / leave) home than ... (they / try) to break in.",
+                        "Only after reading the first chapter ... (I / realise) that I had read the novel before.",
+                        "So scary ... (the novel / be) that I couldn't fall asleep after reading it.",
+                        "his love story is truly unique. In fact, rarely ... (a romance / make) such a difference to the way I feel. "
+                    ],
+                    "answers": [
+                        "had we entered, started",
+                        "are you able",
+                        "did he make, he also didn't want",
+                        "have I had",
+                        "do writers publish",
+                        "the police phoned, did we find",
+                        "had she left, they tried",
+                        "did I realise",
+                        "was the novel",
+                        "does a romance make"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 3/98 from workbook",
+                    "task": "Przepisz zdania zaczynając od podanych słów.",
+                    "content": [
+                        "He is a good journalist and he also writes beautiful poetry.\nNot only ... .",
+                        "We didn't know much about his personal problems.\nLittle ... .",
+                        "It's the most foolish story I've ever heard!\nNever ... .",
+                        "As soon as I lay down on the sofa there was a knock on the door.\nNo sooner ... .",
+                        "The moment I started the second chapter, it came to my mind who the killer was.\nBarely ... .",
+                        "It was such a difficult problem that no one could solve it.\nSuch ... .",
+                        "He seldom sees his family.\nSeldom ... .",
+                        "Until you get to know him better, you won't understand him.\nOnly after ... .",
+                        "Immediately after everyone had left the building, the bomb went off.\nHardly ... .",
+                        "The water was so cold that no one went for a swim.\nSo ... ."
+
+                    ],
+                    "answers": [
+                        "Not only is he a good journalist, but he also writes beautiful poetry.",
+                        "Little did we know about his personal problems.",
+                        "Never have I heard a more foolish story.",
+                        "No sooner had I lain down on the sofa than there was a knock on the door. ",
+                        "Barely had I started the second chapter when it came to my mind who the killer was.",
+                        "Such a difficult problem was it that no one could solve it.",
+                        "Seldom does he see his family.",
+                        "Only after you get to know him better will you understand him.",
+                        "Hardly had everyone left the building when the bomb went off.",
+                        "So cold was the water that no one went for a swim. "
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "unit": "unreal-past",
+    "subsections": [
+        {
+            "subsectionName": "i-wish-and-if-only",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 5/111 from student's book",
+                    "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
+                    "content": [
+                        "If only ... (nie kupiła) this car. It's giving me lots of trouble.",
+                        "Pam wishes the teachers ... (nie zadawali) her so much homework.",
+                        "If only I ... (mógł studiować) in London. I would hace so many cool experiences!",
+                        "Do you sometimes wish ... (żeby być) a completely different person?",
+                        "Peter wishes he ... (urodził się) very rich. He wouldn't have to look for a job."
+                    ],
+                    "answers": [
+                        "hadn't bought",
+                        "would not give",
+                        "could study",
+                        "you were",
+                        "had been born"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 1/88 from workbook",
+                    "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
+                    "content": [
+                        "If only you ... (tell) me about your problems earlier!",
+                        "I really wish my boyfriend ... (not spend) so much time watching sports on TV! It's driving me mad! ",
+                        "Do you sometimes wish you ... (be) a different person?",
+                        "The party was a disaster and now I wish I ... (not go) there at all.",
+                        "If only I  ... (have) more spare time for my hobbies!",
+                        "Tom says he feels lonely in London and that he sometimes wishes he ... (never / leave) his hometown. "
+                    ],
+                    "answers": [
+                        "had told",
+                        "wouldn't spend",
+                        "were",
+                        "hadn't gone",
+                        "had",
+                        "had never left"
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "summary",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 2/88 from workbook",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "I (wish / would rather) my dad would spend more time at home.",
+                        "I (would / had) sooner you stayd at home and helped me clean.",
+                        "(It's time / If only) Mark had done all his assignments this semester.",
+                        "It's (as if / time) Mary pursued an advanced degree if she wants to be a teacher.",
+                        "(If only / I'd rather) I had attended a vocational school. I'd be a trained mechanic by now.",
+                        "Look at all these people. IT's (As though / about time) we were back at school again. Nobody has changed a bit!"
+                    ],
+                    "answers": [
+                        "wish",
+                        "would",
+                        "If only",
+                        "time",
+                        "If only",
+                        "as though"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 6/111 from student's book",
+                    "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "If only I ... (not forget) to study physics last night! I'm afraid I did horribly on the quiz.",
+                        "It's high time you ... (start) taking your lessons seriously or you'll never get into a good university.",
+                        "I would rather you ... (help) me with my homework after I've tried it myself. I want to see what I know.",
+                        "Supposing you ... (begin) studying French sooner, you'd speak it even better now!",
+                        "I wish you ... (enter) the science competition. I'm sure you would have won a prize.",
+                        "Imagine you ... (can see) what the future ... (hold).",
+                        "My parents would sooner I ... (pursue) my own interests instead of trying to fulfil their ambitions.",
+                        "Tim acts as if he ... (be) a famous scientist rather than a clever 14-year-old. "
+                    ],
+                    "answers": [
+                        "hadn't forgotten",
+                        "started",
+                        "helped",
+                        "had begun",
+                        "had entered",
+                        "could see, holds/held",
+                        "pursued",
+                        "were"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 4/88 from workbook",
+                    "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
+                    "content": [
+                        "What a shame she couldn't see our performance! ABLE\nI wish she ... see our performance.",
+                        "It is rather impolite of you to ask him such personal questions. ASK\nI'd ... him such personal questions!",
+                        "I should have followed my father's advice. ONLY\nIf ... my father's advice.",
+                        "You definitely need to start taking regular exercise. TIME\nIt's ... regular exercise.",
+                        "I really regret buying such an old car! NOT\nI wish ... such an old car!",
+                        "It's a pity I haven't got anything to read on the train. ONLY\n... something to read on the train!"
+                    ],
+                    "answers": [
+                        "had been able to",
+                        "rather you didn't ask",
+                        "only I had followed",
+                        "time you started taking",
+                        "hadn't bought",
+                        "If only I had"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 7/111 from student's book",
+                    "task": "Utwórz nowe zdania używając słów podanych w nawiasach.",
+                    "content": [
+                        "I would prefer for them to take the exam at a later date. (sooner)",
+                        "You've left it a long time to start keeping a journal! (high)",
+                        "He is so quick that it seems like he understands new ideas immediately. (though)",
+                        "Think about the possibility of getting into Harvard or Yale. It would be so exciting! (suppose)",
+                        "I'm really sorry I gave her the wrong homework assignment! (only)",
+                        "It would be better for you to spend more time studying. (rather)",
+                        "You waited a long time to take your piano playing seriously. (about)",
+                        "Think about the possibility of winning a lot of money! Would you spend it on your education? (imagine)"
+                    ],
+                    "answers": [
+                        "I would sooner they took the exam at a later time.",
+                        "It's high time you started keeping a journal.",
+                        "He is so quick as though he understands new ideas immediately.",
+                        "Suppose you got into Harvard or Yale. It would be so exciting.",
+                        "If only I hadn't given her the wrong homework assignment.",
+                        "I would rather you spent more time studying.",
+                        "It's about time you took your piano playing seriously.",
+                        "Imagine you won a lot of money. Would you spend it on your education?"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 6/88 from workbook",
+                    "task": "Przetłumacz poniższe zdania.",
+                    "content": [
+                        "Załuję, że nie mam wystarczająco dużo pieniędzy, żeby zapłacić czesne.",
+                        "Gdybym tylko nie byłą dla niej taka niemiła.",
+                        "Żałuję, że mam jutro test. Poszłabym z wami do kina.",
+                        "Powiedzmy, że musiałbyś jutro przystąpić do egzaminu z matematyki? Zdałbyś go?",
+                        "A co, gdybyś nie miała dostępu do Internetu przez kilka dni?",
+                        "Wolelibyśmy, żeby nauczyciele dawali nam mniej pracy domowej."
+                    ],
+                    "answers": [
+                        "I wish I had enough money to pay the tuition fees.",
+                        "If only I hadn't been so unkind to her.",
+                        "I wish I didn't have a test tomorrow. I'd go to the cinema with you. ",
+                        "Supposing you had to sit a maths exam tomorrow. Would you pass it?",
+                        "Suppose you had no internet access for a few days?",
+                        "We'd rather teachers gave us less homework. "
+                    ]
+                }
+            ]
+        }
+    ]
+}

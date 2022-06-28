@@ -1,0 +1,81 @@
+{
+    "unit": "conditionals",
+    "subsections": [
+        {
+            "subsectionName": "zero-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "zero-and-first-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "first-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "first-and-second-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "second-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "third-conditional",
+            "exercises": []
+        },
+        {
+            "subsectionName": "mixed-conditionals",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 6/110 from student's book",
+                    "task": "Utwórz mieszane zdania warunkowe opisujące poniższe sytuacje.",
+                    "content": [
+                        "Sam decided to go to a local university, so he's still living at home.",
+                        "Lily spent all her money on clothes, so she won't be able to go on the school trip.",
+                        "Carl has a lot of revision, so he didn't go to the party.",
+                        "Maria wants to be an opera singer, so she attended many of the opera company's performances.",
+                        "Julian's family is going to travel to the States next week, so he didn't sign up for summer classes.",
+                        "Sandy is very shy, so she didn't take part in the poetry competition last week.",
+                        "James spent his childhood in Spain, so he does very well in Spanish class.",
+                        "Deb didn't accept the place at Leeds University, so she won't be moving to the UK. "
+                    ],
+                    "answers": [
+                        "If Sam hadn't decided to go to a local university, he wouldn't still be living at home.",
+                        "If Lily hadn't spend all her money on clothes, she would be able to go on the school trip.",
+                        "If Carl didn't have so much revision, he would have gone to the party.",
+                        "If Maria didn't want to be an opera singer, she wouldn't have attended so many of the opera company's performances.",
+                        "If Julian's family wasn't/weren't going to travel to the States next wek, he would have signed up for summer classes.",
+                        "If Sandra wasn't/weren't shy, she would have taken part in the poetry competition last week.",
+                        "If James hadn't spend his childhood in Spain, he wouldn't do very well in Spanish class.",
+                        "If Deb had accepted the place at Leeds University, she would be moving to the UK."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "all-conditionals",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 7/110 from student's book",
+                    "task": "Utwórz zdania warunkowe używając wyrażeń podanych w nawiasach.",
+                    "content": [
+                        "You can go to the party, but you have to finish your homework first. (on condition that)",
+                        "They didn't go to the project meeting, so they didn't know about the changes. (otherwise)",
+                        "They arrived late because they hadn't been given the directions to the meeting place. (provided that)",
+                        "You must have read the book because you have so much to say about it now. (unless)",
+                        "Talking to the teacher might have got you an extension on your due date. (provided that) "
+                    ],
+                    "answers": [
+                        "You can go to the party on condition that you finish your homework first.",
+                        "They didn't go to the project meeting, otherwise they would have known about the changes.",
+                        "They would have arrived on time provided that they had been given the directions to the meeting place.",
+                        "Unless you had read the book, you wouldn't have so much to say about it now.",
+                        "You might have got an extension on your due date provided that you had talked to the teacher."
+                    ]
+                }
+            ]
+        }
+    ]
+}

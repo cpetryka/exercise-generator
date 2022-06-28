@@ -1,0 +1,301 @@
+{
+    "unit": "passive-voice",
+    "subsections": [
+        {
+            "subsectionName": "passive-voice",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz jak tworzymy stronę bierną oraz kiedy ją wykorzystujemy."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Zamień podane zdania na stronę bierną.",
+                    "content": [
+                        "Mum waters the flowers every day.",
+                        "John cooked dinner yesterday.",
+                        "Dad is painting the room.",
+                        "The postman will bring the letters.",
+                        "Mark has written some letters recently.",
+                        "David was writing letters.",
+                        "I will have finished my homework by dinner.",
+                        "They solved a problem.",
+                        "The cleaner cleans our office every two days.",
+                        "Someone is using my phone.",
+                        "Our clients can't exchange products.",
+                        "They don't serve meat here.",
+                        "They won't arrest you.",
+                        "When will they open the new shopping centre?",
+                        "Who wrote “Harry Potter”?"
+                    ],
+                    "answers": [
+                        "The flowers are watered by mum every day.",
+                        "Dinner was cooked by John yesterday. ",
+                        "The room is being painted by dad.",
+                        "The letters will be brought by the postman.",
+                        "Some letters have been written by Mark recently.",
+                        "Letters were being written by David.",
+                        "My homework will have been finished by dinner.",
+                        "A problem was solved by them.",
+                        "Our office is cleaned every two days (by the cleaner).",
+                        "My phone is being used.",
+                        "Products can't be exchanged.",
+                        "Meat isn't served here.",
+                        "You won't be arrested.",
+                        "When will the new shopping centre be opened?",
+                        "Who was “Harry Potter” written by?"
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 1/66 from workbook",
+                    "task": "Zamień podane zdania na stronę bierną.",
+                    "content": [
+                        "Nobody has used this old hairdryer for years.",
+                        "Hopefully, scientists will have invented a cure for AIDS by then.",
+                        "They are going to make the calculations using a special computer program.",
+                        "An ambulance may take her to hospital tomorrow.",
+                        "Why didn't they fix the roof?",
+                        "The teachers don't give us any rewards.",
+                        "Somebody had to open the gate using a spare key.",
+                        "Someone will take care of your dog.",
+                        "While they were painting the walls, I was relaxing in the garden.",
+                        "It's a good idea, but one person cannot carry it out in practice.",
+                        "Had anyone changed the date on the invitations before we sent them?",
+                        "Look! Someone has used my old camera to take this photograph."
+                    ],
+                    "answers": [
+                        "This old hairdryer hasn't been used for years.",
+                        "Hopefully, a cure for AIDS will have been invented by then.",
+                        "Calculations are going to be made using/with a special computer program.",
+                        "She may be taken to hospital by an ambulance tomorrow.",
+                        "Why wasn't the roof fixed?",
+                        "We aren't given any rewards./Any rewards are given to us.",
+                        "The gate had to be opened using/with a spare key.",
+                        "Your dog will be taken care of.",
+                        "While the walls were being painted, I was relaxing in the garden.",
+                        "Its a good idea, but one that cannot be carried out in practice by one person.",
+                        "Had the date on the invitations been changed before they were sent / we sent them?",
+                        "Look! This photograph has been taken with my old camera. "
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania wykorzystując stronę bierną.",
+                    "content": [
+                        "My car … (steal) last year and it hasn't been found yet.",
+                        "This flower should … (water) once a week.",
+                        "… (the results/announce) yesterday?",
+                        "Their house … (paint) two years ago but it's already dirty.",
+                        "English … (speak) in many countries.",
+                        "The details of the meeting … (discuss) at the moment.",
+                        "The winners of competition … (give) tablets and mp3 players.",
+                        "If it doesn't stop raining, the match … (cancel).",
+                        "Her new book … (publish) next month.",
+                        "My car … (repair) at 6 p.m. yesterday when Jonathan phoned me.",
+                        "Another book about the famous rock band … (write) recently.",
+                        "The book … (read) by me by next week."
+                    ],
+                    "answers": [
+                        "was stolen",
+                        "be watered",
+                        "Were the results announced",
+                        "was painted",
+                        "is spoken",
+                        "are being discussed",
+                        "will be given",
+                        "will be cancelled",
+                        "will be published",
+                        "was being repaired",
+                        "has been written",
+                        "will have been read"
+                    ]
+                },
+                {
+                    "source":"Password 3 (macmillan); ex. 3/66 from workbook",
+                    "task": "Uzupełnij zdania wykorzystując stronę czynną lub bierną.",
+                    "content": [
+                        "All exercises ... (must / do) by Tuesday.",
+                        "What is this smell? My mum ... (polish) the floors at the moment.",
+                        "If you don't watch your bag closely, it ... (might / steal).",
+                        "Where is my umbrella? Oh, no, I ... (must / lose) it on the way here.",
+                        "Last night, the local radio station ... (broadcast) a programme about the future of technology.",
+                        "The parcel ... (must / deliver) by now. I am sure she's got it.",
+                        "How often ... (you / give) presents to family members?",
+                        "If the device ... (not / plug) in, it will not work.",
+                        "When we arrived, the room ... (not clean)",
+                        "When ... (invitations / send)? The day after tomorrow at the latest, I hope."
+                    ],
+                    "answers": [
+                        "must be done",
+                        "is polishing",
+                        "might be stolen",
+                        "must have lost",
+                        "broadcast/was broadcasting",
+                        "must have been delivered",
+                        "do you give",
+                        "isn't plugged",
+                        "hadn't been cleaned",
+                        "will the invitations be sent"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Nowe kino jest (teraz) budowane w centrum.",
+                        "Oni już zostali zaproszeni.",
+                        "Nasza kuchnia nie wygląda dobrze. Powinna zostać wyremontowana.",
+                        "Kiedy została kupiona ta pralka?",
+                        "Ten budynek będzie remontowany, gdy przyjedzie król.",
+                        "Przekąski powinny być przyniesione na imprezę.",
+                        "Jego drzwi powinny być zamknięte na klucz.",
+                        "Kawa jest wysyłana z Brazylii.",
+                        "Decyzja nie została jeszcze podjęta.",
+                        "Moje meble zostaną dostarczone w przyszłym tygodniu.",
+                        "Jak robi się masło?",
+                        "Oni już zostali zaproszeni."
+                    ],
+                    "answers": [
+                        "A new cinema is being built in the centre.",
+                        "They've already been invited.",
+                        "Our kitchen doesn't look good. It should be renovated.",
+                        "When was this washing machine bought?",
+                        "This building will be being renovated when the king arrives.",
+                        "Snacks should/ought to be brought to the party.",
+                        "He's door should be locked.",
+                        "Coffee is sent from Brasil.",
+                        "A decision hasn't been made yet.",
+                        "My furniture will be delivered next week.",
+                        "How is butter made?",
+                        "They've already been invited."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wybierz konkretny przedmiot (np. komputer, telefon), a następnie powiedz, co można, a czego nie można zrobić z tym przedmiotem (wykorzystując stronę bierną).",
+                    "answers": [
+                        "PRZYKŁADOWA ODPOWIEDŹ:\na television ...can be watched/can't be eaten/can be bought in different sizes/should be turned off when you're not watching it."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Strona bierna jest często wykorzystywana do opisu różnych procesów. Wybierz jeden z procesów (sending an e-mail, preparing a meal, making a cup of coffee, doing online shopping, updating a system), a następnie omów kolejne etapy wykonywania tej czynności.",
+                    "answers": [
+                        "MOŻNA WYKOSZYSTAĆ NASTĘPUJĄCY SCHEMAT:\nFirst, …. Next, …. Then, …. After that, …. Finally, …."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wyobraź sobie, że pracujesz w biurze podróży i musisz opisać jedną z waszych ofertę podróży.",
+                    "answers": [
+                        "PRZYKŁADOWA ODPOWIEDŹ:\nOur package holiday is in Hawaii. You will be met at the airport by our representative and taken to your hotel. Your luggage will be taken to your room for you. You are invited to the welcome cocktails on the beach. All your meals are prepared with the finest ingredients and by the best chefs in the region …"
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "Personal and impersonal passive constructions",
+            "exercises": [
+                {
+                    "source": "Password 3 (macmillan); ex. 1/68 from workbook",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "Newspapers report that someone has stolen the Mona Lisa.",
+                        "They consider him the best IT specialist in the company.",
+                        "People say he invented many useful devices.",
+                        "They believed the Earth was flat.",
+                        "They expect she'll win tge race.",
+                        "People said she had supernatural powers.",
+                        "They say he is a hacker.",
+                        "Some people think tipping is insulting."
+                    ],
+                    "answers": [
+                        "The Mona Lisa is reported to have been stolen. / It is reported that the Mona Lisa has been stolen.",
+                        "He is considered to be the best IT specialist in the company. / It is considered that he is the best IT specialist in the company.",
+                        "He is said to have invented many useful devices / It is said that he invented many useful devices.",
+                        "The Earth was believed to be flat. / It was believed that the Earth was flat.",
+                        "It is expected that she'll win the race. / She is expected to win the race.",
+                        "It is said that she had supernatural powers. / She was said to have supernatural powers.",
+                        "He is said to be a hacker. / It is said that he is a hacker.",
+                        "Tipping is thought to be insulting. / It is thought that tipping is insulting. "
+                    ]
+                },
+                {
+                    "source": "Password 3 (macmillan); ex. 4/85 from student's book",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "People say that computers are already advanced enough to make their own decisions.",
+                        "Many people believe that living on other planets will be possible in less than 50 years.",
+                        "They assumed that she was the most innovative engineer in the company.",
+                        "People once hoped that time travel was possible.",
+                        "Experts say that high tech gadgets cost much more than they are actually worth.",
+                        "People think that depending on technological devices has made us less active.",
+                        "We believed that Bell was a great inventor.",
+                        "Do people believe that Einstein was the most intelligent person ever?"
+                    ], 
+                    "answers": [
+                        "Computer are said to be already advanced enough to make their own decisions.\nIt is said that computers are already advanced enough to make their own decisions.",
+                        "Living on other planets is believed to be possible in less than 50 years.\nIt is believed that living on other planets will be possible in less than 50 years.",
+                        "She was assumed to be the most innovative engineer in the company.\nIt was assumed that she was the most innovative engineer in the company.",
+                        "Time travel was once hoped to be possible.\nIt was once hoped that time travel was possible.",
+                        "High tech gadgets are said to cost much more than they are actually worth.\nIt is said that high tech gadgets cost much more than they are actually worth.",
+                        "Depending on technological devices is thought to have made us less active.\nIt is thought that depending on technological devices has made us less active.",
+                        "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
+                        "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "have-sth-done",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz kiedy używamy konstrukcji 'have something done'."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Podane w nawiasie wyrażenia zamień na konstrukcję have sth done.",
+                    "content": [
+                        "Mike and Tina … (organise their wedding) by a professional planner. They are talking to her right now.",
+                        "I'm getting hungry. Why don't we … (deliver pizza)?",
+                        "Chris is too busy to type his own emails, so he … (type them) by his assistant.",
+                        "Last year I … (bake my birthday cake) by Aunt Alice. This year I'm going to try and bake it myself.",
+                        "Grandma, I think you should … (test your eyes) again. These glasses aren't strong enough for you."
+                    ],
+                    "answers": [
+                        "are having their wedding organised",
+                        "have pizza delivered",
+                        "has them typed",
+                        "had my birthday cake baked",
+                        "have your eyes tested"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przekształć poniższe zdania, używając konstrukcji have sth done.",
+                    "content": [
+                        "I washed my car.",
+                        "I repaired my fridge.",
+                        "I delivered the furniture.",
+                        "Two men are painting their house now.",
+                        "A hairdresser has cut her hair.",
+                        "A mechanic is going to repair John's car.",
+                        "The shop has just delivered food to my house for me.",
+                        "Katy sometimes writes Carol's essays for her."
+                    ],
+                    "answers": [
+                        "I had my car washed.",
+                        "I had my fridge repaired.",
+                        "I had the furniture delivered.",
+                        "They are having their house painted.",
+                        "She has had her hair cut. ",
+                        "John is going to have his car repaired.",
+                        "I have just had food delivered to my house.",
+                        "Carol sometimes has his essays written (by Katy)."
+                    ]
+                }
+            ]
+        }
+    ]
+}

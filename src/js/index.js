@@ -5,7 +5,24 @@ import { saveAs } from 'file-saver';
 
 import '../css/style.scss';
 
-const data = require('./../data/data.json');
+// const data = require('./../data/data.json');
+
+const units = [
+    'tenses',
+    'passive-voice',
+    'reported-speech',
+    'conditionals',
+    'unreal-past',
+    'relative-clauses',
+    'verbs',
+    'inversion'
+];
+
+const data = [];
+
+for(const unit of units) {
+    data.push(require(`./../data/units/${unit}.json`));
+}
 
 // Array.from(document.querySelectorAll('.modal'))
 //     .forEach(modalNode => new Modal(modalNode));

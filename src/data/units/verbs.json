@@ -1,0 +1,178 @@
+{
+    "unit": "verbs",
+    "subsections": [
+        {
+            "subsectionName": "stative-and-dynamic-verbs",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Opisz cechy czasowników statycznych i dynamicznych, podaj kilka przykładów. Jeżeli nie wiesz czym są czasowniki statyczne i dynamiczne opisz różnicą między 'stanem', a 'czynnością'."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Ułóż po 5 zdań z wybranymi czasownikami statycznymi i dynamicznymi."
+                },
+                {
+                    "source": "Password 2 (macmillan); ex. 1/6 from workbook",
+                    "task": "Podziel podane czasowniki na statyczne i dynamiczne.",
+                    "content": [
+                        "need",
+                        "sleep",
+                        "understand",
+                        "want",
+                        "play",
+                        "agree",
+                        "believe",
+                        "dislike",
+                        "have",
+                        "read"
+                    ],
+                    "answers": [
+                        "Stative verbs: need, understand, want, agree, believe, dislike, have\nDynamic verbs: sleep, play, read"
+                    ]
+                },
+                {
+                    "source": "Password 2 (macmillan); ex. 7/6 from student's book",
+                    "task": "Uzupełnij pary zdań właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "I ... (have) fifteen pairs of shoes!\nI ... (have) a party tonight.",
+                        "I ... (see) the doctor soon about this terrible cold.\nI ... (see) what you mean.",
+                        "That meal ... (smell) really good.\nI ... (smell) the milk to check if it's OK to use!",
+                        "I ... (think) that's a beautiful dre.\nI ... (think) about going to the concert on Friday."
+                    ],
+                    "answers": [
+                        "have, am having",
+                        "am seeing, see",
+                        "smells, am smelling",
+                        "think, am thinking"
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "verb-patterns",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Ułóż 5 zdań z wykorzystaniem gerund, 5 zdań z wykorzystaniem to-infinitive oraz 2 zdania z wykorzystaniem bare infinitive."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "Susan loves … (ride) horses.",
+                        "They want … (climb) the highest mountain.",
+                        "We really enjoyed … (visit) the city last weekend.",
+                        "My brother hates … (go) for a walk.",
+                        "Helen decided … (go) out with Michel.",
+                        "Tom hopes … (leave) the sockroon soon.",
+                        "Micha lis thinking about … (cook) dinner.",
+                        "We decided … (spend) five days in Paris.",
+                        "Anna avoids … (drive) at night because she can't see very well.",
+                        "I think she should seriously consider … (change) her job.",
+                        "I would like … (visit) the Science Museum.",
+                        "I started … (learn) English five years ago in a primary school.",
+                        "Please could you … (send) me more informatyion about your experience.",
+                        "She promised … (take) me to the cinema."
+                    ],
+                    "answers": [
+                        "riding",
+                        "to climb",
+                        "visiting",
+                        "going",
+                        "to go",
+                        "to leave",
+                        "cooking",
+                        "to spend",
+                        "driving",
+                        "changing",
+                        "to visit",
+                        "learning",
+                        "send",
+                        "to take"
+                    ]
+                },
+                {
+                    "source": "Password 2 (macmillan); ex. 8/7 from student's book",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "We invited a few celebrities (taking / to take) part in our project.",
+                        "After what he had done, Tom avoided (to meet / meeting) Lena for a long time.",
+                        "I'll do it when I finish (to clean / cleaning) my room.",
+                        "At first, I didn't feel like (talking / to talk) to him at all, but then I changed my mind.",
+                        "Are you interested in (being / to be) in the school basketball team?",
+                        "I'd love (to come / coming) to the party, but I've got a previous arrangement.",
+                        "What would you do if you failed (to get / getting) into universiy?",
+                        "Their offer sounds great, but I'd still love (to have / having) a little time to think it over."
+                    ],
+                    "answers": [
+                        "to take",
+                        "meeting",
+                        "cleaning",
+                        "talking",
+                        "being",
+                        "to come",
+                        "to get",
+                        "to love"
+                    ]
+                },
+                {
+                    "source": "Password 2 (macmillan); ex. 3/8 from workbook",
+                    "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "I stopped ... (wear) this T-shirt a year ago.\nI stopped ... (answer) my phone and I missed my bus!",
+                        "Do you remember ... (go) to school for the first time?\nI must remember ... (check) my homework before I give it in.",
+                        "I forgot ... (take) un umbrella and I got very wet.\nI'll never forget ... (meet) Natasha at the party. She looked gorgeous."
+                    ],
+                    "answers": [
+                        "wearing, to answer",
+                        "going, check",
+                        "to take, meeting"
+                    ]
+                },
+                {
+                    "source": "Password 2 (macmillan); ex. 4/8 from workbook",
+                    "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa. Nie zmieniaj podanego słowa.",
+                    "content": [
+                        "I couldn't sleep because of the noise.\nThe noise ... . (PREVENTED)",
+                        "Karen invited me to her sister's wedding.\nKaren ... to her sister's wedding. (ASKED)",
+                        "What do you think about watching a horror film?\nDo ... a horror film? (LIKE)",
+                        "'Stay away from this place,' said Michael.\nMichael ... from that place. (WARNED)",
+                        "Would you like to eat out tonight?\nDo ... ? (FANCY)",
+                        "Lou asked me to give him my homework, but I said no.\nI ... . (REFUSED)",
+                        "Passing all the exams was difficult, but I did it.\nI ..., which was difficult. (MANAGED)",
+                        "Giving extra support to all our pupils is our goal.\nWe ... extra support to all our pupils. (AIM)"
+                    ],
+                    "answers": [
+                        "prevented me from sleeping",
+                        "asked me to come",
+                        "you like watching",
+                        "warned us to stay away",
+                        "you fancy eating out tonight",
+                        "refused to give Lou my homework",
+                        "managed to pass all the exams",
+                        "aim at giving"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Bieganie sprawia mi przyjemność, ale dzisiaj wolałbym pójść na siłownię.",
+                        "Rozważaliśmy nauczenie się tańczenia przed naszym ślubem.",
+                        "On zasugerował, aby przedyskutować to z menedżerem.",
+                        "Tęsknię za życiem w Barcelonie. Mam nadzieję, że kiedyś wrócę do Hiszpanii.",
+                        "Poszedłem na zakupy, aby kupić garnitur, ale trudno było zlaleźć fajny."
+                    ],
+                    "answers": [
+                        "I enjoy running/Running makes me happy, but today I would prefer to go to the gym.",
+                        "We were considering learning to dance before our wedding.",
+                        "He suggested discussing it with the manager.",
+                        "I miss living in Barcelona. I hope to go back to Spain one day.",
+                        "I went shopping to buy a suit, but it was difficult to find a nice one."
+                    ]
+                }
+            ]
+        }
+    ]
+}
