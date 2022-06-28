@@ -72,6 +72,7 @@
         },
         {
             "subsectionName": "present-simple-and-continuous",
+            "theory": "present-simple-and-continuous.png",
             "exercises": [
                 {
                     "source": "Own tasks",
@@ -308,6 +309,7 @@
         },
         {
             "subsectionName": "past-simple-and-continuous",
+            "theory": "past-simple-and-continuous.png",
             "exercises": [
                 {
                     "source": "Own tasks",

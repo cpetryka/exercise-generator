@@ -19,17 +19,19 @@ const units = [
     'inversion'
 ];
 
-const data = [];
+const createJsonObject = (units) => {
+    const data = [];
 
-for(const unit of units) {
-    data.push(require(`./../data/units/${unit}.json`));
+    for(const unit of units) {
+        data.push(require(`./../data/units/${unit}.json`));
+    }
+
+    return data;
 }
 
-// Array.from(document.querySelectorAll('.modal'))
-//     .forEach(modalNode => new Modal(modalNode));
+const data = createJsonObject(units);
 
-
-/**************************** SINLGE EXERCISES ****************************/
+/**************************** SINLGE EXERCISE ****************************/
 const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }
@@ -135,6 +137,18 @@ const generateContent = (data) => {
             
             let accordionBody = document.createElement('div');
             accordionBody.setAttribute('class', 'accordion-body');
+
+            if(data[i]["subsections"][j]["theory"]) {
+                let theory = document.createElement('h4');
+                theory.setAttribute('class', 'exercise-heading');
+
+                let span = document.createElement('span');
+                span.setAttribute('class', 'exercise-number');
+                span.innerText = `Theory`;
+                theory.appendChild(span);
+
+                accordionBody.appendChild(theory);
+            }
 
             for(let k = 0; k < data[i]["subsections"][j]["exercises"].length; ++k) {
                 accordionBody.appendChild(generateExercise(k + 1, data[i]["subsections"][j]["exercises"][k], generateExercisesId(data[i]["unit"], data[i]["subsections"][j]["subsectionName"], k + 1)));
