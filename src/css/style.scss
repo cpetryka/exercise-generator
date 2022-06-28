@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 @import '../../node_modules/@fortawesome/fontawesome-free/css/all.css';
 @import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-weight: bold !important;
+    font-weight: 600;
 }
 
 .separator {
@@ -143,6 +143,7 @@ main {
     .unit-heading {
         margin-top: 20px;
         margin-bottom: 0;
+        font-weight: bold !important;
 
         &:first-child {
             margin-top: 0;
@@ -183,6 +184,10 @@ main {
         .btn-primary:focus {
             box-shadow: none !important;
         }
+    }
+
+    .dropdown-menu {
+        cursor: pointer;
     }
 }
 
