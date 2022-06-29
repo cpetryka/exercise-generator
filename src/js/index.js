@@ -208,6 +208,19 @@ const subsectionsMaps = createSubsectionsMaps(data);
 let exerciseIds = [];
 let features = new Map();
 
+let arr = [];
+
+/**
+ * {
+ *      "type": "exercise",
+ *      "id":   "..."
+ * },
+ * {
+ *      "type": "image",
+ *      "id":   "..."
+ * },
+ */
+
 const findExercise = (data, id) => {
     const unit = id.slice(0, id.indexOf('_'));
     const subsection = id.slice(id.indexOf('_') + 1, id.lastIndexOf('_'));
