@@ -84,7 +84,8 @@ main {
     padding: 10px;
     scrollbar-width: none;
 
-    .exercise-heading {
+    .exercise-heading,
+    .theory-presentation-heading {
         margin: 0;
         margin-top: 14px;
 
@@ -201,6 +202,10 @@ main {
 
     .dropdown-menu {
         cursor: pointer;
+    }
+
+    .theory-presentation-img {
+        margin-top: 15px;
     }
 }
 

@@ -140,7 +140,7 @@ const generateContent = (data) => {
 
             if(data[i]["subsections"][j]["theory"]) {
                 let theory = document.createElement('h4');
-                theory.setAttribute('class', 'exercise-heading');
+                theory.setAttribute('class', 'theory-presentation-heading');
 
                 let span = document.createElement('span');
                 span.setAttribute('class', 'exercise-number');
@@ -148,7 +148,11 @@ const generateContent = (data) => {
                 theory.appendChild(span);
 
                 theory.addEventListener('click', () => {
-                    console.log('xxx');
+                    chosenSet.push({
+                        type: 'image',
+                        src: `${data[i]["subsections"][j]["theory"]}`
+                    });
+                    refreshGeneratedSet();
                 })
 
                 accordionBody.appendChild(theory);
@@ -248,18 +252,19 @@ const generateSet = (arr) => {
             fragment.appendChild(temp);
         }
         else if(arr[i].type === 'image') {
-
+            temp = document.createElement('img');
+            temp.setAttribute('src', `assets/images/${arr[i].src}`);
+            temp.setAttribute('alt', 'Theory presentation');
+            temp.setAttribute('class', 'img-fluid theory-presentation-img');
         }
         else if(arr[i].type === 'heading') {
             temp = document.createElement('h2');
             temp.setAttribute('class', 'additional-heading')
             temp.innerText = arr[i].content;
-            fragment.appendChild(temp);
         }
         else { // when arr[i].type === 'separator'
             temp = document.createElement('div');
             temp.setAttribute('class', 'separator');
-            
         }
 
         temp.addEventListener('dblclick', () => {
@@ -317,7 +322,7 @@ function printIt(title) {
     }
 
     myframe.contentDocument.write(this.innerHTML);
-    myframe.contentDocument.write('<style>@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");body{font-size:13.5px;font-family:"Barlow",sans-serif}*,::after,::before{box-sizing:border-box}h1{text-align:center}.separator{margin-top:18px;border-bottom:1px dashed rgba(0, 0, 0, 0.8);text-align:center;font-weight:bold;font-size:18px;}.additional-heading{font-weight: 700;font-size:28px;text-decoration:underline;margin-top: 12px;margin-bottom: 0;cursor: pointer;} .additional-heading + .exercise > .exercise-heading {margin-top: 4px;}.exercise-heading{margin:0;margin-top:12px;font-size:24px;font-weight:600}.exercise-heading span{cursor:pointer}p{padding:0;margin:0}ol{margin:0;margin-top:5px;counter-reset:list}ol li{list-style:none;position:relative}ol li::before{content:counter(list) ")";counter-increment:list;left:-40px;padding-right:10px;position:absolute;text-align:right;width:40px}</style>');
+    myframe.contentDocument.write('<style>@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");body{font-size:13.5px;font-family:"Barlow",sans-serif}*,::after,::before{box-sizing:border-box}h1{text-align:center}img{max-width:100%;margin-top:20px}.separator{margin-top:18px;border-bottom:1px dashed rgba(0, 0, 0, 0.8);text-align:center;font-weight:bold;font-size:18px;}.additional-heading{font-weight: 700;font-size:28px;text-decoration:underline;margin-top: 12px;margin-bottom: 0;cursor: pointer;} .additional-heading + .exercise > .exercise-heading {margin-top: 4px;}.exercise-heading{margin:0;margin-top:12px;font-size:24px;font-weight:600}.exercise-heading span{cursor:pointer}p{padding:0;margin:0}ol{margin:0;margin-top:5px;counter-reset:list}ol li{list-style:none;position:relative}ol li::before{content:counter(list) ")";counter-increment:list;left:-40px;padding-right:10px;position:absolute;text-align:right;width:40px}</style>');
 
     setTimeout(function () {
         myframe.focus();
