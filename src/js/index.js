@@ -217,8 +217,15 @@ let arr = [];
  * },
  * {
  *      "type": "image",
- *      "id":   "..."
+ *      "src":   "..."
  * },
+ * {
+ *      "type": "separator"
+ * },
+ * {
+ *      "type": "heading",
+ *      "contnet":   "..."
+ * }
  */
 
 const findExercise = (data, id) => {
