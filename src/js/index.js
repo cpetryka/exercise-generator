@@ -205,28 +205,7 @@ const unitsMap = createUnitsMap(data);
 const subsectionsMaps = createSubsectionsMaps(data);
 
 /**************************** ADDING EXERCISES TO THE SET ****************************/
-let exerciseIds = [];
-let features = new Map();
-
-let arr = [];
-
-/**
- * {
- *      "type": "exercise",
- *      "id":   "..."
- * },
- * {
- *      "type": "image",
- *      "src":   "..."
- * },
- * {
- *      "type": "separator"
- * },
- * {
- *      "type": "heading",
- *      "contnet":   "..."
- * }
- */
+let chosenSet = [];
 
 const findExercise = (data, id) => {
     const unit = id.slice(0, id.indexOf('_'));
@@ -251,51 +230,44 @@ const refreshGeneratedSet = () => {
 
     // https://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript
     
-    if(exerciseIds.length > 0) {
-        gs.appendChild(generateSet(exerciseIds));
+    if(chosenSet.length > 0) {
+        gs.appendChild(generateSet(chosenSet));
         gs.appendChild(generateButtons());
     }
 }
 
-const removeExerciseFromGeneratedSet = (arr, id) => {
-    arr.splice(arr.indexOf(id), 1);
-
-    refreshGeneratedSet();
-}
-
-const generateSet = (gs) => {
+const generateSet = (arr) => {
     const fragment = document.createDocumentFragment();
+    let counter = 1;
 
-    for(let i = 0; i < gs.length; ++i) {
-        const temp = convertIdToExercise(data, i + 1, gs[i]);
-        temp.children[0].firstChild.addEventListener('dblclick', () => {
-            const id = temp.getAttribute('id');
-            removeExerciseFromGeneratedSet(gs, id);
+    for(let i = 0; i < arr.length; ++i) {
+        let temp;
+
+        if(arr[i].type === 'exercise') {
+            temp = convertIdToExercise(data, counter++, arr[i].id);
+            fragment.appendChild(temp);
+        }
+        else if(arr[i].type === 'image') {
+
+        }
+        else if(arr[i].type === 'heading') {
+            temp = document.createElement('h2');
+            temp.setAttribute('class', 'additional-heading')
+            temp.innerText = arr[i].content;
+            fragment.appendChild(temp);
+        }
+        else { // when arr[i].type === 'separator'
+            temp = document.createElement('div');
+            temp.setAttribute('class', 'separator');
+            
+        }
+
+        temp.addEventListener('dblclick', () => {
+            chosenSet.splice(i, 1);
+            refreshGeneratedSet();
         });
 
         fragment.appendChild(temp);
-
-        if(features.has(i)) {
-            if(features.get(i) === '-') {
-                const separator = document.createElement('div');
-                separator.setAttribute('class', 'separator');
-                separator.addEventListener('dblclick', () => {
-                    features.delete(i);
-                    refreshGeneratedSet();
-                });
-                fragment.appendChild(separator);
-            }
-            else {
-                const heading = document.createElement('h2');
-                heading.setAttribute('class', 'additional-heading')
-                heading.innerText = features.get(i);
-                heading.addEventListener('dblclick', () => {
-                    features.delete(i);
-                    refreshGeneratedSet();
-                });
-                fragment.appendChild(heading);
-            }
-        }
     }
 
     return fragment;
@@ -305,31 +277,27 @@ const temp = document.querySelectorAll('.exercise-heading span');
 temp.forEach(exercise => {
     exercise.addEventListener('click', () => {
         const id = exercise.parentElement.parentElement.getAttribute('id');
-        exerciseIds.push(id);
+
+        chosenSet.push({
+            type: "exercise",
+            id: id
+        });
+
+
         refreshGeneratedSet();
     });
 });
 
 /**************************** DELETING ALL CHOSEN EXERCISES ****************************/
 const deleteAllChosenExercises = () => {
-    exerciseIds = [];
-    features.clear();
+    chosenSet = [];
     refreshGeneratedSet();
 }
 
 /**************************** SAVING THE SET ****************************/
 
 const saveChosenExercises = () => {
-    // let str = exerciseIds.join(';') + '|' + utils.convertMapToString(features);
-    // let blob = new Blob([str], { type: "text/plain;charset=utf-8" });
-    // saveAs(blob, "chosen-exercises.txt");
-
-    const jsonObj = {
-        exerciseIds: [...exerciseIds],
-        features: [...utils.convertMapToObjectsArray(features)]
-    }
-
-    const str = JSON.stringify(jsonObj, null, 4);
+    const str = JSON.stringify(chosenSet, null, 4);
     let blob = new Blob([str], {type: "text/plain"});
     saveAs(blob, "chosen-exercises.json");
 }
@@ -400,11 +368,13 @@ const generateAnswers = () => {
     const temp = document.createElement('div');
     temp.setAttribute('id', "answers");
 
-    for(let id of exerciseIds) {
-        const exercise = findExercise(data, id);
+    for(let obj of chosenSet) {
+        if(obj.type === 'exercise') {
+            const exercise = findExercise(data, obj.id);
 
-        if(exercise.answers !== undefined) {
-            temp.appendChild(generateAnswer(exercise, exerciseIds.indexOf(id) + 1));
+            if(exercise.answers !== undefined) {
+                temp.appendChild(generateAnswer(exercise, 0));
+            }
         }
     }
 
@@ -413,7 +383,7 @@ const generateAnswers = () => {
 
 const generatePDF = () => {
     const temp = document.createElement('div');
-    temp.appendChild(generateSet(exerciseIds));
+    temp.appendChild(generateSet(chosenSet));
     
     temp.printIt(prompt('Enter the title: '));
 }
@@ -479,12 +449,18 @@ const generateButtons = () => {
     buttonsContainer.appendChild(dropdown);
 
     buttonsContainer.querySelector('#add-heading').addEventListener('click', () => {
-        features.set(exerciseIds.length - 1, prompt('Enter the heading: '));
+        const text = prompt('Enter the heading: ');
+
+        chosenSet.push({
+            type: "heading", 
+            content: text 
+        });
+
         refreshGeneratedSet();
     });
 
     buttonsContainer.querySelector('#add-separator').addEventListener('click', () => {
-        features.set(exerciseIds.length - 1, '-');
+        chosenSet.push({ type: "separator" });
         refreshGeneratedSet();
     });
 
@@ -514,14 +490,7 @@ submitFile.addEventListener('click', () => {
         reader.readAsBinaryString(file.files[0]);
 
         reader.onload = e => {
-            // const tempArr = e.target.result.split('|');
-            // exerciseIds = tempArr[0].split(';');
-            // features = utils.convertArrToMap(tempArr[1].split(';'));
-
-            const jsonObj = JSON.parse(e.target.result);
-            exerciseIds = jsonObj.exerciseIds;
-            features = utils.convertObjectsArrayToMap(jsonObj.features);
-
+            chosenSet = JSON.parse(e.target.result);
             refreshGeneratedSet();
         }
     }
