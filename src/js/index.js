@@ -144,8 +144,12 @@ const generateContent = (data) => {
 
                 let span = document.createElement('span');
                 span.setAttribute('class', 'exercise-number');
-                span.innerText = `Theory`;
+                span.innerText = `Theory presentation`;
                 theory.appendChild(span);
+
+                theory.addEventListener('click', () => {
+                    console.log('xxx');
+                })
 
                 accordionBody.appendChild(theory);
             }
