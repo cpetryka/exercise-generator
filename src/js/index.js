@@ -150,7 +150,7 @@ const generateContent = (data) => {
                 theory.addEventListener('click', () => {
                     chosenSet.push({
                         type: 'image',
-                        src: `${data[i]["subsections"][j]["theory"]}`
+                        src: `${data[i]['unit']}/${data[i]["subsections"][j]["theory"]}`
                     });
                     refreshGeneratedSet();
                 })
@@ -261,7 +261,7 @@ const generateSet = (arr) => {
         }
         else if(arr[i].type === 'image') {
             temp = document.createElement('img');
-            temp.setAttribute('src', `assets/images/${arr[i].src}`);
+            temp.setAttribute('src', `assets/${arr[i].src}`);
             temp.setAttribute('alt', 'Theory presentation');
             temp.setAttribute('class', 'img-fluid theory-presentation-img');
         }
