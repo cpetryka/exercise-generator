@@ -368,12 +368,18 @@ const generateAnswers = () => {
     const temp = document.createElement('div');
     temp.setAttribute('id', "answers");
 
+    const generatedSet = document.querySelector('#generated-set');
+
     for(let obj of chosenSet) {
         if(obj.type === 'exercise') {
             const exercise = findExercise(data, obj.id);
 
             if(exercise.answers !== undefined) {
-                temp.appendChild(generateAnswer(exercise, 0));
+
+                const exerciseHeading = generatedSet.querySelector(`#${obj.id}`).firstChild.firstChild.innerText;
+                const exerciseNumber = parseInt(exerciseHeading.slice(exerciseHeading.indexOf(' ')));
+
+                temp.appendChild(generateAnswer(exercise, exerciseNumber));
             }
         }
     }
