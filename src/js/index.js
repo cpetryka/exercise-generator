@@ -238,6 +238,14 @@ const refreshGeneratedSet = () => {
         gs.appendChild(generateSet(chosenSet));
         gs.appendChild(generateButtons());
     }
+    else {
+        const p = document.createElement('p');
+        p.setAttribute('class', 'initial-text');
+        p.innerText = 'This is the place for your exercises.';
+        gs.appendChild(p);
+
+        gs.appendChild(generateButtons());
+    }
 }
 
 const generateSet = (arr) => {
@@ -508,3 +516,9 @@ submitFile.addEventListener('click', () => {
 
     modal.hide();
 });
+
+const p = document.createElement('p');
+p.setAttribute('class', 'initial-text');
+p.innerText = 'This is the place for your exercises.';
+document.querySelector('#generated-set').appendChild(p);
+document.querySelector('#generated-set').appendChild(generateButtons());
