@@ -1225,6 +1225,7 @@
         },
         {
             "subsectionName": "all-present-tenses",
+            "theory": "all-present-tenses.png",
             "exercises": [
                 {
                     "source": "Own tasks",
@@ -1902,6 +1903,7 @@
         },
         {
             "subsectionName": "all-future-tenses",
+            "theory": "all-future-tenses.png",
             "exercises": [
                 {
                     "source": "Own tasks",
