@@ -266,7 +266,7 @@ const generateSet = (arr) => {
             temp.setAttribute('class', 'img-fluid theory-presentation-img');
         }
         else if(arr[i].type === 'heading') {
-            temp = document.createElement('h2');
+            temp = document.createElement('h3');
             temp.setAttribute('class', 'additional-heading')
             temp.innerText = arr[i].content;
         }
