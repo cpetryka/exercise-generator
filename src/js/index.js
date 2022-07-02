@@ -315,9 +315,11 @@ const deleteAllChosenExercises = () => {
 /**************************** SAVING THE SET ****************************/
 
 const saveChosenExercises = () => {
-    const str = JSON.stringify(chosenSet, null, 4);
-    let blob = new Blob([str], {type: "text/plain"});
-    saveAs(blob, "chosen-exercises.json");
+    if(chosenSet.length) {
+        const str = JSON.stringify(chosenSet, null, 4);
+        let blob = new Blob([str], {type: "text/plain"});
+        saveAs(blob, "chosen-exercises.json");
+    }
 }
 
 /**************************** GENERATING A PDF AND ANSWERS ****************************/
