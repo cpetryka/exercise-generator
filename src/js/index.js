@@ -226,26 +226,30 @@ const convertIdToExercise = (data, num, id) => {
 
 const refreshGeneratedSet = () => {
     const gs = document.querySelector('#generated-set');
+    const af = document.querySelector('#additional-features');
 
     if(gs.children.length !== 0) {
         while (gs.firstChild) {
             gs.removeChild(gs.lastChild);
         }
     }
-
-    // https://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript
     
     if(chosenSet.length > 0) {
+        const temp = af.querySelector('.initial-text');
+
+        if(temp) {
+            af.removeChild(temp);
+        }
+
         gs.appendChild(generateSet(chosenSet));
-        gs.appendChild(generateButtons());
     }
     else {
+        af.innerHTML = '';
         const p = document.createElement('p');
         p.setAttribute('class', 'initial-text');
         p.innerText = 'This is the place for your exercises.';
-        gs.appendChild(p);
-
-        gs.appendChild(generateButtons());
+        af.appendChild(p);
+        af.appendChild(generateButtons());
     }
 }
 
@@ -258,7 +262,6 @@ const generateSet = (arr) => {
 
         if(arr[i].type === 'exercise') {
             temp = convertIdToExercise(data, counter++, arr[i].id);
-            fragment.appendChild(temp);
         }
         else if(arr[i].type === 'image') {
             temp = document.createElement('img');
@@ -389,7 +392,7 @@ const generateAnswers = () => {
     const temp = document.createElement('div');
     temp.setAttribute('id', "answers");
 
-    const generatedSet = document.querySelector('#generated-set');
+    const generatedSet = document.querySelector('#generated-set-container');
 
     for(let obj of chosenSet) {
         if(obj.type === 'exercise') {
@@ -539,5 +542,11 @@ submitFile.addEventListener('click', () => {
 const p = document.createElement('p');
 p.setAttribute('class', 'initial-text');
 p.innerText = 'This is the place for your exercises.';
-document.querySelector('#generated-set').appendChild(p);
-document.querySelector('#generated-set').appendChild(generateButtons());
+document.querySelector('#additional-features').appendChild(p);
+document.querySelector('#additional-features').appendChild(generateButtons());
+
+var el = document.querySelector('#generated-set');
+new Sortable(el, {
+    animation: 150,
+    filter: '#buttons-container'
+});

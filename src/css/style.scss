@@ -83,7 +83,7 @@ main {
 }
 
 #exercises-presentation,
-#generated-set {
+#generated-set-container {
     height: calc(100vh - 90px) !important;
     overflow: auto;
     padding: 10px;
@@ -185,7 +185,7 @@ main {
     }
 }
 
-#generated-set {
+#generated-set-container {
     .exercise-heading {
         user-select: none;
     }
@@ -221,7 +221,7 @@ main {
     }
 }
 
-#generated-set, 
+#generated-set-container, 
 #answers {
     padding: 10px;
 
