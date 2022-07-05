@@ -138,6 +138,10 @@ main {
         margin-bottom: 0;
     }
 
+    .main-title + .separator {
+        height: 0;
+    }
+
     p {
         padding: 0;
         margin: 0;
