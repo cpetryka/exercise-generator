@@ -3,6 +3,7 @@ import { Modal } from 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
 import { saveAs } from 'file-saver';
 import * as utils from './utils.js';
+import Sortable from 'sortablejs';
 
 import '../css/style.scss';
 
