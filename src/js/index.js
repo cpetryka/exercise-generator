@@ -548,5 +548,11 @@ document.querySelector('#additional-features').appendChild(generateButtons());
 var el = document.querySelector('#generated-set');
 new Sortable(el, {
     animation: 150,
-    filter: '#buttons-container'
+    filter: '#buttons-container',
+    onEnd: function (/**Event*/evt) {
+        [chosenSet[evt.oldIndex], chosenSet[evt.newIndex]] = [chosenSet[evt.newIndex], chosenSet[evt.oldIndex]];
+        refreshGeneratedSet();
+	},
 });
+
+// https://github.com/SortableJS/Sortable
