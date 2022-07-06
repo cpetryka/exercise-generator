@@ -526,7 +526,7 @@ submitFile.addEventListener('click', () => {
     modal.hide();
 });
 
-const initializeTheWebsite = () => {
+const initializeWebsite = () => {
     document.querySelector('#exercises-presentation').appendChild(generateContent(data));
     document.querySelector('#buttons-container').appendChild(generateButtons());
     
@@ -540,4 +540,4 @@ const initializeTheWebsite = () => {
     });
 }
 
-initializeTheWebsite();
+initializeWebsite();
