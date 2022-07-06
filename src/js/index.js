@@ -527,9 +527,29 @@ submitFile.addEventListener('click', () => {
 });
 
 const initializeWebsite = () => {
+    // Generated content to #exercise-presentation
     document.querySelector('#exercises-presentation').appendChild(generateContent(data));
+
+    // The following code makes these exercises addable to #generated-set
+    const temp = document.querySelectorAll('.exercise-heading span');
+    temp.forEach(exercise => {
+        exercise.addEventListener('click', () => {
+            const id = exercise.parentElement.parentElement.getAttribute('id');
+
+            chosenSet.push({
+                type: "exercise",
+                id: id
+            });
+
+
+            refreshGeneratedSet();
+        });
+    });
+
+    // Adds buttons to the website
     document.querySelector('#buttons-container').appendChild(generateButtons());
     
+    // Makes chosen exercises sortable
     new Sortable(document.querySelector('#generated-set'), {
         animation: 150,
         filter: '.ignore-element',
