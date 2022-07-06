@@ -282,21 +282,6 @@ const generateSet = (arr) => {
     return fragment;
 }
 
-const temp = document.querySelectorAll('.exercise-heading span');
-temp.forEach(exercise => {
-    exercise.addEventListener('click', () => {
-        const id = exercise.parentElement.parentElement.getAttribute('id');
-
-        chosenSet.push({
-            type: "exercise",
-            id: id
-        });
-
-
-        refreshGeneratedSet();
-    });
-});
-
 /**************************** DELETING ALL CHOSEN EXERCISES ****************************/
 const deleteAllChosenExercises = () => {
     chosenSet = [];
@@ -526,6 +511,25 @@ submitFile.addEventListener('click', () => {
     modal.hide();
 });
 
+const changeElementPosition = (arr, oldIdx, newIdx, elem) => {
+    const temp = arr[oldIdx];
+
+    // Shift all the elements from the last index to pos by 1 position to right
+    for(let i = arr.length; i > newIdx; i--) {
+        arr[i] = arr[i-1];
+    }
+
+    // Insert element at the given position and remove from the previous position
+    if(newIdx > oldIdx) {
+        arr[newIdx + 1] = temp;
+        arr.splice(oldIdx, 1);
+    }
+    else {
+        arr[newIdx] = temp;
+        arr.splice(oldIdx + 1, 1);
+    }
+}
+
 const initializeWebsite = () => {
     // Generated content to #exercise-presentation
     document.querySelector('#exercises-presentation').appendChild(generateContent(data));
@@ -554,7 +558,7 @@ const initializeWebsite = () => {
         animation: 150,
         filter: '.ignore-element',
         onEnd: function (evt) {
-            [chosenSet[evt.oldIndex], chosenSet[evt.newIndex]] = [chosenSet[evt.newIndex], chosenSet[evt.oldIndex]];
+            changeElementPosition(chosenSet, evt.oldIndex, evt.newIndex);
             refreshGeneratedSet();
         },
     });
