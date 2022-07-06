@@ -29,3 +29,17 @@ export const convertObjectsArrayToMap = (objectsArray) => {
 
     return map;
 }
+
+const insertAtPosition = (arr, pos, elem) => {
+    if(pos < 0 || pos > arr.length) {
+        throw new Error("Incorrect position value.");
+    }
+
+    // Shift all the elements from the last index to pos by 1 position to right
+    for(let i = arr.length; i > pos; i--) {
+        arr[i] = arr[i-1];
+    }
+
+    // Insert element at the given position
+    arr[pos] = elem;
+}
