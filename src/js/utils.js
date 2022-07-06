@@ -29,26 +29,3 @@ export const convertObjectsArrayToMap = (objectsArray) => {
 
     return map;
 }
-
-// export const convertMapToString = (map) => {
-//     let txt = '';
-
-//     map.forEach((v, k) => {
-//         txt += `${k},${v};`;
-//     });
-
-//     txt = txt.slice(0, txt.length - 1);
-
-//     return txt;
-// }
-
-// export const convertArrToMap = (arr) => {
-//     let map = new Map();
-
-//     for(let el of arr) {
-//         const temp = el.split(',');
-//         map.set(parseInt(temp[0]), temp[1]);
-//     }
-
-//     return map;
-// }

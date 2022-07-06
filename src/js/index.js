@@ -3,11 +3,9 @@ import { Modal } from 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
 import { saveAs } from 'file-saver';
 import * as utils from './utils.js';
-import Sortable from 'sortablejs';
+import Sortable from 'sortablejs'; // https://github.com/SortableJS/Sortable
 
 import '../css/style.scss';
-
-// const data = require('./../data/data.json');
 
 const units = [
     'tenses',
@@ -549,10 +547,8 @@ var el = document.querySelector('#generated-set');
 new Sortable(el, {
     animation: 150,
     filter: '#buttons-container',
-    onEnd: function (/**Event*/evt) {
+    onEnd: function (evt) {
         [chosenSet[evt.oldIndex], chosenSet[evt.newIndex]] = [chosenSet[evt.newIndex], chosenSet[evt.oldIndex]];
         refreshGeneratedSet();
 	},
 });
-
-// https://github.com/SortableJS/Sortable
