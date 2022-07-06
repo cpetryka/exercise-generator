@@ -173,8 +173,6 @@ const generateContent = (data) => {
     return fragment;
 }
 
-document.querySelector('#exercises-presentation').appendChild(generateContent(data));
-
 /**************************** UNITS AND EXERCISES MAPS ****************************/
 const createUnitsMap = (data) => {
     const map = new Map();
@@ -224,7 +222,6 @@ const convertIdToExercise = (data, num, id) => {
 
 const refreshGeneratedSet = () => {
     const gs = document.querySelector('#generated-set');
-    const af = document.querySelector('#additional-features');
 
     if(gs.children.length !== 0) {
         while (gs.firstChild) {
@@ -233,21 +230,13 @@ const refreshGeneratedSet = () => {
     }
     
     if(chosenSet.length > 0) {
-        const temp = af.querySelector('.initial-text');
-
-        if(temp) {
-            af.removeChild(temp);
-        }
-
         gs.appendChild(generateSet(chosenSet));
     }
     else {
-        af.innerHTML = '';
         const p = document.createElement('p');
-        p.setAttribute('class', 'initial-text');
+        p.setAttribute('class', 'initial-text ignore-element');
         p.innerText = 'This is the place for your exercises.';
-        af.appendChild(p);
-        af.appendChild(generateButtons());
+        gs.appendChild(p);
     }
 }
 
@@ -466,17 +455,17 @@ const createDropdown = (style, id, text, arr) => {
 }
 
 const generateButtons = () => {
-    const buttonsContainer = document.createElement('div');
-    buttonsContainer.setAttribute('id', 'buttons-container');
+    const fragment = document.createDocumentFragment();
+    // fragment.setAttribute('id', 'buttons-container');
 
     // Deleting all exercises
-    buttonsContainer.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', deleteAllChosenExercises));
+    fragment.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', deleteAllChosenExercises));
 
     // Adding features to the set
     let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-title', 'add-heading', 'add-separator']);
-    buttonsContainer.appendChild(dropdown);
+    fragment.appendChild(dropdown);
 
-    buttonsContainer.querySelector('#add-title').addEventListener('click', () => {
+    fragment.querySelector('#add-title').addEventListener('click', () => {
         const text = prompt('Enter the title: ');
 
         chosenSet.push({
@@ -487,7 +476,7 @@ const generateButtons = () => {
         refreshGeneratedSet();
     });
 
-    buttonsContainer.querySelector('#add-heading').addEventListener('click', () => {
+    fragment.querySelector('#add-heading').addEventListener('click', () => {
         const text = prompt('Enter the heading: ');
 
         chosenSet.push({
@@ -498,21 +487,21 @@ const generateButtons = () => {
         refreshGeneratedSet();
     });
 
-    buttonsContainer.querySelector('#add-separator').addEventListener('click', () => {
+    fragment.querySelector('#add-separator').addEventListener('click', () => {
         chosenSet.push({ type: "separator" });
         refreshGeneratedSet();
     });
 
     // Saving chosen exercises
-    buttonsContainer.appendChild(createButton('primary', 'save-chosen-exercises', 'Save the set', saveChosenExercises));
+    fragment.appendChild(createButton('primary', 'save-chosen-exercises', 'Save the set', saveChosenExercises));
 
     // Generating a pdf
-    buttonsContainer.appendChild(createButton('primary', 'generate-pdf', 'Generate a pdf', generatePDF));
+    fragment.appendChild(createButton('primary', 'generate-pdf', 'Generate a pdf', generatePDF));
 
     // Generating answers
-    buttonsContainer.appendChild(createButton('primary', 'generate-answers', 'Generate answers', generateAnswersPDF));
+    fragment.appendChild(createButton('primary', 'generate-answers', 'Generate answers', generateAnswersPDF));
 
-    return buttonsContainer;
+    return fragment;
 }
 
 /**************************** UPLOADING A FILE ****************************/
@@ -537,18 +526,18 @@ submitFile.addEventListener('click', () => {
     modal.hide();
 });
 
-const p = document.createElement('p');
-p.setAttribute('class', 'initial-text');
-p.innerText = 'This is the place for your exercises.';
-document.querySelector('#additional-features').appendChild(p);
-document.querySelector('#additional-features').appendChild(generateButtons());
+const initializeTheWebsite = () => {
+    document.querySelector('#exercises-presentation').appendChild(generateContent(data));
+    document.querySelector('#buttons-container').appendChild(generateButtons());
+    
+    new Sortable(document.querySelector('#generated-set'), {
+        animation: 150,
+        filter: '.ignore-element',
+        onEnd: function (evt) {
+            [chosenSet[evt.oldIndex], chosenSet[evt.newIndex]] = [chosenSet[evt.newIndex], chosenSet[evt.oldIndex]];
+            refreshGeneratedSet();
+        },
+    });
+}
 
-var el = document.querySelector('#generated-set');
-new Sortable(el, {
-    animation: 150,
-    filter: '#buttons-container',
-    onEnd: function (evt) {
-        [chosenSet[evt.oldIndex], chosenSet[evt.newIndex]] = [chosenSet[evt.newIndex], chosenSet[evt.oldIndex]];
-        refreshGeneratedSet();
-	},
-});
+initializeTheWebsite();
