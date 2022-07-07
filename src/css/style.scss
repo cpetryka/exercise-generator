@@ -114,7 +114,10 @@ main {
         
     }
 
-    .exercise:first-child .exercise-heading {
+
+
+    .exercise:first-child .exercise-heading, 
+    .theory-presentation-heading:first-child {
         margin-top: 0;
     }
 

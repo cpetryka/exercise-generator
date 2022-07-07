@@ -1,37 +1,7 @@
-export const convertStringToTitle = str => {
-    str = str.replace(/-/g, ' ');
-    str = str.charAt(0).toUpperCase() + str.slice(1);
-
-    return str;
-}
-
-export const convertMapToObjectsArray = (map) => {
-    const arr = [];
-
-    for(let [key, value] of map) {
-        const temp = {
-            "key": key, 
-            "value": value
-        };
-
-        arr.push(temp);
-    }
-
-    return arr;
-}
-
-export const convertObjectsArrayToMap = (objectsArray) => {
-    const map = new Map();
-
-    for(let obj of objectsArray) {
-        map.set(obj.key, obj.value);
-    }
-
-    return map;
-}
+import * as content from './content';
 
 HTMLElement.prototype.printIt = printIt;
-export function printIt(title) {
+function printIt(title) {
     var myframe = document.createElement('iframe');
     myframe.domain = document.domain;
     myframe.style.position = "absolute";
@@ -52,4 +22,15 @@ export function printIt(title) {
     }, 3000); // wait for images to load inside iframe
 
     window.focus();
+}
+
+export const generatePDF = () => {
+    const temp = document.createElement('div');
+    temp.appendChild(content.generateSet());
+    
+    temp.printIt('');
+}
+
+export const generateAnswersPDF = () => {
+    (content.generateAnswers()).printIt("Answer key");
 }
