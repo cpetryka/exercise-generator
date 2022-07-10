@@ -46,6 +46,10 @@ h1, h2, h3, h4 {
         line-height: 50px;
         border-bottom: 1px solid rgba(0, 0, 0, 0.4);
         box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
 
         h1 {
             margin: 0;
@@ -113,8 +117,6 @@ main {
         }
         
     }
-
-
 
     .exercise:first-child .exercise-heading, 
     .theory-presentation-heading:first-child {
@@ -273,6 +275,24 @@ main {
                 width: 40px;
             }
         }
+    }
+}
+
+#change-view {
+    position: absolute;
+    right: 25px;
+    font-size: 24px;
+    display: inline-block;
+    visibility: hidden;
+}
+
+@media (max-width: 767.98px) { 
+    #change-view {
+        visibility: visible;
+    }
+
+    #generated-set-container {
+        display: none;
     }
 }
 

@@ -14,21 +14,12 @@
                 },
                 {
                     "source": "Password 2 (macmillan); ex. 1/6 from workbook",
-                    "task": "Podziel podane czasowniki na statyczne i dynamiczne.",
+                    "task": "Podziel podane czasowniki na statyczne i dynamiczne:",
                     "content": [
-                        "need",
-                        "sleep",
-                        "understand",
-                        "want",
-                        "play",
-                        "agree",
-                        "believe",
-                        "dislike",
-                        "have",
-                        "read"
+                        "need, understand, want, play, sleep, agree, believe, dislike, have, read"
                     ],
                     "answers": [
-                        "Stative verbs: need, understand, want, agree, believe, dislike, have\nDynamic verbs: sleep, play, read"
+                        "Stative verbs: need, understand, want, agree, believe, dislike, have\nDynamic verbs: play, sleep, read"
                     ]
                 },
                 {

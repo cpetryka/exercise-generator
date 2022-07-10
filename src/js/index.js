@@ -81,6 +81,30 @@ const initializeWebsite = () => {
 
         modal.hide();
     });
+
+    document.querySelector('#change-view').addEventListener('click', () => {
+        const exercisPresentation = document.querySelector('#exercises-presentation');
+        const chosenSet = document.querySelector('#generated-set-container');
+
+        if(chosenSet.style.display === 'none') {
+            chosenSet.style.display = 'block';
+            exercisPresentation.style.display = 'none';
+        }
+        else {
+            exercisPresentation.style.display = 'block';
+            chosenSet.style.display = 'none';
+        }
+    });
+
+    window.addEventListener('resize', () => {
+        if(window.innerWidth > 768) {
+            const exercisPresentation = document.querySelector('#exercises-presentation');
+            const chosenSet = document.querySelector('#generated-set-container');
+
+            exercisPresentation.style.display = 'block';
+            chosenSet.style.display = 'block';
+        }
+    });
 }
 
 initializeWebsite();
