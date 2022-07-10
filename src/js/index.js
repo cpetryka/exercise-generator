@@ -51,14 +51,19 @@ const initializeWebsite = () => {
     document.querySelector('#buttons-container').appendChild(buttons.generateButtons());
     
     // Makes chosen exercises sortable
-    new Sortable(document.querySelector('#generated-set'), {
-        animation: 150,
-        filter: '.ignore-element',
-        onEnd: function (evt) {
-            utils.changeElementPosition(data.chosenSet, evt.oldIndex, evt.newIndex);
-            content.refreshGeneratedSet();
-        },
-    });
+    // If it's not a tablet and it's not a mobile phone, make these exercises sortable
+    const ua = navigator.userAgent;
+
+    if(!/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua) && !/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+        new Sortable(document.querySelector('#generated-set'), {
+            animation: 150,
+            filter: '.ignore-element',
+            onEnd: function (evt) {
+                utils.changeElementPosition(data.chosenSet, evt.oldIndex, evt.newIndex);
+                content.refreshGeneratedSet();
+            },
+        });
+    }
 
     // Allows apploading a file
     const modal = new Modal(document.querySelector('#uploadModal'));
@@ -82,6 +87,7 @@ const initializeWebsite = () => {
         modal.hide();
     });
 
+    // Support for small devices
     document.querySelector('#change-view').addEventListener('click', () => {
         const exercisPresentation = document.querySelector('#exercises-presentation');
         const chosenSet = document.querySelector('#generated-set-container');
