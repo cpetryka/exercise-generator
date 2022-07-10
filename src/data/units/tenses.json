@@ -637,26 +637,6 @@
                     ]
                 },
                 {
-                    "source": "Password 2 (macmillan); ex. 3/36 from workbook",
-                    "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach. Użyj will, shall, going to lub czasu present continuous.",
-                    "content": [
-                        "Karen can't see you tomorrow. She ... (have) a dentist appointment.",
-                        "Your computer is really slow. ... (I / update) your software?",
-                        "What ... (you / do) about your failed physics test, Mark?",
-                        "Tom has lost his Memory Stick and he ... (buy) a new one.",
-                        "'I've lost my keys.' 'I ... (help) you look for them.'",
-                        "We ... (meet) for lunch tomorrow at 12.00. I can give her the message."
-                    ],
-                    "answers": [
-                        "is having",
-                        "Shall I update",
-                        "are you going to do",
-                        "is going to buy",
-                        "will help",
-                        "are meeting"
-                    ]
-                },
-                {
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
