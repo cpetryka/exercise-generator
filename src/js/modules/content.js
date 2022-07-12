@@ -176,7 +176,7 @@ export const createTitle = text => {
 export const createHeading = text => {
     let temp = document.createElement('h3');
     temp.setAttribute('class', 'additional-heading');
-    temp.innerText = data.chosenSet[i].content;
+    temp.innerText = text;
 
     return temp;
 }
@@ -301,6 +301,4 @@ export const refreshGeneratedSet = () => {
         p.innerText = 'This is the place for your exercises.';
         gs.appendChild(p);
     }
-
-    console.log('REFRESH');
 }
