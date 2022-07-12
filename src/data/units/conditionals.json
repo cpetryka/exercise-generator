@@ -3,31 +3,317 @@
     "subsections": [
         {
             "subsectionName": "zero-conditional",
-            "exercises": []
-        },
-        {
-            "subsectionName": "zero-and-first-conditional",
-            "exercises": []
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz kiedy używamy zerowego trybu warunkowego oraz opisz jego konstrukcję."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Dokończ zdania.",
+                    "content": [
+                        "When I have a headache, …",
+                        "When I lose something, …",
+                        "When I can't sleep at night, …",
+                        "When I am hungry, …",
+                        "When it's my birthday, …",
+                        "If I have free time, …",
+                        "If I drink too much red wine, …",
+                        "When I get bored, …"
+                    ],
+                    "answers": [
+                        "When I have a headache, I take a painkiller.",
+                        "When I lose something, I try to find it.",
+                        "When I can't sleep at night, I watch my favourite series.",
+                        "When I am hungry, I go to a restaurant.",
+                        "When it's my birthday, I am happy.",
+                        "If I have free time, I go to the cinema.",
+                        "If I drink too much red wine, I am sleepy.",
+                        "When I get bored, I learn English."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Jeśli podgrzewasz (heat) wodę, ona się gotuje.",
+                        "Tyjesz (get fat), jeśli jesz za dużo.",
+                        "Jeśli pies się boi, gryzie (bite).",
+                        "Jeśli kogoś lubię, to mu to mówię.",
+                        "Jeśli kogoś nie lubię, to go unikam.",
+                        "Co zrobisz, jeśli ona się nie zgodzi?",
+                        "One nie przyjdzie jeśli jej nie zaprosisz.",
+                        "Zadzoń do mnie, gdy się obudzisz."
+                    ],
+                    "answers": [
+                        "If you heat water, it boils.",
+                        "You get fat if you eat too much.",
+                        "If a dog is afraid, it bites.",
+                        "If I like someone, I tell them.",
+                        "If I don't like someone, I avoid them.",
+                        "What will you do if she doesn't agree?",
+                        "She won't come unless you invite her / if you don't invite her.",
+                        "Call me when you wake up."
+                    ]
+                }
+            ]
         },
         {
             "subsectionName": "first-conditional",
-            "exercises": []
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz kiedy używamy pierwszego trybu warunkowego oraz opisz jego konstrukcję."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Dokończ zdania.",
+                    "content": [
+                        "If I win the lottery, …",
+                        "You'll be tired in the morning if …",
+                        "If you drive too fast, …",
+                        "If the weather is nice tomorrow, …",
+                        "I will lend you some money if …",
+                        "If you hit me, …",
+                        "If I have some free time on Saturday, …",
+                        "If I get a new job, …",
+                        "I will be happy if …",
+                        "I will watch TV if …"
+                    ],
+                    "answers": [
+                        "If I win the lottery, I buy a new car.",
+                        "You'll be tired in the morning if you don't go to bed now.",
+                        "If you drive too fast, you will get a fine.",
+                        "If the weather is nice tomorrow, I'll have a picnic.",
+                        "I will lend you some money if you promise to return it to me later.",
+                        "If you hit me, I'll hit you.",
+                        "If I have some free time on Saturday, I will go to the cinema.",
+                        "If I get a new job, I will be happy.",
+                        "I will be happy if I will get a new book.",
+                        "I will watch TV if I have some free time."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wyobraź sobie, że chcesz zostać prezydentem. Prowadzisz swoją własną kampanię i właśnie składasz obietnice wyborcze (z wykorzystaniem pierwszego trybu warunkowego). Dokończ poniższe zdania oraz ułóż kilka własnych.\na) If I am president, I will …\nb) If you vote for my party, we will …"
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wyobraź sobie, że próbujesz coś zaplanować i musisz pomyśleć o każdej ewentualności. Na przykład, chcąc założyć własną szkołę językową możesz powiedzieć: “If Chinese suddenly takes over from English, we'll just change the teachers.”."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Zabiję cię, jeśli jej powiesz, że ją kocham.",
+                        "Jeśli to zjesz, umrzesz.",
+                        "Jeśli on mi pomoże, będziemy mieć więcej czasu.",
+                        "Zostanę w domu, jeśli będzie zimno.",
+                        "Kiedy do niej zadzwonisz, jeśli nie przeprosi?",
+                        "Zatańczysz z nim, jeśli cię poprosi?"
+                    ],
+                    "answers": [
+                        "I'll kill you you if you tell her that I lover her.",
+                        "If you eat this, you will die.",
+                        "If he helps me, we will have more time.",
+                        "I will stay at home if it's cold.",
+                        "When will you call her if she doesn't apologise?",
+                        "Will you dance with him if he asks you?"
+                    ]
+                }
+            ]
         },
         {
-            "subsectionName": "first-and-second-conditional",
-            "exercises": []
+            "subsectionName": "zero-and-first-conditional",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym różni się zerowy i pierwszy tryb warunkowy."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Kiedy nie pijesz wystarczająco dużo wody, jesteś spragniony (thirsty).",
+                        "Zrobię to, gdy będę miał czas.",
+                        "Pójdziemy na zakupy, gdy skończymy pracę.",
+                        "Oni mi zawsze pomagają, gdy ich potrzebuję.",
+                        "Pójdziemy na spacer do parku, gdy przestanie padać."                  
+                    ],
+                    "answers": [
+                        "When you don't drink enough water, you are thirsty.",
+                        "I'll do it when I have time.",
+                        "We'll go shopping when we finish work.",
+                        "They always help me when I need them.",
+                        "We'll go for a walk in the park when it stops raining."
+                    ]
+                }
+            ]
         },
         {
             "subsectionName": "second-conditional",
-            "exercises": []
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz kiedy używamy drugiego trybu warunkowego oraz opisz jego konstrukcję."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Odpowiedz na pytania.",
+                    "content": [
+                        "If you could be another person for a day, who would you be?",
+                        "If you could be an animal, what animal would you be?",
+                        "If you had only 24 hours to live, what would you do?",
+                        "What would you do if you saw a ghost?",
+                        "If you won the lottery, what would you buy?",
+                        "Where would you go if you could go anywhere in the world?",
+                        "If you changed your name, what name would you choose?",
+                        "If you could have three wishes, what would you wish for?",
+                        "If you could live anywhere in the world, where would you live?",
+                        "If you could change one thing in the world, what would it be?"                   
+                    ],
+                    "answers": [
+                        "If I could be another person for a day, I would be a …",
+                        "If I could be an animal, I would be a dog.",
+                        "If I had only 24 hours to live, I would spend that time with my friend and family.",
+                        "If I saw a ghost, I'd start screaming.",
+                        "If I won the lottery, I would buy a new car.",
+                        "If I could go anywhere in the world, I would go to New York.",
+                        "If I changed my name, I would choose the name ‘Adam’.",
+                        "If I could have three wishes, I'd like to be taller and have more money.",
+                        "If I could live anywhere in the world, I would live in Paris.",
+                        "If I could change one thing in the world, I would change our president."                       
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wyobraź sobie, że twój znajomy ma pewien problem, a ty chcesz mu pomóc. Powiedz co byś zrobił na jego miejscu (wykorzystując drugi tryb warunkowy).\n\nMożesz wykorzystać następujące zwroty:\na) If I were you, …\nb) If I were in your place, …\nc) If I was in your shoes, …"
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz jak spędziłbyś ostatni dzień w domu, gdybyś wyjeżdżał na rok.\n\nPytania pomocnicze:\na) If you had one last day at home, what would you do?\nb) If you had one last day at home, what would you eat?\nc) If you had one last day at home, who would you meet with?"
+                }
+            ]
+        },
+        {
+            "subsectionName": "first-and-second-conditional",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym różni się pierwszy i drugi tryb warunkowy."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Na twoim miejscu wybaczyłbym jej.",
+                        "Gdybym miał wystarczająco dużo pieniędzy (a nie mam), kupiłbym nowy samochód.",
+                        "Zadzwonię do ciebie, kiedy przyjadę do domu.",
+                        "Gdyby było słonecznie, poszedłbym na plażę.",
+                        "Co zrobisz, jeśli on nie przyjdzie?"
+                    ],
+                    "answers": [
+                        "If I were you, I would forgive her.",
+                        "If I had enough money, I would buy a new car.",
+                        "I will call you when I arrive home.",
+                        "If it was sunny, I would go to the beach.",
+                        "What will you do if he doesn't come?"                     
+                    ]
+                }
+            ]
         },
         {
             "subsectionName": "third-conditional",
-            "exercises": []
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz kiedy używamy trzeciego trybu warunkowego oraz opisz jego konstrukcję."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Dokończ zdania.",
+                    "content": [
+                        "If I had known then what I know now, …",
+                        "If I had known it was going to rain, …",
+                        "If I had been born in the 19th century, …",
+                        "I wouldn’t have missed the bus if …",
+                        "If I’d met an alien on my way to school/work today, I would have …",
+                        "I would have called you if …",
+                        "I would have had a patry if …",
+                        "If I had studied more in high school, …",
+                        "I wouldn’t have met my husband/boyfriend/friend if …",
+                        "If yesterday had been a holiday, …"            
+                    ],
+                    "answers": [
+                        "If I had known then what I know now, I would have made a different decision.",
+                        "If I had known it was going to rain, I would have taken the umbrella.",
+                        "If I had been born in the 19th century, I would have been famous.",
+                        "I wouldn’t have missed the bus if I had got up early.",
+                        "If I’d met an alien on my way to school/work today, I would have started screaming.",
+                        "I would have called you if I had had more time.",
+                        "I would have had a patry if I had had any friends/more money.",
+                        "If I had studied more in high school, I would have got a better job.",
+                        "I wouldn’t have met my husband/boyfriend/friend if I hadn’t come to this restaurant.",
+                        "If yesterday had been a holiday, I would have read a book."                       
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz o rzeczach, które zrobiłbyś w tym tygodniu/roku, gdybyś miał/miała więcej czasu. Możesz wykorzystać zwrot: if I had had more time I would have done … this week/year."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Co byś zrobił, gdybyś zgubił telefon?",
+                        "Nie nauczyłbym się tego, gdyby mi nie pomógł.",
+                        "Gdybyśmy wyszli wcześniej z domu, nie spóźnilibyśmy się na pociąg.",
+                        "Gdyby internet istaniał (exist) 25 lat temu, moje studia byłyby łatwiejsze."                       
+                    ],
+                    "answers": [
+                        "What would you have done if you had lost your phone?",
+                        "I wouldn’t have learnt it if you hadn’t helped me.",
+                        "If we had left home earlier, we wouldn’t have been late for the train.",
+                        "If the internet had existed 25 years ago, my studies would have been easier."
+                    ]
+                }
+            ]
         },
         {
             "subsectionName": "mixed-conditionals",
             "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz są mieszane tryby warunkowy oraz jak się je buduje."
+                },
+                {
+                    "source": "Own tasks", 
+                    "task": "Czasowniki w nawiasie wstaw w odpowiedniej formie.",
+                    "content": [
+                        "If I … (do) more sports as a child, I … (not have) so many back problems now.",
+                        "If you … (accept) the job, you … (not have to) ask for unemployment benefit now.",
+                        "If I … (be) a man, they … (give) me the job.",
+                        "If you … (pay) the bill, we … (not have to) freeze in a cold flat.",
+                        "If you … (not be) so impatient, the police … (not stop) us.",
+                        "If Tim … (not miss) the train, he … (be) here now.",
+                        "If you … (not be) such an idiot, you … (know) how to help those ducks yesterday.",
+                        "School … (be) a great place if time … (not stop) there about 100 years ago. Let's teach how to think, not how to learn things by heart.",
+                        "The last lesson before the summer. 'Why don't you have your homework?' Because if I … (do) it, we … (not have) anything to talk about today.",
+                        "If I … (see) the ad earlier, we … (have) a beautiful new flat now."                      
+                    ],
+                    "answers": [
+                        "had done, wouldn't have",
+                        "had accepted, wouldn't have to",
+                        "were, would have given",
+                        "had paid, wouldn't have to",
+                        "weren't, wouldn't have stopped",
+                        "hadn't missed, would be",
+                        "weren't, would have known",
+                        "would be, hadn't stopped",
+                        "had done, wouldn't have",
+                        "had seen, would have"                        
+                    ]
+                },
                 {
                     "source": "Password 3 (macmillan); ex. 6/110 from student's book",
                     "task": "Utwórz mieszane zdania warunkowe opisujące poniższe sytuacje.",
@@ -51,12 +337,76 @@
                         "If James hadn't spend his childhood in Spain, he wouldn't do very well in Spanish class.",
                         "If Deb had accepted the place at Leeds University, she would be moving to the UK."
                     ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Kupiłabym tę torebkę, gdybym nie wydała wszystkich pieniędzy na buty.",
+                        "Gdybyś nie był taki niegrzeczny, zaproponowaliby ci tę pracę.",
+                        "Gdyby dbała o swoje zdrowie, nie byłaby teraz w szpitalu.",
+                        "Gdyby mój syn był bardziej odpowiedzialny, ten straszny wypadek nie wydarzyłby się.",
+                        "Gdybyś mnie nie okłamał, nadal bylibyśmy przyjaciółmi.",
+                        "Gdyby nie był taki uparty, zaprosiłaby go na imprezę w zeszły piątek.",
+                        "Gdybyś nie zapomniał o moich urodzinach, przyszedłbyś dziś na imprezę.",
+                        "Gdybyś nie narysował tego ptaka, naszych rodziców nie byłoby dziś w szkole.",
+                        "Gdybyś tak szybko nie jechał na rowerze, nie miałbyś złamanej ręki.",
+                        "Gdybyś nie ukradł tego auta, nadal miałbyś kciuk."               
+                    ],
+                    "answers": [
+                        "I would buy this bag if I hadn't spent all money on shoes.",
+                        "If you weren't so rude, they would have offered you the job.",
+                        "If she had taken care of her health, she wouldn't be in hospital now.",
+                        "If my son was/were more responsible, that terrible accident wouldn't have happened.",
+                        "If you hadn't lied to me, we'd still be friends.",
+                        "If he weren't so stubborn, she would have invited him to the part last Friday.",
+                        "If you hadn't forgotten about my birthday, you would come to the party tonight.",
+                        "If you hadn't drown that bird, our parents wouldn't be in the school today.",
+                        "If you hadn't ridden your bike so fast, you wouldn't have a broken arm.",
+                        "If you hadn't stolen that car, you would still have a thumb."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Każdy chciałby czasem cofnąć się w czasie i zmienić coś w przeszłości. Powiedz, co mogłoby się w przeszłości zmienić i jak w związku z tym Twoje życie wyglądałoby obecnie."
                 }
             ]
         },
         {
             "subsectionName": "all-conditionals",
             "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym są tryby warunkowe, następnie wymień i krótko opisz poszczególne tryby warunkowe występujące w języku angielskim."
+                },
+                {
+                    "source":"Own tasks",
+                    "task": "Dokończ zdania.",
+                    "content": [
+                        "If you sit in the sun too long, …",
+                        "If I were you, …",
+                        "If it is sunny tomorrow, …",
+                        "If I won the lottery, …",
+                        "If she had studied harder, …",
+                        "If you don't wear a coat in the winter, …",
+                        "If I hadn't come to London, …",
+                        "If it rains later, …",
+                        "If I were the Prime Minister, …",
+                        "If I have enough money, …"
+                    ],
+                    "answers": [
+                        "If you sit in the sun too long, you get burned.",
+                        "If I were you, I would go out tonight.", 
+                        "If it is sunny tomorrow, we'll go to the park.",
+                        "If I won the lottery, I would buy a big house.",
+                        "If she had studied harder, she would have passed the exam.",
+                        "If you don't wear a coat in the winter, you get sick.",
+                        "If I hadn't come to London, I would have gone to New York.",
+                        "If it rains later, I won't go out.",
+                        "If I were the Prime Minister, I would make the museums free.",
+                        "If I have enough money, I'll buy some new shoes."
+                    ]
+                },
                 {
                     "source": "Password 3 (macmillan); ex. 7/110 from student's book",
                     "task": "Utwórz zdania warunkowe używając wyrażeń podanych w nawiasach.",
@@ -73,6 +423,34 @@
                         "They would have arrived on time provided that they had been given the directions to the meeting place.",
                         "Unless you had read the book, you wouldn't have so much to say about it now.",
                         "You might have got an extension on your due date provided that you had talked to the teacher."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Kiedy pada, ziemia jest mokra.",
+                        "Gdyby nie padało, poszedłbym na spacer.",
+                        "Gdybym miał więcej czasu, pograłbym na playstation.",
+                        "Kiedy skończę pracę, pójdę do domu.",
+                        "Zdalibyśmy te egzaminy gdybyśmy się więcej uczyli (ale nie zdaliśmy).",
+                        "Gdybym był tobą, wybaczyłbym (forgive) jej.",
+                        "Co zrobisz, jeśli ona nie przyjdzie?",
+                        "Jeśli oglądasz za dużo telewizji, marnujesz swój czas.",
+                        "Gdybym wiedziała o twoich problemach, pomogłabym ci.",
+                        "Zrobię to, gdy będę miał czas."
+                    ],
+                    "answers": [
+                        "When it rains, the ground is wet.",
+                        "If it didn't rain, I would go for a walk.",
+                        "If I had more time, I would play playstation.",
+                        "When I finish work, I'll go home.",
+                        "We would have passed our exams if we had studied harder.",
+                        "If I were you, I would forgive her.",
+                        "What will you do if she doesn't come?",
+                        "If you watch too much TV, you waste your time.",
+                        "If I had known about your problems, I would have helped you.",
+                        "I'll do it when I have time."
                     ]
                 }
             ]
