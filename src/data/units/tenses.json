@@ -2148,6 +2148,146 @@
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
             ]
+        },
+        {
+            "subsectionName": "future-in-the-past",
+            "exercises": [
+                {
+                    "source": "Own tasks",
+                    "task": "Powiedz czym są czasy Future in the Past, kiedy ich używamy oraz jak je budujemy."
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz słowa w nawiasie (wykorzystując Future Simple in the Past).",
+                    "content": [
+                        "The cat … (zjadłby) this fish.",
+                        "Dad … (zabiłby) mnie.",
+                        "George … (nie byłby) dobrym ojcem.",
+                        "… (Napisałbym) an epic Facebook post that … (dostałby) hundreds of likes, but at this moment I have nothing to complain about. Sorry.",
+                        "There's nothing in this world … (nie zrobiłbym)."
+                    ],
+                    "answers": [
+                        "would eat",
+                        "would kill",
+                        "George wouldn't be a great father",
+                        "I would write, would get",
+                        "I wouldn't do"                        
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Czasowniki w nawiasie wstaw w Future Continuous in the Past.",
+                    "content": [
+                        "Your cat … (buy) healthy cat food.",
+                        "The kids … (play) “Uncharted”.",
+                        "Jonathan … (not help) us for free.",
+                        "… (he, sing) like this without Auto-tune?",
+                        "I … (not work) in a school for so little money."                   
+                    ],
+                    "answers": [
+                        "would be buying",
+                        "would be playing",
+                        "wouldn't be helping",
+                        "would he be singing",
+                        "wouldn't be working"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania wykorzystując Future Simple/Continuous in the Past.",
+                    "content": [
+                        "Pomoglibyśmy ci.",
+                        "Śpiewałbym piosenkę.",
+                        "Słuchałbym tej piosenki cały dzień.",
+                        "Nic bym nie zmieniał.",
+                        "Rozważyłbym przeproszenie jej.",
+                        "Nie patrzyłbym bezpośrednio na słońce.",
+                        "Nasz syn zaczynałby studia.",
+                        "Powiedziałbym mu, co o nim myślę.",
+                        "Jadłbyś robaki?",
+                        "Spróbowałbyś jeszcze raz?"
+                    ],
+                    "answers": [
+                        "We would help you.",
+                        "I would be singing the song.",
+                        "I would be listening to this song all day.",
+                        "I wouldn't change anything.",
+                        "I would consider apologising to her.",
+                        "I wouldn't be looking directly at the sun.",
+                        "Our son would be starting colleague.",
+                        "I would tell him what I think about him.",
+                        "Would you be eating bugs?",
+                        "Would you try again?"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Czasowniki w nawiasie wstaw w Future Perfect Simple in the Past.",
+                    "content": [
+                        "We … (stay) at the party longer, but we had to go home early. ",
+                        "They … (not believe) us that we met those aliens.",
+                        "… (you, make) a different choice?",
+                        "I … (buy) a bigger car, but I didn't have enough money.",
+                        "She … (not break) a better photo that I did."
+                    ],
+                    "answers": [
+                        "would have stayed",
+                        "wouldn't have believed",
+                        "Would you have made",
+                        "would have bought",
+                        "wouldn't have broken"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wyobraź sobie, że możesz zmienić dowolne rzeczy ze swojej przeszłości. Cofnąć się w czasie i ponaprawiać błędy. Powiedz, co byś zrobił inaczej albo czego żałujesz i byś nie zrobił.",
+                    "answers": [
+                        "Przykładowe odpowiedzi:\n1) I would have saved more money.\n2) I wouldn't have married that girl.\n3) I would have been a better student.\n4) I would have been a better student."
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Czasowniki w nawiasie wstaw w Future Perfect Continuous in the Past.",
+                    "content": [
+                        "We … (dance) longer, but my husband got drunk and I had to take him home.",
+                        "Sam … (help) his friends more.",
+                        "Greta … (ask) many questions every day.",
+                        "I … (not think) about my ex-boyfriend, but I saw him on TV and it brought back memories.",
+                        "I don't know how I … (study) at university without the Internet."       
+                    ],
+                    "answers": [
+                        "would have been dancing",
+                        "would have been helping",
+                        "would have been asking",
+                        "wouldn't have been thinking",
+                        "would have been studying"                      
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania wykorzystując Future Perfect Simple/Continuous in the Past.",
+                    "content": [
+                        "Wygraliby ten mecz.",
+                        "Czy mieliby więcej dzieci?",
+                        "Padałoby.",
+                        "Spacerowalibyśmy po plaży.",
+                        "Ten wypadek by się nie wydarzył.",
+                        "Mówiłabym innym więcej miłych rzeczy.",
+                        "Pomoglibyśmy wam.",
+                        "Zacząłbym się wcześniej uczyć angielskiego."
+                    ],
+                    "answers": [
+                        "They would have won the game.",
+                        "Would they have had more money?",
+                        "It would have been raining.",
+                        "We would have been walking on the beach.",
+                        "This accident wouldn't have happened.",
+                        "I would have been telling people more kind things.",
+                        "We would have helped you.",
+                        "I would have started learning English sooner."                    
+                    ]
+                }
+            ]
         }
     ]
 }
