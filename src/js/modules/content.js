@@ -135,6 +135,16 @@ export const convertIdToExercise = (num, id) => {
     return generateExercise(num, id, findExercise(id));
 }
 
+export const countExercises = () => {
+    let counter = 0;
+
+    for (let el of data.chosenSet) {
+        if(el.type === 'exercise') ++counter;
+    }
+
+    return counter;
+}
+
 export const findExercise = (id) => {
     const unitsMap = utils.createUnitsMap();
     const subsectionsMaps = utils.createSubsectionsMaps();
@@ -144,6 +154,38 @@ export const findExercise = (id) => {
     const exNum = parseInt(id.slice(id.lastIndexOf('_') + 1));
 
     return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['exercises'][exNum - 1];
+}
+
+export const createImage = src => {
+    let temp = document.createElement('img');
+    temp.setAttribute('src', `assets/${src}`);
+    temp.setAttribute('alt', 'Theory presentation');
+    temp.setAttribute('class', 'img-fluid theory-presentation-img');
+
+    return temp;
+}
+
+export const createTitle = text => {
+    let temp = document.createElement('h2');
+    temp.setAttribute('class', 'main-title');
+    temp.innerText = text;
+
+    return temp;
+}
+
+export const createHeading = text => {
+    let temp = document.createElement('h3');
+    temp.setAttribute('class', 'additional-heading');
+    temp.innerText = data.chosenSet[i].content;
+
+    return temp;
+}
+
+export const createSeparator = () => {
+    let temp = document.createElement('div');
+    temp.setAttribute('class', 'separator');
+
+    return temp;
 }
 
 export const generateSet = () => {
@@ -157,29 +199,23 @@ export const generateSet = () => {
             temp = convertIdToExercise(counter++, data.chosenSet[i].id);
         }
         else if(data.chosenSet[i].type === 'image') {
-            temp = document.createElement('img');
-            temp.setAttribute('src', `assets/${data.chosenSet[i].src}`);
-            temp.setAttribute('alt', 'Theory presentation');
-            temp.setAttribute('class', 'img-fluid theory-presentation-img');
+            temp = createImage(data.chosenSet[i].src);
         }
         else if(data.chosenSet[i].type === 'title') {
-            temp = document.createElement('h2');
-            temp.setAttribute('class', 'main-title');
-            temp.innerText = data.chosenSet[i].content;
+            temp = createTitle(data.chosenSet[i].content);
         }
         else if(data.chosenSet[i].type === 'heading') {
-            temp = document.createElement('h3');
-            temp.setAttribute('class', 'additional-heading');
-            temp.innerText = data.chosenSet[i].content;
+            temp = createHeading(data.chosenSet[i].content);
         }
         else { // when data.chosenSet[i].type === 'separator'
-            temp = document.createElement('div');
-            temp.setAttribute('class', 'separator');
+            temp = createSeparator();
         }
 
         temp.addEventListener('dblclick', () => {
             data.chosenSet.splice(i, 1);
             refreshGeneratedSet();
+
+            const generatedSet = document.querySelector('#genetated-set');
         });
 
         fragment.appendChild(temp);
@@ -265,4 +301,6 @@ export const refreshGeneratedSet = () => {
         p.innerText = 'This is the place for your exercises.';
         gs.appendChild(p);
     }
+
+    console.log('REFRESH');
 }
