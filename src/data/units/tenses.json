@@ -2040,6 +2040,42 @@
                 },
                 {
                     "source": "Own tasks",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "I tried frog legs while I ... (stay) in Paris.",
+                        "I ... (call) Martin three times this morning so far.",
+                        "I ... (look) for a dress like this for ages! It's beautiful!",
+                        "I can only talk for a minute as I ... (ring) from my mobile.",
+                        "I ... (hike) all day and my feet are killing me!",
+                        "... (you / have) your car long before it broke down?",
+                        "They ... (win) every match they've played so far this season.",
+                        "This time next week I ... (laze around) on the couch.",
+                        "Watch out! That car ... (go) the wrong way!",
+                        "My life flashed before me and I felt I ... (be) sick.",
+                        "We'll need to do a lot of research before you ... (invest) your saving.",
+                        "By the end of the week, I ... (apply) for over 30 different jobs!",
+                        "Hurry up! The shop ... (close) in 5 minutes.",
+                        "It's the first time I ... (hear) The Gossip live."
+                    ],
+                    "answers": [
+                        "was staying",
+                        "have called",
+                        "have been looking",
+                        "am ringing",
+                        "have been hiking",
+                        "Had you had",
+                        "have won",
+                        "will be lazing around",
+                        "is going",
+                        "was going to be",
+                        "invest",
+                        "will have applied",
+                        "closes",
+                        "have heard"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
                         "Oglądałem film, kiedy Ty zadzwoniłaś.",
