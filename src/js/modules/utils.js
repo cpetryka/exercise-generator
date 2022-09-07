@@ -40,7 +40,7 @@ export function createJsonObject(data) {
     const arr = [];
 
     for(const x of data) {
-        arr.push(require(`./../../data/units/${x}.json`));
+        arr.push(require(`./../../data/${x}.json`));
     }
 
     return arr;
