@@ -163,6 +163,34 @@
                     ] 
                 },
                 {
+                    "source": "Testy leksykalno-gramatyczne (edgard); ex. 1.2",
+                    "task": "Popraw błędy w podanych zdaniach. Niektóre zdania są poprawne.",
+                    "content": [
+                        "As a rule, I'm waking up no later than at 6 a.m.",
+                        "I am generally cooking healthy meals.",
+                        "I'm seeing Diane next Wednesday.",
+                        "What are you geting at?",
+                        "What time are you leaving?",
+                        "What time is the flight leaving from Orange County?",
+                        "I hear that she has a cat by the name of Tsunami.",
+                        "I'm loving Paris at Christmas.",
+                        "I hate it when someone drive slowly in the left-hand lane.",
+                        "Why are you makeing such a fuss? "
+                    ],
+                    "answers": [
+                        "As a rule, I wake up ...",
+                        "I generally cook ...",
+                        "Correct",
+                        "... getting ...",
+                        "Correct",
+                        "What time does the flight leave ...",
+                        "Correct",
+                        "I love ...",
+                        "... someone drives ...",
+                        "... making ..."
+                    ]
+                },
+                {
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -341,6 +369,34 @@
                         "was watching, was sleeping",
                         "was making, cut",
                         "dropped, was doing, did not break"
+                    ]
+                },
+                {
+                    "source": "Testy leksykalno-gramatyczne (edgard); ex. 5.2",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "What (did you do / were you doing) at 8 o'clock last night?",
+                        "I (met / was meeting) my girlfriend when I (worked / was working) in Brussels.",
+                        "When I got up this morning it (rained / was raining).",
+                        "When I (was / was being) a child we (made / were making) Christmas decorations from recycled materials.",
+                        "I (saw / was seeing) Judie while I (waited / was waiting) for my coffee at Starbucks.",
+                        "He (crashed / was crashing) his newly bought Ferrari on the way home.",
+                        "I (got / was getting) dressed when I (heard / was hearing) someone coughing.",
+                        "All the lights (went off / were going off) unexpectedly, leaving us in total darkness.",
+                        "I (went / was going) to call you back but I (forgot / was forgetting) to.",
+                        "She (spent / was spending) all her childhood in Canada."
+                    ],
+                    "answers": [
+                        "were you doing",
+                        "met, was working",
+                        "was raining",
+                        "was, made",
+                        "saw, was waiting",
+                        "crashed",
+                        "was gettingm heard",
+                        "went off",
+                        "was going, forgot",
+                        "spent"
                     ]
                 },
                 {
@@ -1136,6 +1192,34 @@
                         "have been jogging",
                         "have you had",
                         "haven't known"
+                    ]
+                },
+                {
+                    "source": "Testy leksykalno-gramatyczne (edgard); ex. 13.1",
+                    "task": "Uzupełnij zdania czasownikami w Present Perfect Simple lub Continuous.",
+                    "content": [
+                        "I ... (read) this book for almost two weeks now.",
+                        "... (ever / have) a spinal injection?",
+                        "My parents ... (be) merried for almost twenty years.",
+                        "My feet are killing me. I ... (wear) these uncomfortable shoes all day.",
+                        "... (you already / pay) the rent?",
+                        "I ... (see) the dentise twice this month.",
+                        "You look tired. ... (you / sleep) properly?",
+                        "It's the first time he ... (buy) a brand new car.",
+                        "I ... (never / meet) anyone famous. Have you?",
+                        "I ... (paint) this picture all morning. I've nearly finished."
+                    ],
+                    "answers": [
+                        "have been reading",
+                        "Have you ever had",
+                        "have been",
+                        "have been wearing",
+                        "Have you already paid",
+                        "have seen",
+                        "Have you been sleeping",
+                        "has bought",
+                        "have never met",
+                        "have been painting"
                     ]
                 },
                 {

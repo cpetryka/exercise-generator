@@ -108,6 +108,32 @@
                     ]
                 },
                 {
+                    "source": "Testy leksykalno-gramatyczne (edgard); ex. 9.1",
+                    "task": "Popraw błędy w podanych zdaniach.",
+                    "content": [
+                        "His parents didn't let him to have a computer in the bedroom.",
+                        "My grandfather used to being a race car driver.",
+                        "I'm looking forward to have more free time.",
+                        "Jill is not old enough to entering a club.",
+                        "I must to remember about my brother's birthday.",
+                        "I don't go gaga over babies, but this picture made me smiling.",
+                        "I'm thinking of have some time off soon.",
+                        "I have a dictionary on my iPhone in case I needing to look up a foreign word.",
+                        "I wasn't able get to the airport in time. 10. It's going to raining tonight."
+                    ],
+                    "answers": [
+                        "let him have",
+                        "used to be",
+                        "looking forward to having",
+                        "old enough to enter",
+                        "I must remember",
+                        "made me smile",
+                        "thinking of having",
+                        "in case I need",
+                        "able to get"
+                    ]
+                },
+                {
                     "source": "Password 2 (macmillan); ex. 3/8 from workbook",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
                     "content": [
