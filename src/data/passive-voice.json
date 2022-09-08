@@ -139,6 +139,34 @@
                     ]
                 },
                 {
+                    "source": "Testy leksykalno-gramatyczne (edgard); ex. 17.3",
+                    "task": "Przekształć zdania używając strony biernej.",
+                    "content": [
+                        "They have cancelled the flight.\nThe flight ... .",
+                        "You must pay the full amount of the rent on arriving at the apartment.\nThe full amount of the rent ... on arriving at the apartment.",
+                        "Lloyd insured the first car ever built.\nThe first car ever built ... .",
+                        "They promised us a room with a balcony overlooking the lake.\nWe ... a room with a balcony overlooking the lake.",
+                        "They hold interviews every couple of months.\nInterviews ... every couple of months.",
+                        "They are renovating the hotel at the moment.\nThe hotel ... at the moment.",
+                        "I felt uneasy because someone was watching me.\nI felt uneasy because ... .",
+                        "Nobody told us there would be a problem with our hand luggage.\nWe ... that there would be a problem with our hand luggage.",
+                        "I wish someone had given me some advice.\nI wish I ... some advice.",
+                        "How much have they offered you?\nHow much ... ?"
+                    ],
+                    "answers": [
+                        "have been cancelled",
+                        "must be paid",
+                        "was insured by Lloyd",
+                        "were promised",
+                        "are held",
+                        "is being renovated",
+                        "I was being watched",
+                        "weren't told",
+                        "was given",
+                        "have you been offered"
+                    ]
+                },
+                {
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
