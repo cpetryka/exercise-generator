@@ -181,6 +181,14 @@ export const createHeading = text => {
     return temp;
 }
 
+export const createNote = text => {
+    let temp = document.createElement('p');
+    temp.setAttribute('class', 'note');
+    temp.innerText = text;
+
+    return temp;
+}
+
 export const createSeparator = () => {
     let temp = document.createElement('div');
     temp.setAttribute('class', 'separator');
@@ -206,6 +214,9 @@ export const generateSet = () => {
         }
         else if(data.chosenSet[i].type === 'heading') {
             temp = createHeading(data.chosenSet[i].content);
+        }
+        else if(data.chosenSet[i].type === 'note') {
+            temp = createNote(data.chosenSet[i].content);
         }
         else { // when data.chosenSet[i].type === 'separator'
             temp = createSeparator();

@@ -56,7 +56,7 @@ export const generateButtons = () => {
     fragment.appendChild(createButton('secondary', 'delete-all-exercises', 'Clear', operations.deleteAllChosenExercises));
 
     // Adding features to the set
-    let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-title', 'add-heading', 'add-separator']);
+    let dropdown = createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-title', 'add-heading', 'add-note', 'add-separator']);
     fragment.appendChild(dropdown);
 
     fragment.querySelector('#add-title').addEventListener('click', () => {
@@ -75,6 +75,17 @@ export const generateButtons = () => {
 
         data.addToChosenSet({
             type: "heading", 
+            content: text 
+        });
+
+        content.refreshGeneratedSet();
+    });
+
+    fragment.querySelector('#add-note').addEventListener('click', () => {
+        const text = prompt('Enter the note: ');
+
+        data.addToChosenSet({
+            type: "note", 
             content: text 
         });
 
