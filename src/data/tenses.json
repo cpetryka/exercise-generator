@@ -2160,6 +2160,40 @@
                 },
                 {
                     "source": "Own tasks",
+                    "task": "Wybierz poprawną odpowiedź.",
+                    "content": [
+                        "These days people who ... manual work, often receive far more than clerks who ... in offices.\na) are doing, are working\nb) have done, have worked\nc) do, work\nd) have been doing, work",
+                        "I couldn't find out what ... .\na) happens\nb) has happened\nc) had happened\nd) is happening",
+                        "She ... me at the meetings only on Sundays as a child.\na) saw\nb) has seen\nc) had seen\nd) was seeing",
+                        "While mum ... the TV, I ... my assignment.\na) was going to watch, finish\nb) was watching, finished\nc) was watching, was finishing\nd) will watch, am finishing",
+                        "For the time being we ... for the exam, but this time tomorrow we ... the best movie of this year.\na) study, will watch\nb) have studied, will be watching\nc) have been studying, will be watching\nd) are studying, will be watching",
+                        "Some time ago I ... a new car, but now I ... a new one.\na) bought, am buying\nb) have bought, am buying\nc) bought, have bought\nd) have bought, have bought",
+                        "The theare company ... a grant of 6000$ and it ... a further 2000$ from elswhere now.\na) will be givin, seeks\nb) has been given, is seeking\nc) is given, has been seeking\nd) would be given, is seeking",
+                        "Mother ... her son that he ... to clean the garage after school.\na) reminded, will promise\nb) has reminded, promises\nc) will remind, promises\nd) reminded, had promised"
+                    ],
+                    "answers": [
+                        "1. c, 2. c, 3. a, 4. b, 5. d, 6. a, 7. b, 8. d"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
+                    "task": "Wybierz poprawną odpowiedź.",
+                    "content": [
+                        "Tim was very upset yesterday because he ... that he ... his wallet.\na) has realised, lost\nb) realised, had lost\nc) had realised, lost\nd) realises, loses",
+                        "By the end of tomorrow Dortmund ... Chelsea in the Champions League Cup.\na) is eliminating\nb) will have been eliminating\nc) will have eliminated\nd) will eliminate",
+                        "The injured ... to the ambulance while the people ... aroundthe crime scene.\na) were being taken, were gathering\nb) were taken, would gather\nc) have been taken, gathered\nd) have been taken, gather",
+                        "It was six o'clock and he ... bored because he ... for two hours.\na) was, was waiting\nb) was, had been waiting\nc) had been, had waited\nd) is, has been waiting",
+                        "She last drove a car three years ago. Since she ... an accident, she ... a car for three years.\na) has, hasn't driven\nb) had had, didn't drive\nc) had, hasn't been driving\nd) had, hasn't driven",
+                        "In those times life was hard and bitter for both of them. For the whole year they ... as complete strangers to each other as if they ... .\na) remained, had never met\nb) had remained, had never met\nc) remained, never met\nd) were remaining, had never met",
+                        "The peak ... the prize for mountaineers, especially if it .. before.\na) will be, wasn't attained\nb) is, has not been attained\nc) was, had not been attained\nd) has been, weren't attained",
+                        "Since they ... acting, they ... in three plays, a television commercial and two TV dramas.\na) begin, have performed\nb) begin, are performing\nc) began, have been performing\nd) began, have performed"
+                    ],
+                    "answers": [
+                        "1. b, 2. c, 3. a, 4. b, 5. d, 6. a, 7. b, 8. d"
+                    ]
+                },
+                {
+                    "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
                         "Oglądałem film, kiedy Ty zadzwoniłaś.",
