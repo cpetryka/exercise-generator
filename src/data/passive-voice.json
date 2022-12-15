@@ -79,6 +79,58 @@
                     ]
                 },
                 {
+                    "source": "Unknown source",
+                    "task": "Zamień podane zdania na stronę bierną.",
+                    "content": [
+                        "The police have arrested a man suspected of murdering his ex-wife.",
+                        "People consume far too much alcohol these days.",
+                        "Margaret Wilson bore six children in her too-short life.",
+                        "The tornado will destroy everything in its path.",
+                        "The judge might sentence the accused to life in prison.",
+                        "In spite of her dredful sales record, the boss won't fire her.",
+                        "They had just served dinner when they heard a gunshot.",
+                        "People were buing more newspapers back then.",
+                        "Someone is giving me the money next week.",
+                        "The author was writing a new novel every month."
+                    ],
+                    "answers": [
+                        "A man suspected of murdering his ex-wife has been arrested.",
+                        "Far too much alcohol is consumed these days.",
+                        "Six children were borne in Margaret Wilson's too-short life.",
+                        "Everything will be destroyed in the tornado's path.",
+                        "The accused might be sentenced to life in prison.",
+                        "She won't be fired in spite of her dreadful sales record.",
+                        "Dinner had just been served when they heard a gunshot.",
+                        "More newspapers were being bought back then.",
+                        "The money is being given to me next week./I am given the money next week.",
+                        "A new novel was being written every month."
+                    ]
+                },
+                {
+                    "source": "Unknown source",
+                    "task": "Zamień podane zdania na stronę czynną.",
+                    "content": [
+                        "Their dog hadn't been seen for three days.",
+                        "The bridge couldn't have been built any faster.",
+                        "Photography is forbidden inside the museum.",
+                        "'To Kill a Mockingbird' was completed when Harper Lee was living in New York.",
+                        "The homework was not being submitted to the teacher regularly.",
+                        "She told him that the report woulnd't be completed by five o'clock.",
+                        "Had we not been invited to the wedding, we would have gone to the cinema.",
+                        "A new bill may be passed by the end of summer."
+                    ],
+                    "answers": [
+                        "They hadn't seen their dog for three days.",
+                        "They couldn't have built the bridge any faster.",
+                        "You can't/mustn't take photographs inside the museum.",
+                        "Harper Lee was living in New York when she completed 'To Kill a Mockingbird'.",
+                        "The teacher wasn't receiving the homework regularly./Students weren't submitting the homework regularly.",
+                        "She told him that they wouldn't complete the/his report by five o'clock.",
+                        "Had we not been invited to the wedding, we would have gone to the cinema.",
+                        "They/The government may pass a new bill by the end of summer."
+                    ]
+                },
+                {
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania wykorzystując stronę bierną.",
                     "content": [
@@ -321,6 +373,59 @@
                         "John is going to have his car repaired.",
                         "I have just had food delivered to my house.",
                         "Carol sometimes has his essays written (by Katy)."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "additional-passive-constructions",
+            "exercises": [
+                {
+                    "source": "Business Partner C1 (pearson); ex. 5/21 from the coursebook",
+                    "task": "Wybierz poprawne uzupełnienie zdania.",
+                    "content": [
+                        "Recycling and More was hoping (to choose/to be chosen/to have chosen) for an innovation award.",
+                        "It is clear that the product needs (update/updated/updating) as it is near the end if its life cycle.",
+                        "Last week we (were having/had/have had) the entire production process evaluated by an expert.",
+                        "Their start-up (was bought/was being bought/had bought) out by a larger company.",
+                        "He doesn't like (having been told/having to tell/to be told) how to run his department.",
+                        "I (am having/had/will have) all the information put together at the moment.",
+                        "No one enjoys (to be told/being told/to have been told) that they are wrong.",
+                        "This structure can (to be applied/applied/be applied) to a number of different manufacturing processes.",
+                        "The assembly line was one of the greatest innovations (be implemented/to implement/to have been implemented) by industry.",
+                        "The decline phase of product needs (looked at/to be looked at/to look at) carefully to prevent too much waste."
+                    ],
+                    "answers": [
+                        "to be chosen",
+                        "updating",
+                        "had",
+                        "was bought",
+                        "to be told",
+                        "am having",
+                        "being told",
+                        "be applied",
+                        "to have been implemented",
+                        "to be looked at"
+                    ]
+                },
+                {
+                    "source": "Business Partner C1 (pearson); ex. 6/21 from the coursebook",
+                    "task": "Przekształć zdania używając strony biernej.",
+                    "content": [
+                        "The company aimed their marketing campaign at a young demographic.\nThe marketing campaign ...",
+                        "We don't like people criticising us for no reason.\nWe ...",
+                        "It was the first recycling initiative our city tried.\nIt was the first recycling initiative ...",
+                        "We need to promote the campaign at universities.\nThe campaign ...",
+                        "The garage tested my car for emissions.\nI ...",
+                        "It was the last idea they tested.\nIt was the last idea ..."
+                    ],
+                    "answers": [
+                        "... was aimed at a young demographic.",
+                        "... don't like being criticised for no reason.",
+                        "... to have been tried (by/in our city).",
+                        "... needs promoting/to be promoted at universities.",
+                        "... had my car tested for emissions (by the garage).",
+                        "... to have been tested."
                     ]
                 }
             ]
