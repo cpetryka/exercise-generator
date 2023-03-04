@@ -3,6 +3,7 @@
     "subsections": [
         {
             "subsectionName": "present-simple",
+            "theory": "present-simple.png",
             "exercises": [
                 {
                     "source": "Own tasks",
@@ -40,6 +41,7 @@
         },
         {
             "subsectionName": "present-continuous",
+            "theory": "present-continuous.png",
             "exercises": [
                 {
                     "source": "Own tasks",
