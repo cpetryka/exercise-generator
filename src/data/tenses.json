@@ -73,6 +73,21 @@
             "subsectionName": "present-continuous",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Present Continuous - structure",
+                    "src": "present-continuous-structure.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Present Continuous - uses",
+                    "src": "present-continuous-uses.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Present Continuous - time expressions",
+                    "src": "present-continuous-time-expressions.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
