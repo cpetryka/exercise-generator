@@ -102,19 +102,6 @@ export const generateContent = () => {
             let accordionBody = document.createElement('div');
             accordionBody.setAttribute('class', 'accordion-body');
 
-            if(data.data[i]["subsections"][j]["theory"]) {
-                let theory = document.createElement('h4');
-                theory.setAttribute('class', 'theory-presentation-heading');
-                theory.setAttribute('data-src', `${data.data[i]['unit']}/${data.data[i]["subsections"][j]["theory"]}`);
-
-                let span = document.createElement('span');
-                span.setAttribute('class', 'exercise-number');
-                span.innerText = `Theory presentation`;
-                theory.appendChild(span);
-
-                accordionBody.appendChild(theory);
-            }
-
             let counter = 1;
 
             for(let k = 0; k < data.data[i]["subsections"][j]["subsectionContent"].length; ++k) {
@@ -173,7 +160,7 @@ export const findExercise = (id) => {
     return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
-export const createImage = src => {
+export const createTheoryImage = src => {
     let temp = document.createElement('img');
     temp.setAttribute('src', `assets/${src}`);
     temp.setAttribute('alt', 'Theory presentation');
@@ -223,8 +210,8 @@ export const generateSet = () => {
         if(data.chosenSet[i].type === 'exercise') {
             temp = convertIdToExercise(counter++, data.chosenSet[i].id);
         }
-        else if(data.chosenSet[i].type === 'image') {
-            temp = createImage(data.chosenSet[i].src);
+        else if(data.chosenSet[i].type === 'theory') {
+            temp = createTheoryImage(data.chosenSet[i].src);
         }
         else if(data.chosenSet[i].type === 'title') {
             temp = createTitle(data.chosenSet[i].content);

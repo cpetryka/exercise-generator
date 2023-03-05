@@ -39,7 +39,7 @@ const initializeWebsite = () => {
             const imgSrc = x.parentElement.getAttribute('data-src');
 
             data.addToChosenSet({
-                type: 'image',
+                type: 'theory',
                 src: imgSrc
             });
 
