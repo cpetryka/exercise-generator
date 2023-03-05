@@ -122,7 +122,7 @@ export const generateContent = () => {
                 if(contentItem['type'] === 'exercise') {
                     accordionBody.appendChild(generateExercise(counter++, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), contentItem));
                 }
-                else if(contentItem['type'] === 'theoryPresentation') {
+                else if(contentItem['type'] === 'theory') {
                     let theory = document.createElement('h4');
                     theory.setAttribute('class', 'theory-presentation-heading');
                     theory.setAttribute('data-src', `${data.data[i]['unit']}/${contentItem['src']}`);

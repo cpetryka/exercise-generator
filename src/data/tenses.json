@@ -5,19 +5,29 @@
             "subsectionName": "present-simple",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Present Simple - structure",
                     "src": "present-simple-structure.png"
                 },
                 {
-                    "type": "theoryPresentation",
-                    "heading": "Present Simple - uses",
-                    "src": "present-simple-uses.png"
+                    "type": "theory",
+                    "heading": "Present Simple - uses 1",
+                    "src": "present-simple-uses-1.png"
                 },
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
+                    "heading": "Present Simple - uses 2",
+                    "src": "present-simple-uses-2.png"
+                },
+                {
+                    "type": "theory",
                     "heading": "Present Simple - time expressions",
                     "src": "present-simple-time-expressions.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Present Simple - tip",
+                    "src": "present-simple-tip.png"
                 },
                 {
                     "type": "exercise",
@@ -100,7 +110,7 @@
             "subsectionName": "present-simple-and-continuous",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "present-simple-and-continuous.png"
                 },
@@ -396,7 +406,7 @@
             "subsectionName": "past-simple-and-continuous",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "past-simple-and-continuous.png"
                 },
@@ -626,7 +636,7 @@
             "subsectionName": "future-simple-and-be-going-to",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Structures comparison",
                     "src": "future-simple-and-be-going-to.png"
                 },
@@ -905,7 +915,7 @@
             "subsectionName": "future-simple-and-continuous",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "future-simple-and-continuous.png"
                 },
@@ -983,7 +993,7 @@
             "subsectionName": "all-basic-tenses",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "all-basic-tenses.png"
                 },
@@ -1088,7 +1098,7 @@
             "subsectionName": "present-perfect-and-past-simple",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "present-perfect-and-past-simple.png"
                 },
@@ -1458,7 +1468,7 @@
             "subsectionName": "all-present-tenses",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "all-present-tenses.png"
                 },
@@ -1792,7 +1802,7 @@
             "subsectionName": "all-past-tenses",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "all-past-tenses.png"
                 },
@@ -2209,7 +2219,7 @@
             "subsectionName": "all-future-tenses",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "all-future-tenses.png"
                 },
@@ -2336,7 +2346,7 @@
             "subsectionName": "all-tenses-1",
             "subsectionContent": [
                 {
-                    "type": "theoryPresentation",
+                    "type": "theory",
                     "heading": "Tenses comparison",
                     "src": "all-tenses.png"
                 },
