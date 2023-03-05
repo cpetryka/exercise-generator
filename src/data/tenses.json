@@ -4,16 +4,19 @@
         {
             "subsectionName": "present-simple",
             "theory": "present-simple.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every week, always, often, sometimes, never, at night, on Mondays, from time to time."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -26,14 +29,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wygląda twój typowy dzień."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wygląda typowy dzień twoich rodziców / brata / znajomego / twojej ulubionej postaci z filmu."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -42,16 +48,19 @@
         {
             "subsectionName": "present-continuous",
             "theory": "present-continuous.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, at the moment, today, nowadays, this week."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -63,10 +72,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zastanów się, co Twoi znajomi i rodzina prawdopodobnie robią w tej chwili. Utwórz po 2 zdania o każdej osobie - jedno o tym, co być może teraz robi, i drugie o tym, czego prawdopodobnie teraz nie robi."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -75,20 +86,24 @@
         {
             "subsectionName": "present-simple-and-continuous",
             "theory": "present-simple-and-continuous.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Present Simple od czasu Present Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every month, often, usually, at night, on Sundays."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, at the moment, today, nowadays, this week."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawne uzupełnienie zdania, uzasadnij swój wybór.",
                     "content": [
@@ -109,6 +124,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 2/6 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania, uzasadnij swój wybór.",
                     "content": [
@@ -137,6 +153,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 5/6 from student's book",
                     "task": "Uzupełnij zdania czasownikami w Present Simple lub Present Continuous.",
                     "content": [
@@ -165,6 +182,7 @@
                     ] 
                 },
                 {
+                    "type": "exercise",
                     "source": "Testy leksykalno-gramatyczne (edgard); ex. 1.2",
                     "task": "Popraw błędy w podanych zdaniach. Niektóre zdania są poprawne.",
                     "content": [
@@ -193,6 +211,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -225,10 +244,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o sobie wykorzystując czasy: present simple i present continuous."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -236,16 +257,19 @@
         },
         {
             "subsectionName": "past-simple",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago, when I was young."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -258,22 +282,27 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wyglądał twój wczorajszy dzień. Powiedz co wczoraj zrobiłeś/zrobiłaś oraz czego nie zrobiłeś/zrobiłaś."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wyglądał wczorajszy dzień twojego brata / znajomego / dziewczyny itp. Powiedz czego wczoraj nie zrobił/zrobiła."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jak wyglądały twoje ostatnie święta? Co wtedy zrobiłeś/zrobiłaś?"
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że jesteś na pierwszej randce z nową dziewczynką (lub chłopakiem - kogo wolisz) i opowiadasz jej (albo jemu) o swoim życiu. Powiedz, co zrobiłeś i czego nie zrobiłeś wczoraj, w zeszłym tygodniu, miesiącu, roku i gdy byłeś mały."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -281,12 +310,14 @@
         },
         {
             "subsectionName": "used-to",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji „used to” oraz jakiej formy czasownika po niej używamy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -297,6 +328,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiadasz swojemu dziecku lub wnuczkowi, jak kiedyś wyglądało Twoje życie i świat. Powiedz, co kiedyś robiłeś, czego nie robiłeś i jak żyli ludzie w dawnych czasach, kiedy byłeś młodszy."
                 }
@@ -304,16 +336,19 @@
         },
         {
             "subsectionName": "past-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -324,14 +359,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że byłeś/byłaś świadkiem bardzo ciekawej sytuacji, opowiedz co tam się działo."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że składasz zeznania policjantowi. Powiedz, co robiłeś i czego nie robiłeś w konkretnych chwilach (np. yesterday at 6 p.m., this time last week, last night, yesterday at 5.30 p.m., yesterday at noon)."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -340,20 +378,24 @@
         {
             "subsectionName": "past-simple-and-continuous",
             "theory": "past-simple-and-continuous.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple od czasu Past Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Past Simple lub Past Continuous.",
                     "content": [
@@ -374,6 +416,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Testy leksykalno-gramatyczne (edgard); ex. 5.2",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -402,6 +445,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -434,10 +478,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co wczoraj zrobiłeś/robiłeś wykorzystując czasy Past Simple i Past Continuous."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -445,12 +491,14 @@
         },
         {
             "subsectionName": "present-tenses-with-future-meaning",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz, w jakiej sytuacji używamy czasów Present Simple i Continuous, mówiąc o przyszłości. Podaj przykłady."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -472,16 +520,19 @@
         },
         {
             "subsectionName": "future-simple",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, next …, in an hour, I hope …."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -492,18 +543,22 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zrobisz: po tej lekcji, w weekend, w wakacje, za rok itp."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz jak według ciebie będzie wyglądała przyszłość"
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jesteś wróżbitą Maciejem. Zaglądasz w karty i przepowiadasz sobie przyszłość. Powiedz, co się wydarzy (lub nie wydarzy) w Twoim życiu i na świecie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -511,12 +566,14 @@
         },
         {
             "subsectionName": "be-going-to",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji „be going to” oraz jakiej formy czasownika po niej używamy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -528,14 +585,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zamierzasz robić po dzisiejszym spotkaniu."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jakie masz plany na najbliższą przyszłość? Wyobraź sobie, że nie mieszkasz z rodzicami i dzwonisz do mamy, która umiera z ciekawości, co porabiałeś, porabiasz i będziesz porabiać. Utwórz 5 zdań o tym, co zrobisz lub czego nie zrobisz w najbliższym czasie, i 5 o tym, co zrobi lub czego nie zrobi bliska Ci osoba."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -544,12 +604,14 @@
         {
             "subsectionName": "future-simple-and-be-going-to",
             "theory": "future-simple-and-be-going-to.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Simple, od konstrukcji 'be going to', podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -574,6 +636,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -610,14 +673,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zrobisz/zamierzasz zrobić w najbliższym czasie, wykorzystaj czas future simple i konstrukcję 'be going to'."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz historyjkę z wykorzystaniem czasu future simple i konstrukcji 'be going to'."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -625,12 +691,14 @@
         },
         {
             "subsectionName": "expressing-the-future",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jakie znasz sposoby mówienia o przyszłości? Krótko je porównaj."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -655,6 +723,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 4/32 from student's book",
                     "task": "Wybierz poprawne uzupełnienie zdania, uzasadnij swój wybór.",
                     "content": [
@@ -675,6 +744,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 3/36 from workbook",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach. Użyj will, shall, going to lub czasu present continuous.",
                     "content": [
@@ -695,6 +765,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -733,10 +804,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz historyjkę z wykorzystaniem czasów present simple, present continuous, future simple oraz konstrukcji going to."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -744,16 +817,19 @@
         },
         {
             "subsectionName": "future-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: from … to …, this time next week, next … at …."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -764,10 +840,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co będziesz robił jutro o konkretnych godzinach"
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że masz dziewczynę, którą wypytuje o wszystko. Chce znać każdy Twój krok i pyta, co będziesz robił w konkretnych chwilach, bo wtedy będziecie o Tobie szczególnie czule myśleć. Opowiedz jej co robiłeś w konkretnych chwilach.",
                     "content": [
@@ -782,14 +860,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak według ciebie będzie wyglądała przyszłość. Wypowiedz się na temat rzeczy, które ludzie nadal będą robić i rzeczy, które zastąpią niektóre z nich w pewnym momencie w przyszłości."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że jest 2040 rok. Powiedz: gdzie jesteś, co robisz i co zmieniło się w twoim życiu."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -798,20 +879,24 @@
         {
             "subsectionName": "future-simple-and-continuous",
             "theory": "future-simple-and-continuous.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Simple, od czasu Future Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, in an hour, I am sure."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: tomorrow at …, this time next week, next … at …."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Future Simple lub Future Continuous.",
                     "content": [
@@ -830,6 +915,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -858,6 +944,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -866,28 +953,34 @@
         {
             "subsectionName": "all-basic-tenses",
             "theory": "all-basic-tenses.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy poszczególnych czasów i konstrukcji (Past, Present, Future Simple&Continuous, used to, be going to)."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o sobie, swoich znajomych, twoim życiu i otaczającym cię świecie z wykorzystaniem wszystkich podstawowych czasów gramatycznych."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi historyjkę w trzeciej osobie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadaj mi po jednym pytaniu zamkniętym (ogólnym) w każdym czasie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadaj mi po jednym pytaniu otwartym (szczegółowym) w każdym czasie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -895,16 +988,19 @@
         },
         {
             "subsectionName": "present-perfect-simple",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, yet, just, never, recently, so far, for, since."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -916,14 +1012,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o swoich doświadczeniach. Gdzie byłeś, gdzie nie byłeś (ale chciałbyś), co ciekawego czytałeś, widziałeś, słyszałeś, jadłeś, piłeś, próbowałeś."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czego nie robiłeś/robiłaś nigdy w życiu oraz czy chciałbyś/chciałabyś to zrobić."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -946,6 +1045,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -954,20 +1054,24 @@
         {
             "subsectionName": "present-perfect-and-past-simple",
             "theory": "present-perfect-and-past-simple.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple, od czasu Present Perfect Simple, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, since, how much/many…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 3/16 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -986,6 +1090,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Past Simple lub Present Perfect.",
                     "content": [
@@ -1006,6 +1111,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 5/18 from student's book",
                     "task": "Uzupełnij zdania czasownikami w Past Simple lub Present Perfect.",
                     "content": [
@@ -1030,6 +1136,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 4/16 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -1054,6 +1161,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 5/16 from workbook",
                     "task": "Uzupełnij zdania czasownikami w Past Simple lub Present Perfect.",
                     "content": [
@@ -1082,6 +1190,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1100,6 +1209,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1107,16 +1217,19 @@
         },
         {
             "subsectionName": "present-perfect-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all day, all night, for, how long…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -1128,10 +1241,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Co u ciebie słychać? Utwórz 5 zdań o tym, co robisz i czego nie robisz od dłuższego czasu, oraz 5 zdań o bliskiej Ci osobie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1139,20 +1254,24 @@
         },
         {
             "subsectionName": "present-perfect-simple-and-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Present Perfect Simple, od czasu Present Perfect Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, since, how much/many…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all day, all night, for, how long…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Present Perfect Simple lub Present Perfect Continuous.",
                     "content": [
@@ -1173,6 +1292,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 8/19 from student't book",
                     "task": "Uzupełnij zdania czasownikami w Present Perfect Simple lub Present Perfect Continuous.",
                     "content": [
@@ -1197,6 +1317,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Testy leksykalno-gramatyczne (edgard); ex. 13.1",
                     "task": "Uzupełnij zdania czasownikami w Present Perfect Simple lub Continuous.",
                     "content": [
@@ -1225,6 +1346,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 3/18 from workbook",
                     "task": "Uzupełnij zdania czasownikami w Present Perfect Simple lub Present Perfect Continuous.",
                     "content": [
@@ -1245,6 +1367,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz poniższe zdania (zastanów się czy ważniejszy jest efekt, czy czas trwania - proces).",
                     "content": [
@@ -1269,6 +1392,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/8 from student's book",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1287,6 +1411,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1295,28 +1420,34 @@
         {
             "subsectionName": "all-present-tenses",
             "theory": "all-present-tenses.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy teraźniejsze: present simple, present continuous, present perfect simple, present perfect continuous."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every week, often, always, at night, on Mondays."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, nowadays, tonight."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, so far, for, since, how much/many…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all night, for, how long…."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -1345,6 +1476,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
                     "content": [
@@ -1365,6 +1497,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1397,6 +1530,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o sobie, o swoim życiu, o bardziej lub mniej typowym dniu oraz o swoim doświadczeniu życiowym wykorzystując wszystkie czasy teraźniejsze.",
                     "answers": [
@@ -1404,6 +1538,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1411,16 +1546,19 @@
         },
         {
             "subsectionName": "past-perfect-simple",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: already, before, after, by …."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -1430,6 +1568,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Na podstawie podanych informacji oraz spójnika podanego w nawiasie podaj zdania w czasie Past Perfect Simple.",
                     "content": [
@@ -1444,10 +1583,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o tym, co wydarzyło się wczoraj zanim wróciłeś do domu ze szkoły/pracy/zajęć/miasta itp."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1455,20 +1596,24 @@
         },
         {
             "subsectionName": "past-simple-and-past-perfect",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple, od czasu Past Perfect Simple, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: before, after, already, by."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Past Simple lub Past Perfect Simple.",
                     "content": [
@@ -1487,6 +1632,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1505,6 +1651,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1512,16 +1659,19 @@
         },
         {
             "subsectionName": "past-perfect-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -1530,6 +1680,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1537,20 +1688,24 @@
         },
         {
             "subsectionName": "past-perfect-simple-and-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Perfect Simple, od czasu Past Perfect Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: already, before, after, by."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Past Perfect Simple lub Past Perfect Continuous.",
                     "content": [
@@ -1567,6 +1722,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1585,6 +1741,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1593,28 +1750,34 @@
         {
             "subsectionName": "all-past-tenses",
             "theory": "all-past-tenses.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy przeszłe: past simple, past continuous, past perfect simple, past perfect continuous."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect wykorzystując następujące zwroty: before, after, for, already, by."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -1643,6 +1806,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/18 from student's book",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -1667,6 +1831,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 5/30 from student's book",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach. Użyj odpowiedniego czasu przeszłego lub konstrukcji used to.",
                     "content": [
@@ -1691,6 +1856,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 2/16 from workbook",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach. Użyj odpowiedniego czasu przeszłego lub konstrukcji used to.",
                     "content": [
@@ -1711,6 +1877,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 4/27 from workbook",
                     "task": "Uzupełnij tekst właściwą formą czasowników podanych w nawiasach. Użyj czasu past simple, past continuous lub past perfect.",
                     "content": [
@@ -1721,6 +1888,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 3/16 from workbook",
                     "task": "Uzupełnij tekst właściwą formą czasowników podanych w nawiasach.",
                     "content": [
@@ -1731,6 +1899,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1759,6 +1928,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "angielskaherbatka.pl",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1797,6 +1967,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/18 from student's book",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1817,6 +1988,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/18 from workbook",
                     "task": "Uzupełnij drugie zdanie tak, aby miało podobny sens do pierwszego. Wykorzystaj podane słowa.",
                     "content": [
@@ -1845,6 +2017,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o tym, co wydarzyło się wczoraj zanim wróciłeś do domu (ze szkoły, pracy, zajęć, miasta…) oraz o tym co wydarzyło lub działo się po twoim powrocie.",
                     "answers": [
@@ -1852,6 +2025,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1859,16 +2033,19 @@
         },
         {
             "subsectionName": "future-perfect-simple",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Simple wykorzystując następujące zwroty: by … (month, year), by the end of the year."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -1880,10 +2057,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o tym, co zrobisz do końca tego roku."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1891,16 +2070,19 @@
         },
         {
             "subsectionName": "future-perfect-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the month, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na poniższe pytania:",
                     "content": [
@@ -1909,6 +2091,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1916,20 +2099,24 @@
         },
         {
             "subsectionName": "future-perfect-simple-and-continuous",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Perfect Simple, od czasu Future Perfect Continuous, podaj kilka przykładów."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Simple wykorzystując następujące zwroty: by … (month, year), by the end of the year."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the year, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania czasownikami w Future Perfect Simple lub Future Perfect Continuous.",
                     "content": [
@@ -1948,6 +2135,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -1966,6 +2154,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -1974,28 +2163,34 @@
         {
             "subsectionName": "all-future-tenses",
             "theory": "all-future-tenses.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy przyszłe: future simple, future continuous, future perfect simple, future perfect continuous."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, I am sure."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: from … to …, this time next week, next … at …."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect wykorzystując następujące zwroty: by … (month, year), by the end of the year."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the year, for."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -2024,6 +2219,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 4/28 from workbook",
                     "task": "Przetłumacz na język angielski polskie części zdań podane w nawiasach. Użyj future simple, future continuous, future perfect lub future perfect continuous.",
                     "content": [
@@ -2044,6 +2240,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -2072,6 +2269,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz co będziesz robić po naszym spotkaniu (Future Continuous), może w trakcie mówienia wpadnie ci do głowy nowy, ciekawy pomysł (Future Simple), powiedz również co będziesz robić/co zrobisz do końca tego roku (Future Perfect Simple/Continuous).",
                     "answers": [
@@ -2079,6 +2277,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -2087,12 +2286,14 @@
         {
             "subsectionName": "all-tenses-1",
             "theory": "all-tenses.png",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Podaj najważniejsze zastosowania poszczególnych czasów oraz ułóż 2 przykładowe zdania z wykorzystaniem charakterystycznych zwrotów w każdym czasie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -2125,6 +2326,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -2161,6 +2363,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawną odpowiedź.",
                     "content": [
@@ -2178,6 +2381,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawną odpowiedź.",
                     "content": [
@@ -2195,6 +2399,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -2223,10 +2428,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o sobie, o swoich nawykach i przyzwyczajeniach. Powiedz jak wyglądało twoje dzieciństwo, o tym czy byłeś szczęśliwy oraz co wtedy robiłeś. Możesz również wspomnieć o ciekawej sytuacji, która ci się wówczas przytrafiła. Na koniec powiedz jakie masz plany na najbliższą przyszłość. Możesz powiedzieć co zamierzasz robić po naszym spotkaniu lub gdzie zamierzasz pojechać w trakcie następnych wakacje."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -2234,12 +2441,14 @@
         },
         {
             "subsectionName": "all-tenses-2",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko poszczególne czasy oraz ułóż 2 przykładowe zdania z wykorzystaniem charakterystycznych zwrotów w każdym czasie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednią formą czasownika.",
                     "content": [
@@ -2268,6 +2477,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -2296,10 +2506,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zmieniło się w twoim życie od naszego ostatniego spotkania (dotyczącego czasów gramatycznych). Powiedz co się ostatnio wydarzyło oraz jak aktualnie wygląda twój dzień, twoja rutyna. Na koniec powiedz jak zmieniły się twoje plany na życie oraz co zamierzasz zrobić w najbliższym czasie."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadawanie pytań do tekstu (min. 2 pytania do każdego zdania)."
                 }
@@ -2307,12 +2519,14 @@
         },
         {
             "subsectionName": "future-in-the-past",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są czasy Future in the Past, kiedy ich używamy oraz jak je budujemy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz słowa w nawiasie (wykorzystując Future Simple in the Past).",
                     "content": [
@@ -2331,6 +2545,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Czasowniki w nawiasie wstaw w Future Continuous in the Past.",
                     "content": [
@@ -2349,6 +2564,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania wykorzystując Future Simple/Continuous in the Past.",
                     "content": [
@@ -2377,6 +2593,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Czasowniki w nawiasie wstaw w Future Perfect Simple in the Past.",
                     "content": [
@@ -2395,6 +2612,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że możesz zmienić dowolne rzeczy ze swojej przeszłości. Cofnąć się w czasie i ponaprawiać błędy. Powiedz, co byś zrobił inaczej albo czego żałujesz i byś nie zrobił.",
                     "answers": [
@@ -2402,6 +2620,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Czasowniki w nawiasie wstaw w Future Perfect Continuous in the Past.",
                     "content": [
@@ -2420,6 +2639,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania wykorzystując Future Perfect Simple/Continuous in the Past.",
                     "content": [

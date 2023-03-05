@@ -3,12 +3,14 @@
     "subsections": [
         {
             "subsectionName": "relative-clauses",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są zdania przydawkowe, jakie znasz rodzaje zdań przydawkowych oraz krótko je opisz."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania odpowiednim zaimkiem who, which, whose, when, where.",
                     "content": [
@@ -47,6 +49,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/56 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania. Czasem więcej niż jedna opcja jest poprawna.",
                     "content": [
@@ -75,6 +78,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Połącz dwa zdania w jedno, zwrócić uwagę na prawidłowe użycie przecinków.",
                     "content": [
@@ -103,6 +107,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 5/70 from student's book",
                     "task": "Połącz dwa zdania w jedno, zwrócić uwagę na prawidłowe użycie przecinków.",
                     "content": [
@@ -131,6 +136,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -152,12 +158,14 @@
         },
         {
             "subsectionName": "reduced-relative-clauses",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są tzw. reduced relative clauses oraz kiedy ich używamy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/57 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -178,6 +186,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 2/58 from workbook",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach. Użyj reduced relative clauses.",
                     "content": [
@@ -198,6 +207,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 4/58 from workbook",
                     "task": "Przepisz zdania używając reduced relative clauses. Niektóre zdania nie mogą być skrócone.",
                     "content": [
@@ -218,6 +228,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/71 from student's book",
                     "task": "Przepisz zdania używając reduced relative clauses. Dwa z tych zdań nie mogą być skrócone.",
                     "content": [

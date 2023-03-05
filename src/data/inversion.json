@@ -3,12 +3,14 @@
     "subsections": [
         {
             "subsectionName": "inversion",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym jest inwersja stylistyczna oraz kiedy jej używamy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/97 from workbook",
                     "task": "Uzupełnij zdania jednym z podanych słów: little, so, hardly, such, never, only, no sooner, not.",
                     "content": [
@@ -33,6 +35,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 2/97 from workbook",
                     "task": "Uzupełnij zdania właściwą formą wyrazów podanych w nawiasach.",
                     "content": [
@@ -61,6 +64,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 3/98 from workbook",
                     "task": "Przepisz zdania zaczynając od podanych słów.",
                     "content": [

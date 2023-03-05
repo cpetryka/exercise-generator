@@ -115,8 +115,9 @@ export const generateContent = () => {
                 accordionBody.appendChild(theory);
             }
 
-            for(let k = 0; k < data.data[i]["subsections"][j]["exercises"].length; ++k) {
-                accordionBody.appendChild(generateExercise(k + 1, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), data.data[i]["subsections"][j]["exercises"][k]));
+            for(let k = 0; k < data.data[i]["subsections"][j]["subsectionContent"].length; ++k) {
+                // TODO -> Dodać jakieś sprawdzanie czy to na pewno jest zadanie
+                accordionBody.appendChild(generateExercise(k + 1, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), data.data[i]["subsections"][j]["subsectionContent"][k]));
             }
 
             accordionCollapse.appendChild(accordionBody);
@@ -153,7 +154,7 @@ export const findExercise = (id) => {
     const subsection = id.slice(id.indexOf('_') + 1, id.lastIndexOf('_'));
     const exNum = parseInt(id.slice(id.lastIndexOf('_') + 1));
 
-    return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['exercises'][exNum - 1];
+    return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
 export const createImage = src => {

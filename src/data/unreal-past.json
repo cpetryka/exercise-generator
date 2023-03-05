@@ -3,8 +3,9 @@
     "subsections": [
         {
             "subsectionName": "i-wish-and-if-only",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 5/111 from student's book",
                     "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
                     "content": [
@@ -23,6 +24,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/88 from workbook",
                     "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
                     "content": [
@@ -46,8 +48,9 @@
         },
         {
             "subsectionName": "summary",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 2/88 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -56,7 +59,7 @@
                         "(It's time / If only) Mark had done all his assignments this semester.",
                         "It's (as if / time) Mary pursued an advanced degree if she wants to be a teacher.",
                         "(If only / I'd rather) I had attended a vocational school. I'd be a trained mechanic by now.",
-                        "Look at all these people. IT's (As though / about time) we were back at school again. Nobody has changed a bit!"
+                        "Look at all these people. It's (As though / about time) we were back at school again. Nobody has changed a bit!"
                     ],
                     "answers": [
                         "wish",
@@ -68,6 +71,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/111 from student's book",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
                     "content": [
@@ -92,6 +96,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 4/88 from workbook",
                     "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
                     "content": [
@@ -112,6 +117,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/111 from student's book",
                     "task": "Utwórz nowe zdania używając słów podanych w nawiasach.",
                     "content": [
@@ -136,6 +142,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/88 from workbook",
                     "task": "Przetłumacz poniższe zdania.",
                     "content": [
