@@ -115,9 +115,25 @@ export const generateContent = () => {
                 accordionBody.appendChild(theory);
             }
 
+            let counter = 1;
+
             for(let k = 0; k < data.data[i]["subsections"][j]["subsectionContent"].length; ++k) {
-                // TODO -> Dodać jakieś sprawdzanie czy to na pewno jest zadanie
-                accordionBody.appendChild(generateExercise(k + 1, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), data.data[i]["subsections"][j]["subsectionContent"][k]));
+                const contentItem = data.data[i]["subsections"][j]["subsectionContent"][k];
+                if(contentItem['type'] === 'exercise') {
+                    accordionBody.appendChild(generateExercise(counter++, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), contentItem));
+                }
+                else if(contentItem['type'] === 'theoryPresentation') {
+                    let theory = document.createElement('h4');
+                    theory.setAttribute('class', 'theory-presentation-heading');
+                    theory.setAttribute('data-src', `${data.data[i]['unit']}/${contentItem['src']}`);
+
+                    let span = document.createElement('span');
+                    span.setAttribute('class', 'exercise-number');
+                    span.innerText = contentItem['heading'];
+                    theory.appendChild(span);
+
+                    accordionBody.appendChild(theory);
+                }
             }
 
             accordionCollapse.appendChild(accordionBody);

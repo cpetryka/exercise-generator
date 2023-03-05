@@ -3,8 +3,22 @@
     "subsections": [
         {
             "subsectionName": "present-simple",
-            "theory": "present-simple.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Present Simple - structure",
+                    "src": "present-simple-structure.png"
+                },
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Present Simple - uses",
+                    "src": "present-simple-uses.png"
+                },
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Present Simple - time expressions",
+                    "src": "present-simple-time-expressions.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -47,7 +61,6 @@
         },
         {
             "subsectionName": "present-continuous",
-            "theory": "present-continuous.png",
             "subsectionContent": [
                 {
                     "type": "exercise",
@@ -85,8 +98,12 @@
         },
         {
             "subsectionName": "present-simple-and-continuous",
-            "theory": "present-simple-and-continuous.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "present-simple-and-continuous.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -377,8 +394,12 @@
         },
         {
             "subsectionName": "past-simple-and-continuous",
-            "theory": "past-simple-and-continuous.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "past-simple-and-continuous.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -603,8 +624,12 @@
         },
         {
             "subsectionName": "future-simple-and-be-going-to",
-            "theory": "future-simple-and-be-going-to.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Structures comparison",
+                    "src": "future-simple-and-be-going-to.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -878,8 +903,12 @@
         },
         {
             "subsectionName": "future-simple-and-continuous",
-            "theory": "future-simple-and-continuous.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "future-simple-and-continuous.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -952,8 +981,12 @@
         },
         {
             "subsectionName": "all-basic-tenses",
-            "theory": "all-basic-tenses.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "all-basic-tenses.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -1053,8 +1086,12 @@
         },
         {
             "subsectionName": "present-perfect-and-past-simple",
-            "theory": "present-perfect-and-past-simple.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "present-perfect-and-past-simple.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -1419,8 +1456,12 @@
         },
         {
             "subsectionName": "all-present-tenses",
-            "theory": "all-present-tenses.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "all-present-tenses.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -1749,8 +1790,12 @@
         },
         {
             "subsectionName": "all-past-tenses",
-            "theory": "all-past-tenses.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "all-past-tenses.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -2162,8 +2207,12 @@
         },
         {
             "subsectionName": "all-future-tenses",
-            "theory": "all-future-tenses.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "all-future-tenses.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -2285,8 +2334,12 @@
         },
         {
             "subsectionName": "all-tenses-1",
-            "theory": "all-tenses.png",
             "subsectionContent": [
+                {
+                    "type": "theoryPresentation",
+                    "heading": "Tenses comparison",
+                    "src": "all-tenses.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
