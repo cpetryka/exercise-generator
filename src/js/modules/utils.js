@@ -7,6 +7,7 @@ export const convertStringToTitle = str => {
     return str;
 }
 
+// TODO Moved to the Exercise class
 export const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }

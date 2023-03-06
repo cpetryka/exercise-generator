@@ -9,6 +9,7 @@ import * as utils from './modules/utils';
 import * as content from './modules/content';
 import * as buttons from './modules/buttons';
 import * as data from './modules/data';
+import * as htmlGenerator from './generator/html-generator';
 
 import '../css/style.scss';
 
