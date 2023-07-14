@@ -1,4 +1,4 @@
-# exercise-generator
+# EXERCISE GENERATOR
 **Author: Cezary Petryka**
 
 # Brief description
