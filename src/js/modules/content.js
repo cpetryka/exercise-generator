@@ -1,6 +1,7 @@
 import * as utils from './utils';
 import * as data from './data';
 import HtmlGenerator from '../generator/html-generator';
+import HtmlContentGenerator from "../generator/html-content-generator";
 
 export const generateExercise = (exerciseNumber, exerciseId, data) => {
     let wrapper = HtmlGenerator.generateHtmlElement('div', { id: exerciseId, class: 'exercise' });
@@ -130,26 +131,6 @@ export const findExercise = (id) => {
     return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
-export const createTheoryImage = src => {
-    return HtmlGenerator.generateHtmlElement('img', { src: `assets/${src}`, alt: 'Theory presentation', class: 'img-fluid theory-presentation-img' });
-}
-
-export const createTitle = text => {
-    return HtmlGenerator.generateHtmlElement('h2', { class: 'main-title', text: text });
-}
-
-export const createHeading = text => {
-    return HtmlGenerator.generateHtmlElement('h3', { class: 'additional-heading', text: text });
-}
-
-export const createNote = text => {
-    return HtmlGenerator.generateHtmlElement('p', { class: 'note', text: text });
-}
-
-export const createSeparator = () => {
-    return HtmlGenerator.generateHtmlElement('div', { class: 'separator' });
-}
-
 export const generateSet = () => {
     const fragment = document.createDocumentFragment();
     let counter = 1;
@@ -162,19 +143,19 @@ export const generateSet = () => {
                 temp = convertIdToExercise(counter++, data.chosenSet[i].id);
                 break;
             case 'theory':
-                temp = createTheoryImage(data.chosenSet[i].src);
+                temp = HtmlContentGenerator.createTheoryImage(data.chosenSet[i].src);
                 break;
             case 'title':
-                temp = createTitle(data.chosenSet[i].content);
+                temp = HtmlContentGenerator.createTitle(data.chosenSet[i].content);
                 break;
             case 'heading':
-                temp = createHeading(data.chosenSet[i].content);
+                temp = HtmlContentGenerator.createHeading(data.chosenSet[i].content);
                 break;
             case 'note':
-                temp = createNote(data.chosenSet[i].content);
+                temp = HtmlContentGenerator.createNote(data.chosenSet[i].content);
                 break;
             default: // when data.chosenSet[i].type === 'separator'
-                temp = createSeparator();
+                temp = HtmlContentGenerator.createSeparator();
                 break;
         }
 
