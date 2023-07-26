@@ -1318,6 +1318,16 @@
             "subsectionName": "present-perfect-simple-and-continuous",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Tenses comparison (part 1)",
+                    "src": "present-perfect-simple-and-continuous-1.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Tenses comparison (part 2)",
+                    "src": "present-perfect-simple-and-continuous-2.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Present Perfect Simple, od czasu Present Perfect Continuous, podaj kilka przykładów."
