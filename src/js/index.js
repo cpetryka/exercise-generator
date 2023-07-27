@@ -7,11 +7,11 @@ import Sortable from 'sortablejs'; // https://github.com/SortableJS/Sortable
 
 import * as utils from './modules/utils';
 import * as content from './modules/content';
-import * as buttons from './modules/buttons';
 import * as data from './modules/data';
 import * as htmlGenerator from './generator/html-generator';
 
 import '../css/style.scss';
+import ButtonsGenerator from "./generator/buttons-generator";
 
 /**************************** MAIN PART ****************************/
 const initializeWebsite = () => {
@@ -49,7 +49,7 @@ const initializeWebsite = () => {
     });
 
     // Adds buttons to the website
-    document.querySelector('#buttons-container').appendChild(buttons.generateButtons());
+    document.querySelector('#buttons-container').appendChild(ButtonsGenerator.generateButtons());
     
     // Makes chosen exercises sortable
     // If it's not a tablet and it's not a mobile phone, make these exercises sortable
