@@ -16,50 +16,61 @@ class ButtonsGenerator {
         return button;
     }
 
-    static createDropdown = (style, id, text, arr) => {
+    static createDropdown = (style, id, text, menuItemsIds) => {
         let dropdown = document.createElement('div');
         dropdown.setAttribute('class', 'dropdown');
         dropdown.style.display = 'inline-block';
 
         let button = document.createElement('button');
-        button.setAttribute('class', `btn btn-${style} btn-sm  dropdown-toggle`);
         button.setAttribute('type', 'button');
+        button.setAttribute('class', `btn btn-${style} btn-sm  dropdown-toggle`);
         button.setAttribute('id', id);
         button.setAttribute('data-bs-toggle', 'dropdown');
         button.setAttribute('aria-expanded', 'false');
         button.innerText = text;
         dropdown.appendChild(button);
 
-        let ul = document.createElement('ul');
-        ul.setAttribute('class', 'dropdown-menu dropdown-menu-dark');
-        ul.setAttribute('aria-labelledby', id);
+        let menuItemsList = document.createElement('ul');
+        menuItemsList.setAttribute('class', 'dropdown-menu dropdown-menu-dark');
+        menuItemsList.setAttribute('aria-labelledby', id);
 
-        for(let el of arr) {
-            let li = document.createElement('li');
-            let a = document.createElement('a');
-            a.setAttribute('class', 'dropdown-item');
-            a.setAttribute('id', el);
-            a.innerText = utils.convertStringToTitle(el);
-            li.appendChild(a);
-            ul.appendChild(li);
+        for(let menuItemId of menuItemsIds) {
+            let menuItemLink = document.createElement('a');
+            menuItemLink.setAttribute('class', 'dropdown-item');
+            menuItemLink.setAttribute('id', menuItemId);
+            menuItemLink.innerText = utils.convertStringToTitle(menuItemId);
+
+            let menuItem = document.createElement('li');
+            menuItem.appendChild(menuItemLink);
+
+            menuItemsList.appendChild(menuItem);
         }
 
-        dropdown.appendChild(ul);
+        dropdown.appendChild(menuItemsList);
 
         return dropdown;
     }
 
     static generateButtons = () => {
-        const fragment = document.createDocumentFragment();
+        const buttonsFragment = document.createDocumentFragment();
 
-        // Deleting all exercises
-        fragment.appendChild(ButtonsGenerator.createButton('secondary', 'delete-all-exercises', 'Clear', operations.deleteAllChosenExercises));
+        // Delete all exercises button
+        buttonsFragment.appendChild(ButtonsGenerator.createButton(
+            'secondary',
+            'delete-all-exercises',
+            'Clear',
+            operations.deleteAllChosenExercises
+        ));
 
-        // Adding features to the set
-        let dropdown = ButtonsGenerator.createDropdown('secondary', 'dropdownMenuButton', 'Features ', ['add-title', 'add-heading', 'add-note', 'add-separator']);
-        fragment.appendChild(dropdown);
+        // Features button
+        buttonsFragment.appendChild(ButtonsGenerator.createDropdown(
+            'secondary',
+            'dropdownMenuButton',
+            'Features ',
+            ['add-title', 'add-heading', 'add-note', 'add-separator']
+        ));
 
-        fragment.querySelector('#add-title').addEventListener('click', () => {
+        buttonsFragment.querySelector('#add-title').addEventListener('click', () => {
             const text = prompt('Enter the title: ');
 
             data.addToChosenSet({
@@ -70,7 +81,7 @@ class ButtonsGenerator {
             content.refreshGeneratedSet();
         });
 
-        fragment.querySelector('#add-heading').addEventListener('click', () => {
+        buttonsFragment.querySelector('#add-heading').addEventListener('click', () => {
             const text = prompt('Enter the heading: ');
 
             data.addToChosenSet({
@@ -81,7 +92,7 @@ class ButtonsGenerator {
             content.refreshGeneratedSet();
         });
 
-        fragment.querySelector('#add-note').addEventListener('click', () => {
+        buttonsFragment.querySelector('#add-note').addEventListener('click', () => {
             const text = prompt('Enter the note: ');
 
             data.addToChosenSet({
@@ -92,21 +103,36 @@ class ButtonsGenerator {
             content.refreshGeneratedSet();
         });
 
-        fragment.querySelector('#add-separator').addEventListener('click', () => {
+        buttonsFragment.querySelector('#add-separator').addEventListener('click', () => {
             data.addToChosenSet({ type: "separator" });
             content.refreshGeneratedSet();
         });
 
-        // Saving chosen exercises
-        fragment.appendChild(ButtonsGenerator.createButton('primary', 'save-chosen-exercises', 'Save the set', operations.saveChosenExercises));
+        // Save chosen exercises button
+        buttonsFragment.appendChild(ButtonsGenerator.createButton(
+            'primary',
+            'save-chosen-exercises',
+            'Save the set',
+            operations.saveChosenExercises)
+        );
 
-        // Generating a pdf
-        fragment.appendChild(ButtonsGenerator.createButton('primary', 'generate-pdf', 'Generate a pdf', pdfs.generatePDF));
+        // Generate pdf button
+        buttonsFragment.appendChild(ButtonsGenerator.createButton(
+            'primary',
+            'generate-pdf',
+            'Generate a pdf',
+            pdfs.generatePDF
+        ));
 
-        // Generating answers
-        fragment.appendChild(ButtonsGenerator.createButton('primary', 'generate-answers', 'Generate answers', pdfs.generateAnswersPDF));
+        // Generate answers button
+        buttonsFragment.appendChild(ButtonsGenerator.createButton(
+            'primary',
+            'generate-answers',
+            'Generate answers',
+            pdfs.generateAnswersPDF
+        ));
 
-        return fragment;
+        return buttonsFragment;
     }
 }
 
