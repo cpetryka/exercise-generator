@@ -1,10 +1,12 @@
-import * as content from "../modules/content";
 import * as utils from "../modules/utils";
+import * as content from "../modules/content";
 
 class ExerciseGenerator {
+    // ----------------------------------- FIELDS -----------------------------------
     #data;
     #chosenSet;
 
+    // ----------------------------------- CONSTRUCTORS -----------------------------------
     constructor() {
         // Get all the data from specified files
         this.#data = utils.createJsonObject([
@@ -22,6 +24,16 @@ class ExerciseGenerator {
         this.#chosenSet = [];
     }
 
+    // ----------------------------------- GETTERS -----------------------------------
+    get data() {
+        return this.#data;
+    }
+
+    get chosenSet() {
+        return this.#chosenSet;
+    }
+
+    // ----------------------------------- METHODS TO MANAGE THE CHOSENSET -----------------------------------
     setChosenSet = newChosenSet => {
         if(!(Array.isArray(newChosenSet) || newChosenSet.length === 0)) {
             throw new TypeError("Passed value must be an array.");
@@ -51,3 +63,5 @@ class ExerciseGenerator {
         }
     }
 }
+
+export const exerciseGenerator = new ExerciseGenerator();

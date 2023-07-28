@@ -1,8 +1,7 @@
 import * as utils from "../modules/utils";
-import * as operations from "../modules/operations";
 import * as content from "../modules/content";
 import * as pdfs from "../modules/pdfs";
-import * as data from '../modules/data';
+import {exerciseGenerator} from "../service/exercise-generator";
 
 class ButtonsGenerator {
     static createButton = (style, id, text, eventListener) => {
@@ -59,7 +58,7 @@ class ButtonsGenerator {
             'secondary',
             'delete-all-exercises',
             'Clear',
-            operations.deleteAllChosenExercises
+            exerciseGenerator.clearChosenSet
         ));
 
         // Features button
@@ -73,7 +72,7 @@ class ButtonsGenerator {
         buttonsFragment.querySelector('#add-title').addEventListener('click', () => {
             const text = prompt('Enter the title: ');
 
-            data.addToChosenSet({
+            exerciseGenerator.addElementToChosenSet({
                 type: "title",
                 content: text
             });
@@ -84,7 +83,7 @@ class ButtonsGenerator {
         buttonsFragment.querySelector('#add-heading').addEventListener('click', () => {
             const text = prompt('Enter the heading: ');
 
-            data.addToChosenSet({
+            exerciseGenerator.addElementToChosenSet({
                 type: "heading",
                 content: text
             });
@@ -95,7 +94,7 @@ class ButtonsGenerator {
         buttonsFragment.querySelector('#add-note').addEventListener('click', () => {
             const text = prompt('Enter the note: ');
 
-            data.addToChosenSet({
+            exerciseGenerator.addElementToChosenSet({
                 type: "note",
                 content: text
             });
@@ -104,7 +103,7 @@ class ButtonsGenerator {
         });
 
         buttonsFragment.querySelector('#add-separator').addEventListener('click', () => {
-            data.addToChosenSet({ type: "separator" });
+            exerciseGenerator.addElementToChosenSet({ type: "separator" });
             content.refreshGeneratedSet();
         });
 
@@ -113,8 +112,8 @@ class ButtonsGenerator {
             'primary',
             'save-chosen-exercises',
             'Save the set',
-            operations.saveChosenExercises)
-        );
+            exerciseGenerator.saveChosenSet
+        ));
 
         // Generate pdf button
         buttonsFragment.appendChild(ButtonsGenerator.createButton(

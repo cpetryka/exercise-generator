@@ -2,16 +2,14 @@
 import 'jquery';
 import { Modal } from 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
-import { saveAs } from 'file-saver';
 import Sortable from 'sortablejs'; // https://github.com/SortableJS/Sortable
 
 import * as utils from './modules/utils';
 import * as content from './modules/content';
-import * as data from './modules/data';
-import * as htmlGenerator from './generator/html-generator';
 
 import '../css/style.scss';
 import ButtonsGenerator from "./generator/buttons-generator";
+import {exerciseGenerator} from "./service/exercise-generator";
 
 /**************************** MAIN PART ****************************/
 const initializeWebsite = () => {
@@ -24,7 +22,7 @@ const initializeWebsite = () => {
         exercise.addEventListener('click', () => {
             const id = exercise.parentElement.parentElement.getAttribute('id');
 
-            data.addToChosenSet({
+            exerciseGenerator.addElementToChosenSet({
                 type: "exercise",
                 id: id
             });
@@ -39,7 +37,7 @@ const initializeWebsite = () => {
         x.addEventListener('click', () => {
             const imgSrc = x.parentElement.getAttribute('data-src');
 
-            data.addToChosenSet({
+            exerciseGenerator.addElementToChosenSet({
                 type: 'theory',
                 src: imgSrc
             });
@@ -60,7 +58,7 @@ const initializeWebsite = () => {
             animation: 150,
             filter: '.ignore-element',
             onEnd: function (evt) {
-                utils.changeElementPosition(data.chosenSet, evt.oldIndex, evt.newIndex);
+                utils.changeElementPosition(exerciseGenerator.chosenSet, evt.oldIndex, evt.newIndex);
                 content.refreshGeneratedSet();
             },
         });
@@ -80,7 +78,7 @@ const initializeWebsite = () => {
             reader.readAsBinaryString(file.files[0]);
 
             reader.onload = e => {
-                data.editChosenSet(JSON.parse(e.target.result));
+                exerciseGenerator.setChosenSet(JSON.parse(e.target.result));
                 content.refreshGeneratedSet();
             }
         }
