@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
     margin: 0;
     padding: 0;
 
-    // Needed so that the accordians are not displayed over the shadows of these elements
+    // Needed so that the accordions are not displayed over the shadows of these elements
     header,
     footer {
         position: relative;
@@ -101,8 +101,7 @@ main {
 
     .exercise-heading,
     .theory-presentation-heading {
-        margin: 0;
-        margin-top: 14px;
+        margin: 14px 0 0;
 
         span {
             position: relative;
@@ -112,7 +111,7 @@ main {
             &::after {
                 content: "\f055";
                 font-weight: 900;
-                font-family: 'Font Awesome 6 Free';
+                font-family: 'Font Awesome 6 Free', serif;
                 position: absolute;
                 top: 50%;
                 transform: translateY(-46%);
@@ -161,8 +160,7 @@ main {
     }
     
     ol {
-        margin: 0;
-        margin-top: 5px;
+        margin: 5px 0 0;
         counter-reset: list;
 
         > li {
@@ -253,8 +251,7 @@ main {
     padding: 10px;
 
     .exercise-heading {
-        margin: 0;
-        margin-top: 14px;
+        margin: 14px 0 0;
 
         span {
             position: relative;
@@ -274,8 +271,7 @@ main {
     }
     
     ol {
-        margin: 0;
-        margin-top: 5px;
+        margin: 5px 0 0;
         counter-reset: list;
 
         > li {
