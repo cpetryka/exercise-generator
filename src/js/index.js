@@ -2,6 +2,7 @@
 import 'jquery';
 import { Modal } from 'bootstrap';
 import '@fortawesome/fontawesome-free/js/all';
+import { saveAs } from 'file-saver';
 import Sortable from 'sortablejs'; // https://github.com/SortableJS/Sortable
 
 import * as utils from './modules/utils';
