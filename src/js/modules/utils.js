@@ -1,4 +1,4 @@
-import * as data from './data';
+import {exerciseGenerator} from "../service/exercise-generator";
 
 export const convertStringToTitle = str => {
     str = str.replace(/-/g, ' ');
@@ -7,6 +7,7 @@ export const convertStringToTitle = str => {
     return str;
 }
 
+// TODO Moved to the Exercise class
 export const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }
@@ -50,7 +51,7 @@ export const createUnitsMap = () => {
     const map = new Map();
     let i = 0;
 
-    for(const oneUnit of data.data) {
+    for(const oneUnit of exerciseGenerator.data) {
         map.set(oneUnit["unit"], i++);
     }
 
@@ -60,7 +61,7 @@ export const createUnitsMap = () => {
 export const createSubsectionsMaps = () => {
     const arr = [];
 
-    for(const oneUnit of data.data) {
+    for(const oneUnit of exerciseGenerator.data) {
         let temp = new Map();
         let i = 0;
 

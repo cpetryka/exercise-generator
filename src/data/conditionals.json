@@ -3,12 +3,14 @@
     "subsections": [
         {
             "subsectionName": "zero-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy zerowego trybu warunkowego oraz opisz jego konstrukcję."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Dokończ zdania.",
                     "content": [
@@ -33,6 +35,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -60,12 +63,14 @@
         },
         {
             "subsectionName": "first-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy pierwszego trybu warunkowego oraz opisz jego konstrukcję."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Dokończ zdania.",
                     "content": [
@@ -94,14 +99,17 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że chcesz zostać prezydentem. Prowadzisz swoją własną kampanię i właśnie składasz obietnice wyborcze (z wykorzystaniem pierwszego trybu warunkowego). Dokończ poniższe zdania oraz ułóż kilka własnych.\na) If I am president, I will …\nb) If you vote for my party, we will …"
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że próbujesz coś zaplanować i musisz pomyśleć o każdej ewentualności. Na przykład, chcąc założyć własną szkołę językową możesz powiedzieć: “If Chinese suddenly takes over from English, we'll just change the teachers.”."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -125,12 +133,14 @@
         },
         {
             "subsectionName": "zero-and-first-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się zerowy i pierwszy tryb warunkowy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -152,12 +162,14 @@
         },
         {
             "subsectionName": "second-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy drugiego trybu warunkowego oraz opisz jego konstrukcję."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Odpowiedz na pytania.",
                     "content": [
@@ -186,10 +198,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że twój znajomy ma pewien problem, a ty chcesz mu pomóc. Powiedz co byś zrobił na jego miejscu (wykorzystując drugi tryb warunkowy).\n\nMożesz wykorzystać następujące zwroty:\na) If I were you, …\nb) If I were in your place, …\nc) If I was in your shoes, …"
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak spędziłbyś ostatni dzień w domu, gdybyś wyjeżdżał na rok.\n\nPytania pomocnicze:\na) If you had one last day at home, what would you do?\nb) If you had one last day at home, what would you eat?\nc) If you had one last day at home, who would you meet with?"
                 }
@@ -197,12 +211,14 @@
         },
         {
             "subsectionName": "first-and-second-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się pierwszy i drugi tryb warunkowy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -224,12 +240,14 @@
         },
         {
             "subsectionName": "third-conditional",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy trzeciego trybu warunkowego oraz opisz jego konstrukcję."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Dokończ zdania.",
                     "content": [
@@ -258,10 +276,12 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz o rzeczach, które zrobiłbyś w tym tygodniu/roku, gdybyś miał/miała więcej czasu. Możesz wykorzystać zwrot: if I had had more time I would have done … this week/year."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -281,12 +301,14 @@
         },
         {
             "subsectionName": "mixed-conditionals",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz są mieszane tryby warunkowy oraz jak się je buduje."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks", 
                     "task": "Czasowniki w nawiasie wstaw w odpowiedniej formie.",
                     "content": [
@@ -315,6 +337,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/110 from student's book",
                     "task": "Utwórz mieszane zdania warunkowe opisujące poniższe sytuacje.",
                     "content": [
@@ -339,6 +362,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -367,6 +391,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Każdy chciałby czasem cofnąć się w czasie i zmienić coś w przeszłości. Powiedz, co mogłoby się w przeszłości zmienić i jak w związku z tym Twoje życie wyglądałoby obecnie."
                 }
@@ -374,12 +399,14 @@
         },
         {
             "subsectionName": "all-conditionals",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są tryby warunkowe, następnie wymień i krótko opisz poszczególne tryby warunkowe występujące w języku angielskim."
                 },
                 {
+                    "type": "exercise",
                     "source":"Own tasks",
                     "task": "Dokończ zdania.",
                     "content": [
@@ -408,6 +435,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/110 from student's book",
                     "task": "Utwórz zdania warunkowe używając wyrażeń podanych w nawiasach.",
                     "content": [
@@ -426,6 +454,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [

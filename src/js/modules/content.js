@@ -1,45 +1,31 @@
 import * as utils from './utils';
-import * as data from './data';
+import HtmlGenerator from '../generator/html-generator';
+import HtmlContentGenerator from "../generator/html-content-generator";
+import {exerciseGenerator} from "../service/exercise-generator";
 
 export const generateExercise = (exerciseNumber, exerciseId, data) => {
-    let wrapper = document.createElement('div');
-    
-    // Adding attributes to the exercise container
-    wrapper.setAttribute('class', 'exercise');
-    wrapper.setAttribute('id', exerciseId);
+    let wrapper = HtmlGenerator.generateHtmlElement('div', { id: exerciseId, class: 'exercise' });
 
-    // Creating content
-    
     // Heading
-    let heading = document.createElement('h4');
-    heading.setAttribute('class', 'exercise-heading');
-
-    let span = document.createElement('span');
-    span.setAttribute('class', 'exercise-number');
-    span.innerText = `Exercise ${exerciseNumber}`;
-
-    heading.appendChild(span);
+    let heading = HtmlGenerator.generateHtmlElement('h4', { class: 'exercise-heading' });
+    heading.appendChild(
+        HtmlGenerator.generateHtmlElement('span', { class: 'exercise-number', text: `Exercise ${exerciseNumber}` })
+    );
     wrapper.appendChild(heading);
 
     // Task
-    let task = document.createElement('p');
-    task.innerText = data.task;
-    wrapper.appendChild(task);
+    wrapper.appendChild(HtmlGenerator.generateHtmlElement('p', { text: data.task }));
 
     // Additional content
     if(data.content) {
         if(data.content.length === 1) {
-            let p = document.createElement('p');
-            p.innerText = data.content[0];
-            wrapper.appendChild(p);
+            wrapper.appendChild(HtmlGenerator.generateHtmlElement('p', { text: data.content[0]}));
         }
         else if(data.content.length > 1) {
             let list = document.createElement('ol');
     
             for(let i = 0; i < data.content.length; ++i) {
-                let listItem = document.createElement('li');
-                listItem.innerText = data.content[i];
-                list.appendChild(listItem);
+                list.appendChild(HtmlGenerator.generateHtmlElement('li', { text: data.content[i] }));
             }
     
             wrapper.appendChild(list);
@@ -52,71 +38,60 @@ export const generateExercise = (exerciseNumber, exerciseId, data) => {
 export const generateContent = () => {
     let fragment = document.createDocumentFragment();
 
-    for(let i = 0; i < data.data.length; ++i) {
-        let unitContainer = document.createElement('div');
-
-        // Adding attributes to the unit container
-        unitContainer.setAttribute('class', 'unit');
-
-        // Creating content
+    for(let i = 0; i < exerciseGenerator.data.length; ++i) {
+        let unitContainer = HtmlGenerator.generateHtmlElement('div', { class: 'unit' });
 
         // Heading
-        let heading = document.createElement('h3');
-        heading.setAttribute('class', 'unit-heading');
-        heading.innerText = utils.convertStringToTitle(data.data[i]["unit"]);
-        unitContainer.appendChild(heading);
+        unitContainer.appendChild(
+            HtmlGenerator.generateHtmlElement('h3', { class: 'unit-heading', text: utils.convertStringToTitle(exerciseGenerator.data[i]["unit"])})
+        );
 
         // Accordion
-        let accordion = document.createElement('div');
-        accordion.setAttribute('class', 'accordion accordion-flush');
-        accordion.setAttribute('id', `accordion-${data.data[i]["unit"]}`);
+        let accordion = HtmlGenerator.generateHtmlElement('div', { id: `accordion-${exerciseGenerator.data[i]["unit"]}`, class: 'accordion accordion-flush' });
         unitContainer.appendChild(accordion);
 
         // Adding subsections
-        for(let j = 0; j < data.data[i]["subsections"].length; ++j) {
-            let accordionItem = document.createElement('div');
-            accordionItem.setAttribute('class', 'accordion-item');
+        for(let j = 0; j < exerciseGenerator.data[i]["subsections"].length; ++j) {
+            let accordionItem = HtmlGenerator.generateHtmlElement('div', { class: 'accordion-item' });
 
-            let itemHeading = document.createElement('h2');
-            itemHeading.setAttribute('class', 'accordion-header');
-            itemHeading.setAttribute('id', `${data.data[i]["unit"]}-heading${j + 1}`);
+            let itemHeading = HtmlGenerator.generateHtmlElement('h2', { id: `${exerciseGenerator.data[i]["unit"]}-heading${j + 1}`, class: 'accordion-header' });
 
-            let button = document.createElement('button');
-            button.setAttribute('class', 'accordion-button collapsed');
-            button.setAttribute('type', 'button');
-            button.setAttribute('data-bs-toggle', 'collapse');
-            button.setAttribute('data-bs-target', `#${data.data[i]["unit"]}-collapse${j + 1}`);
-            button.setAttribute('aria-expanded', 'false');
-            button.setAttribute('aria-controls', `${data.data[i]["unit"]}-collapse${j + 1}`);
-            button.innerText = utils.convertStringToTitle(data.data[i]["subsections"][j]["subsectionName"]);
+            let button = HtmlGenerator.generateHtmlElement('button', { 
+                class: 'accordion-button collapsed', 
+                type: 'button', 
+                'data-bs-toggle': 'collapse', 
+                'data-bs-target': `#${exerciseGenerator.data[i]["unit"]}-collapse${j + 1}`, 
+                'aria-expanded': 'false', 
+                'aria-controls': `${exerciseGenerator.data[i]["unit"]}-collapse${j + 1}`,
+                text: utils.convertStringToTitle(exerciseGenerator.data[i]["subsections"][j]["subsectionName"])
+            });
 
             itemHeading.appendChild(button);
             accordionItem.appendChild(itemHeading);
 
-            let accordionCollapse = document.createElement('div');
-            accordionCollapse.setAttribute('id', `${data.data[i]["unit"]}-collapse${j + 1}`);
-            accordionCollapse.setAttribute('class', 'accordion-collapse collapse');
-            accordionCollapse.setAttribute('aria-labelledby', `${data.data[i]["unit"]}-heading${j + 1}`);
-            accordionCollapse.setAttribute('data-bs-parent', `#accordion-${data.data[i]["unit"]}`);
+            let accordionCollapse = HtmlGenerator.generateHtmlElement('div', {
+                id: `${exerciseGenerator.data[i]["unit"]}-collapse${j + 1}`,
+                class: 'accordion-collapse collapse',
+                'aria-labelledby': `${exerciseGenerator.data[i]["unit"]}-heading${j + 1}`,
+                'data-bs-parent': `#accordion-${exerciseGenerator.data[i]["unit"]}`
+            });
             
-            let accordionBody = document.createElement('div');
-            accordionBody.setAttribute('class', 'accordion-body');
+            let accordionBody = HtmlGenerator.generateHtmlElement('div', { class: 'accordion-body' });
 
-            if(data.data[i]["subsections"][j]["theory"]) {
-                let theory = document.createElement('h4');
-                theory.setAttribute('class', 'theory-presentation-heading');
-                theory.setAttribute('data-src', `${data.data[i]['unit']}/${data.data[i]["subsections"][j]["theory"]}`);
+            let counter = 1;
 
-                let span = document.createElement('span');
-                span.setAttribute('class', 'exercise-number');
-                span.innerText = `Theory presentation`;
-                theory.appendChild(span);
-
-                accordionBody.appendChild(theory);
-            }
-
-            for(let k = 0; k < data.data[i]["subsections"][j]["exercises"].length; ++k) {
-                accordionBody.appendChild(generateExercise(k + 1, utils.generateExercisesId(data.data[i]["unit"], data.data[i]["subsections"][j]["subsectionName"], k + 1), data.data[i]["subsections"][j]["exercises"][k]));
+            for(let k = 0; k < exerciseGenerator.data[i]["subsections"][j]["subsectionContent"].length; ++k) {
+                const contentItem = exerciseGenerator.data[i]["subsections"][j]["subsectionContent"][k];
+                if(contentItem['type'] === 'exercise') {
+                    accordionBody.appendChild(generateExercise(counter++, utils.generateExercisesId(exerciseGenerator.data[i]["unit"], exerciseGenerator.data[i]["subsections"][j]["subsectionName"], k + 1), contentItem));
+                }
+                else if(contentItem['type'] === 'theory') {
+                    let theory = HtmlGenerator.generateHtmlElement('h4', { class: 'theory-presentation-heading', 'data-src': `${exerciseGenerator.data[i]["unit"]}/${contentItem["src"]}` });
+                    theory.appendChild(
+                        HtmlGenerator.generateHtmlElement('span', { class: 'exercise-number', text: contentItem['heading'] })
+                    );
+                    accordionBody.appendChild(theory);
+                }
             }
 
             accordionCollapse.appendChild(accordionBody);
@@ -138,7 +113,7 @@ export const convertIdToExercise = (num, id) => {
 export const countExercises = () => {
     let counter = 0;
 
-    for (let el of data.chosenSet) {
+    for (let el of exerciseGenerator.chosenSet) {
         if(el.type === 'exercise') ++counter;
     }
 
@@ -153,77 +128,39 @@ export const findExercise = (id) => {
     const subsection = id.slice(id.indexOf('_') + 1, id.lastIndexOf('_'));
     const exNum = parseInt(id.slice(id.lastIndexOf('_') + 1));
 
-    return data.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['exercises'][exNum - 1];
-}
-
-export const createImage = src => {
-    let temp = document.createElement('img');
-    temp.setAttribute('src', `assets/${src}`);
-    temp.setAttribute('alt', 'Theory presentation');
-    temp.setAttribute('class', 'img-fluid theory-presentation-img');
-
-    return temp;
-}
-
-export const createTitle = text => {
-    let temp = document.createElement('h2');
-    temp.setAttribute('class', 'main-title');
-    temp.innerText = text;
-
-    return temp;
-}
-
-export const createHeading = text => {
-    let temp = document.createElement('h3');
-    temp.setAttribute('class', 'additional-heading');
-    temp.innerText = text;
-
-    return temp;
-}
-
-export const createNote = text => {
-    let temp = document.createElement('p');
-    temp.setAttribute('class', 'note');
-    temp.innerText = text;
-
-    return temp;
-}
-
-export const createSeparator = () => {
-    let temp = document.createElement('div');
-    temp.setAttribute('class', 'separator');
-
-    return temp;
+    return exerciseGenerator.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
 export const generateSet = () => {
     const fragment = document.createDocumentFragment();
     let counter = 1;
 
-    for(let i = 0; i < data.chosenSet.length; ++i) {
+    for(let i = 0; i < exerciseGenerator.chosenSet.length; ++i) {
         let temp;
 
-        if(data.chosenSet[i].type === 'exercise') {
-            temp = convertIdToExercise(counter++, data.chosenSet[i].id);
-        }
-        else if(data.chosenSet[i].type === 'image') {
-            temp = createImage(data.chosenSet[i].src);
-        }
-        else if(data.chosenSet[i].type === 'title') {
-            temp = createTitle(data.chosenSet[i].content);
-        }
-        else if(data.chosenSet[i].type === 'heading') {
-            temp = createHeading(data.chosenSet[i].content);
-        }
-        else if(data.chosenSet[i].type === 'note') {
-            temp = createNote(data.chosenSet[i].content);
-        }
-        else { // when data.chosenSet[i].type === 'separator'
-            temp = createSeparator();
+        switch(exerciseGenerator.chosenSet[i].type) {
+            case 'exercise':
+                temp = convertIdToExercise(counter++, exerciseGenerator.chosenSet[i].id);
+                break;
+            case 'theory':
+                temp = HtmlContentGenerator.createTheoryImage(exerciseGenerator.chosenSet[i].src);
+                break;
+            case 'title':
+                temp = HtmlContentGenerator.createTitle(exerciseGenerator.chosenSet[i].content);
+                break;
+            case 'heading':
+                temp = HtmlContentGenerator.createHeading(exerciseGenerator.chosenSet[i].content);
+                break;
+            case 'note':
+                temp = HtmlContentGenerator.createNote(exerciseGenerator.chosenSet[i].content);
+                break;
+            default: // when exerciseGenerator.chosenSet[i].type === 'separator'
+                temp = HtmlContentGenerator.createSeparator();
+                break;
         }
 
         temp.addEventListener('dblclick', () => {
-            data.chosenSet.splice(i, 1);
+            exerciseGenerator.chosenSet.splice(i, 1);
             refreshGeneratedSet();
 
             const generatedSet = document.querySelector('#genetated-set');
@@ -236,18 +173,13 @@ export const generateSet = () => {
 }
 
 export const generateAnswer = (exercise, exerciseNumber) => {
-    const wrapper = document.createElement('div');
-    wrapper.setAttribute('id', "answer");
+    const wrapper = HtmlGenerator.generateHtmlElement('div', { class: 'answers' });
 
     // Heading
-    let heading = document.createElement('h4');
-    heading.setAttribute('class', 'exercise-heading');
-
-    let span = document.createElement('span');
-    span.setAttribute('class', 'exercise-number');
-    span.innerText = `Exercise ${exerciseNumber}`;
-
-    heading.appendChild(span);
+    let heading = HtmlGenerator.generateHtmlElement('h4', { class: 'exercise-heading' });
+    heading.appendChild(
+        HtmlGenerator.generateHtmlElement('span', { class: 'exercise-number', text: `Exercise ${exerciseNumber}` })
+    );
     wrapper.appendChild(heading);
 
     // Content
@@ -255,34 +187,28 @@ export const generateAnswer = (exercise, exerciseNumber) => {
         let list = document.createElement('ol');
 
         for(let oneAnswer of exercise.answers) {
-            let listItem = document.createElement('li');
-            listItem.innerText = oneAnswer;
-            list.appendChild(listItem);
+            list.appendChild(HtmlGenerator.generateHtmlElement('li', { text: oneAnswer }));
         }
 
         wrapper.appendChild(list);
     }
     else {
-        const p = document.createElement('p');
-        p.innerText = exercise.answers[0];
-        wrapper.appendChild(p);
+        wrapper.appendChild(HtmlGenerator.generateHtmlElement('p', { text: exercise.answers[0] }));
     }
 
     return wrapper;
 }
 
 export const generateAnswers = () => {
-    const wrapper = document.createElement('div');
-    wrapper.setAttribute('id', "answers");
+    const wrapper = HtmlGenerator.generateHtmlElement('div', { id: 'answers' });
 
     const generatedSet = document.querySelector('#generated-set-container');
 
-    for(let obj of data.chosenSet) {
+    for(let obj of exerciseGenerator.chosenSet) {
         if(obj.type === 'exercise') {
             const exercise = findExercise(obj.id);
 
             if(exercise.answers !== undefined) {
-
                 const exerciseHeading = generatedSet.querySelector(`#${obj.id}`).firstChild.firstChild.innerText;
                 const exerciseNumber = parseInt(exerciseHeading.slice(exerciseHeading.indexOf(' ')));
 
@@ -303,13 +229,12 @@ export const refreshGeneratedSet = () => {
         }
     }
     
-    if(data.chosenSet.length > 0) {
+    if(exerciseGenerator.chosenSet.length > 0) {
         gs.appendChild(generateSet());
     }
     else {
-        const p = document.createElement('p');
-        p.setAttribute('class', 'initial-text ignore-element');
-        p.innerText = 'This is the place for your exercises.';
-        gs.appendChild(p);
+        gs.appendChild(
+            HtmlGenerator.generateHtmlElement('p', { class: 'initial-text ignore-element', text: 'This is the place for your exercises.' })
+        );
     }
 }

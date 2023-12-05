@@ -3,12 +3,14 @@
     "subsections": [
         {
             "subsectionName": "passive-voice",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak tworzymy stronę bierną oraz kiedy ją wykorzystujemy."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zamień podane zdania na stronę bierną.",
                     "content": [
@@ -47,6 +49,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/66 from workbook",
                     "task": "Zamień podane zdania na stronę bierną.",
                     "content": [
@@ -79,6 +82,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Unknown source",
                     "task": "Zamień podane zdania na stronę bierną.",
                     "content": [
@@ -107,6 +111,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Unknown source",
                     "task": "Zamień podane zdania na stronę czynną.",
                     "content": [
@@ -131,6 +136,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Uzupełnij zdania wykorzystując stronę bierną.",
                     "content": [
@@ -163,10 +169,11 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source":"Password 3 (macmillan); ex. 3/66 from workbook",
                     "task": "Uzupełnij zdania wykorzystując stronę czynną lub bierną.",
                     "content": [
-                        "All exercises ... (must / do) by Tuesday.",
+                        "All subsectionContent ... (must / do) by Tuesday.",
                         "What is this smell? My mum ... (polish) the floors at the moment.",
                         "If you don't watch your bag closely, it ... (might / steal).",
                         "Where is my umbrella? Oh, no, I ... (must / lose) it on the way here.",
@@ -191,6 +198,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Testy leksykalno-gramatyczne (edgard); ex. 17.3",
                     "task": "Przekształć zdania używając strony biernej.",
                     "content": [
@@ -219,6 +227,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
@@ -251,6 +260,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz konkretny przedmiot (np. komputer, telefon), a następnie powiedz, co można, a czego nie można zrobić z tym przedmiotem (wykorzystując stronę bierną).",
                     "answers": [
@@ -258,6 +268,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Strona bierna jest często wykorzystywana do opisu różnych procesów. Wybierz jeden z procesów (sending an e-mail, preparing a meal, making a cup of coffee, doing online shopping, updating a system), a następnie omów kolejne etapy wykonywania tej czynności.",
                     "answers": [
@@ -265,6 +276,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że pracujesz w biurze podróży i musisz opisać jedną z waszych ofertę podróży.",
                     "answers": [
@@ -275,8 +287,9 @@
         },
         {
             "subsectionName": "personal-and-impersonal-passive-constructions",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/68 from workbook",
                     "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
                     "content": [
@@ -301,6 +314,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 4/85 from student's book",
                     "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
                     "content": [
@@ -328,12 +342,14 @@
         },
         {
             "subsectionName": "have-sth-done",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji 'have something done'."
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Podane w nawiasie wyrażenia zamień na konstrukcję have sth done.",
                     "content": [
@@ -352,6 +368,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przekształć poniższe zdania, używając konstrukcji have sth done.",
                     "content": [
@@ -379,8 +396,9 @@
         },
         {
             "subsectionName": "additional-passive-constructions",
-            "exercises": [
+            "subsectionContent": [
                 {
+                    "type": "exercise",
                     "source": "Business Partner C1 (pearson); ex. 5/21 from the coursebook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -409,6 +427,7 @@
                     ]
                 },
                 {
+                    "type": "exercise",
                     "source": "Business Partner C1 (pearson); ex. 6/21 from the coursebook",
                     "task": "Przekształć zdania używając strony biernej.",
                     "content": [
