@@ -1,8 +1,9 @@
 import * as content from './content';
 
 HTMLElement.prototype.printIt = printIt;
+
 function printIt(title) {
-    var myframe = document.createElement('iframe');
+    let myframe = document.createElement('iframe');
     myframe.domain = document.domain;
     myframe.style.position = "absolute";
     myframe.style.top = "-10000px";
