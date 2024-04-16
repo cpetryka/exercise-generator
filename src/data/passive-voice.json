@@ -88,7 +88,7 @@
                     "content": [
                         "The police have arrested a man suspected of murdering his ex-wife.",
                         "People consume far too much alcohol these days.",
-                        "Margaret Wilson bore six children in her too-short life.",
+                        "Margaret Wilson born six children in her too-short life.",
                         "The tornado will destroy everything in its path.",
                         "The judge might sentence the accused to life in prison.",
                         "In spite of her dredful sales record, the boss won't fire her.",
@@ -100,7 +100,7 @@
                     "answers": [
                         "A man suspected of murdering his ex-wife has been arrested.",
                         "Far too much alcohol is consumed these days.",
-                        "Six children were borne in Margaret Wilson's too-short life.",
+                        "Six children were born in Margaret Wilson's too-short life.",
                         "Everything will be destroyed in the tornado's path.",
                         "The accused might be sentenced to life in prison.",
                         "She won't be fired in spite of her dreadful sales record.",
@@ -379,7 +379,7 @@
                         "A hairdresser has cut her hair.",
                         "A mechanic is going to repair John's car.",
                         "The shop has just delivered food to my house for me.",
-                        "Katy sometimes writes Carol's essays for her."
+                        "Katy sometimes writes Carol's essays for him."
                     ],
                     "answers": [
                         "I had my car washed.",
