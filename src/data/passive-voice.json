@@ -112,6 +112,64 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 9/77 (part 1)",
+                    "task": "Zamień podane zdania na stronę bierną.",
+                    "content": [
+                        "Someone is repairing the garden fence.",
+                        "Do they teach Latin at this school?",
+                        "I don't like people pointing at me.",
+                        "She hit him on the head with a tennis racquet.",
+                        "Michael has made the preparations.",
+                        "Is Tim cleaning the house?",
+                        "Who built the Pyramids?",
+                        "The boss is going to give us a pay rise.",
+                        "I expect they will deliver my new car soon.",
+                        "The police are questioning the suspects."
+                    ],
+                    "answers": [
+                        "The garden fence is being repaired.",
+                        "Is Latin taught at this school?",
+                        "I don't like being pointed at.",
+                        "He was hit on the head with a tennis racquet.",
+                        "The preparations have been made by Michael.",
+                        "Is the house being cleaned by Tim?",
+                        "Who were the Pyramids built by?",
+                        "We are going to be given a pay rise by the boss.",
+                        "I expect my new car will be delivered soon.",
+                        "The suspects are being questioned by the police."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 9/77 (part 2)",
+                    "task": "Zamień podane zdania na stronę bierną.",
+                    "content": [
+                        "Did your next door neighbours see the thieves?",
+                        "Paul remembers his teacher asking him to star in the school play.",
+                        "A lot of children use computers nowadays.",
+                        "Who smashed the kitchen window?",
+                        "They won't have completed the work by the end of the month.",
+                        "The children will post the letters.",
+                        "People make pancakes from flour, eggs and milk.",
+                        "Had Helen closed the windows before she left the house?",
+                        "Jill hasn't done the housework yet.",
+                        "They may not deliver the parcel today."
+                    ],
+                    "answers": [
+                        "Were the thieves seen by your next door neighbours?",
+                        "Paul remembers being asked by his teacher to star in the school play.",
+                        "Computers are used by a lot of children nowadays.",
+                        "Who was the kitchen window smashed by?",
+                        "The work won't have been completed by the end of the month.",
+                        "The letters will be posted by the children.",
+                        "Pancakes are made from flour, eggs and milk.",
+                        "Had the windows been closed by Helen before she left the house?",
+                        "The housework hasn't been done by Jill yet.",
+                        "The parcel may not be delivered today."
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Unknown source",
                     "task": "Zamień podane zdania na stronę czynną.",
                     "content": [
@@ -199,6 +257,60 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 26/82",
+                    "task": "Uzupełnij podane zdania wykorzystując stronę czynną lub bierną.",
+                    "content": [
+                        "This tree is very old. It ... (plant) in the 19th century.",
+                        "This piece of music ... (not/record) yet. I've just composed it.",
+                        "The thieves ... (steal) from the safe yesterday.",
+                        "Jenny ... (complain) to the manager about the faulty items at the moment.",
+                        "This photograph ... (take) by my grandfather when I was five.",
+                        "Don't touch the saucepan. You might ... (burn) yourself.",
+                        "Not much ... (know) about his complicated subject.",
+                        "I'm going home now because all the work ... (do).",
+                        "The new nightclub ... (close) by council last week.",
+                        "Jessica ... (run) two kilometres every day before work.",
+                        "Jim's house is very modern. It ... (build) only two years ago.",
+                        "Don't stay up late tonight, or else you ... (be) tired tomorrow."
+                    ],
+                    "answers": [
+                        "was planted",
+                        "hasn't been recorded",
+                        "stole",
+                        "is complaining",
+                        "was taken",
+                        "burn",
+                        "is known",
+                        "has been done",
+                        "was closed",
+                        "runs",
+                        "was built",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 8/77",
+                    "task": "Uzupełnij podane zdania wykorzystując przyimek 'by' lub 'with'.",
+                    "content": [
+                        "The lock was broken ... a hammer.",
+                        "This book was written ... my favourite author.",
+                        "The cake was decorated ... icing.",
+                        "The tiger was show ... a gun.",
+                        "Claire was shouted at ... her teacher.",
+                        "He was hit on the head ... an umbrella."
+                    ],
+                    "answers": [
+                        "with",
+                        "by",
+                        "with",
+                        "with",
+                        "by",
+                        "with"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Testy leksykalno-gramatyczne (edgard); ex. 17.3",
                     "task": "Przekształć zdania używając strony biernej.",
                     "content": [
@@ -224,6 +336,31 @@
                         "weren't told",
                         "was given",
                         "have you been offered"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 28/83",
+                    "task": "Uzupełnij każde zdanie 2-5 słowami, wliczając w to słowo już podane.",
+                    "content": [
+                        "Sylvia is organising the wedding reception. BY\nThe wedding reception ... Sylvia.",
+                        "Tom needs someone to help him with his homework. BE\nTom needs ... with his homework.",
+                        "Someone sent us an anonymous letter. WERE\nWe ... an anonymous letter.",
+                        "My father broke my mother's glasses when he sat on them. GOT\nMy mother's glasses ... when my father sat on them.",
+                        "Erica covered the sofa with an old sheet. WAS\nThe sofa ... an old sheet by Erica.",
+                        "Gina likes the chauffeur driving her to work every day. BEING\nGina ... to work every day by the chauffeur.",
+                        "Someone should inform the employees about the strike. BE\nThe employees ... about the strike.",
+                        "David hasn't signed the contract yet. BEEN\nThe contract ... David yet."
+                    ],
+                    "answers": [
+                        "is being organized",
+                        "to be helped",
+                        "were sent",
+                        "got broken",
+                        "was covered with",
+                        "likes being driven",
+                        "should be informed",
+                        "hans't been signed by"
                     ]
                 },
                 {
