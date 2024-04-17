@@ -337,6 +337,35 @@
                         "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
                         "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
                     ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 11/78",
+                    "task": "Dokonaj transformacji zdań, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "It is thought that the school has good teachers.\nThe school...",
+                        "It is expected that he will win the race tomorrow.\nHe...",
+                        "It is said that she speaks seven languages.\nShe...",
+                        "It is believed that the missing jewellery has been found.\nThe missing jewellery...",
+                        "It is thought that she was a talented pianist.\nShe...",
+                        "It is said that the athletes trained for eight hours every day.\nThe athletes...",
+                        "It is expected that the American team will break the world record.\nThe American team...",
+                        "It is known that she is hiding somewhere in the city.\nShe...",
+                        "It is reported that the thieves have escaped from prison.\nThe thieves...",
+                        "It is expected that they will give her the prize.\nShe..."
+                    ], 
+                    "answers": [
+                        "is thought to have good teachers.",
+                        "is expected to win the race tomorrow.",
+                        "is said to speak seven languages.",
+                        "is believed to have been found.",
+                        "is thought to have been a talented pianist.",
+                        "are said to have trained for eight hours every day.",
+                        "is/are expected to break the world record.",
+                        "is known to be hiding somewhere in the city.",
+                        "are reported to have escaped from prison.",
+                        "is expected to be given the prize."
+                    ]
                 }
             ]
         },
