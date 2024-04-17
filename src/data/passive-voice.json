@@ -391,6 +391,31 @@
                         "I have just had food delivered to my house.",
                         "Carol sometimes has his essays written (by Katy)."
                     ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 5/135",
+                    "task": "Przekształć poniższe zdania, używając konstrukcji 'have sth done'.",
+                    "content": [
+                        "Sarah's new fridge will be delivered tomorrow.",
+                        "Tim's car was serviced last week.",
+                        "Mrs Scott's cat was examined by the vet yesterday.",
+                        "Paul's house will be painted next weekend.",
+                        "Mr Brown's book has just been published.",
+                        "Becky's hair is done every week.",
+                        "Jane's living room is going to be redecorated next month.",
+                        "My eyes are tested by the optician."
+                    ],
+                    "answers": [
+                        "Sarah will have her/the new fridge delivered tomorrow.",
+                        "Tim had his car serviced last week.",
+                        "Mrs Scott had the/her cat examined (by the vet) yesterday.",
+                        "Paul will have his house painted next weekend.",
+                        "Mr Brown has just had his book published.",
+                        "Becky has her hair done every week.",
+                        "Jane is going to have her living room redecorated next month.",
+                        "I have my eyes tested by the optician."
+                    ]
                 }
             ]
         },
