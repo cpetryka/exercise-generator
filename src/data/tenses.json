@@ -2452,6 +2452,101 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Zadanie ze zbiorów biblioteki ISL Collective",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "I ... (never be) to Africa, but I want to go one day.",
+                        "Look over there. I think that woman in black ... (film) us.",
+                        "Yesterday, at the end of the city tour, the bus ... (bring) us back to the hotel.",
+                        "Sam ... (try) to get into the football team next term but I don't think they ... (accept) him.",
+                        "This busker will become famous after he ... (release) his album.",
+                        "OK. I ... (shut down) the computer since nobody ... (use) it.",
+                        "Until we took Andrew to Wong's restaurant, he ... (never / eat) Chinese food.",
+                        "The kettle ... (boil) right now so I ... (make) the tea.",
+                        "He ... (fly) to Paris in two day's time.",
+                        "I ... (finish) my book report tomorrow morning and then later, meet my friends for lunch.",
+                        "Mary ... (photograph) everyone while we ... (perform) at the talent show last week.",
+                        "I'm not sure what I want for dinner. Oh, I know! I ... (have) some pizza and milk." 
+                    ],
+                    "answers": [
+                        "have never been",
+                        "is filming",
+                        "brought",
+                        "is going to try, will accept",
+                        "releases",
+                        "will shut down, is using",
+                        "had never eaten",
+                        "is boiling, will make / am going to make",
+                        "will be flying",
+                        "am going to finish",
+                        "photographed, were performing",
+                        "will have" 
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Zadanie ze zbiorów biblioteki ISL Collective",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "She had already eaten three pieces of cake so she ... (not want) more.",
+                        "Where were you! I ... (wait) for you for an hour and a half!",
+                        "By the year 2030, they ... (invent) a device for doing homework.",
+                        "Rick was exhausted because he ... (work) all day.",
+                        "This milk ... (smell) sour. Let's open a new bottle.",
+                        "My English teacher ... (not believe) in luck but in effort.",
+                        "How long ... (he / sleep)?",
+                        "Look at that man! He ... (drive) so carelessly that his car ... (crash).",
+                        "The pirates ... (hide) a chest here in 1654.",
+                        "Listen to this awful noise! Where ... (it / come) from?",
+                        "The crew ... (give) instructions to the passengers while the place ... (make) an emergency landing.",
+                        "What do you think ... (do) a year from now?"
+                    ],
+                    "answers": [
+                        "didn't want",
+                        "have been waiting",
+                        "will have invented",
+                        "had been working",
+                        "smells",
+                        "doesn't believe",
+                        "has he been sleeping",
+                        "is driving, is going to crash",
+                        "hid",
+                        "is it coming",
+                        "gave, was making",
+                        "will be doing"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Zadanie ze zbiorów biblioteki ISL Collective",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "By the time the technician ... (arrive), we had already been trapped in the lift for nearly two hours.",
+                        "It's great to see you! When ... (you / get back) from your holiday, James?",
+                        "Meg was on the bus when she ... (realise) that she ... (forget) her purse.",
+                        "By the end of May, Julia ... (have) her baby.",
+                        "I ... (not take) the dog for a walk last night because Bill ... (already/do) it.",
+                        "Linda and Brad ... (not speak) since she ... (see) him kissing another girl.",
+                        "By the time my parents got home, the snow ... (stop) yet.",
+                        "Then, as I ... (be) really tired, I ... (fall) asleep while I ... (read) in bed.",
+                        "My mother ... (fall) ill last week and I ... (make) all the meals insted of her. She still ... (not feel) well so she ... (see) a doctor tomorrow. I hope she ... (get) better soon.",
+                        "I ... (be) disappointed because I ... (expect) the film to be more exciting."
+                    ],
+                    "answers": [
+                        "arrived",
+                        "did you get back",
+                        "realised, had forgotten",
+                        "will have had",
+                        "didn't take, had already done",
+                        "hadn't spoken, saw",
+                        "hadn't stopped",
+                        "was, fell, was reading",
+                        "fell, am making, doesn't feel, is seeing, will get",
+                        "am / was, (had) expected"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawną odpowiedź.",
                     "content": [
