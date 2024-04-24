@@ -2368,7 +2368,7 @@
             ]
         },
         {
-            "subsectionName": "all-tenses-1",
+            "subsectionName": "all-tenses",
             "subsectionContent": [
                 {
                     "type": "theory",
@@ -2411,6 +2411,35 @@
                         "bought",
                         "have already watched",
                         "will have been playing"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "John often … (forget) to bring his umbrella home.",
+                        "Jane … (buy) a new car last month.",
+                        "I'm sure I … (finish) this project by Friday.",
+                        "This is an exam. Why … (you, talk) now?",
+                        "My friend Mark … (live) in Barcelona since 2000.",
+                        "I … (clean) the flat while my husband was lying on the sofa and reading a book.",
+                        "We were good friends. We … (know) each other for years.",
+                        "I … (learn) English for 5 years now.",
+                        "This time next week I … (ski) in Italy!",
+                        "We … (help) you clean up after the party, don't worry."
+                    ],
+                    "answers": [
+                        "forgets",
+                        "bought",
+                        "will have finished",
+                        "are you talking",
+                        "have lived/have been living",
+                        "was cleaning",
+                        "had known",
+                        "have been learning",
+                        "will be skiing",
+                        "will help"
                     ]
                 },
                 {
@@ -2613,55 +2642,6 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Opowiedz mi o sobie, o swoich nawykach i przyzwyczajeniach. Powiedz jak wyglądało twoje dzieciństwo, o tym czy byłeś szczęśliwy oraz co wtedy robiłeś. Możesz również wspomnieć o ciekawej sytuacji, która ci się wówczas przytrafiła. Na koniec powiedz jakie masz plany na najbliższą przyszłość. Możesz powiedzieć co zamierzasz robić po naszym spotkaniu lub gdzie zamierzasz pojechać w trakcie następnych wakacje."
-                },
-                {
-                    "type": "exercise",
-                    "source": "Own tasks",
-                    "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania."
-                }
-            ]
-        },
-        {
-            "subsectionName": "all-tenses-2",
-            "subsectionContent": [
-                {
-                    "type": "exercise",
-                    "source": "Own tasks",
-                    "task": "Opisz krótko poszczególne czasy oraz ułóż 2 przykładowe zdania z wykorzystaniem charakterystycznych zwrotów w każdym czasie."
-                },
-                {
-                    "type": "exercise",
-                    "source": "Own tasks",
-                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
-                    "content": [
-                        "John often … (forget) to bring his umbrella home.",
-                        "Jane … (buy) a new car last month.",
-                        "I'm sure I … (finish) this project by Friday.",
-                        "This is an exam. Why … (you, talk) now?",
-                        "My friend Mark … (live) in Barcelona since 2000.",
-                        "I … (clean) the flat while my husband was lying on the sofa and reading a book.",
-                        "We were good friends. We … (know) each other for years.",
-                        "I … (learn) English for 5 years now.",
-                        "This time next week I … (ski) in Italy!",
-                        "We … (help) you clean up after the party, don't worry."
-                    ],
-                    "answers": [
-                        "forgets",
-                        "bought",
-                        "will have finished",
-                        "are you talking",
-                        "have lived/have been living",
-                        "was cleaning",
-                        "had known",
-                        "have been learning",
-                        "will be skiing",
-                        "will help"
-                    ]
-                },
-                {
-                    "type": "exercise",
-                    "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
                         "Pływam pięć razy w tygodniu.",
@@ -2687,6 +2667,11 @@
                         "They will have finished the bridge by the end of the month.",
                         "I will have been watching TV for 2 hours by 6 pm. "
                     ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Opowiedz mi o sobie, o swoich nawykach i przyzwyczajeniach. Powiedz jak wyglądało twoje dzieciństwo, o tym czy byłeś szczęśliwy oraz co wtedy robiłeś. Możesz również wspomnieć o ciekawej sytuacji, która ci się wówczas przytrafiła. Na koniec powiedz jakie masz plany na najbliższą przyszłość. Możesz powiedzieć co zamierzasz robić po naszym spotkaniu lub gdzie zamierzasz pojechać w trakcie następnych wakacje."
                 },
                 {
                     "type": "exercise",
