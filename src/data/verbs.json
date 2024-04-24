@@ -91,6 +91,47 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania odpowiednią formą czasownika.",
+                    "content": [
+                        "She decided ... (move) into a new flat.",
+                        "My mother wants me ... (go) shopping with her on Saturday.",
+                        "Helen doesn’t mind ... (walk) for an hour every morning to get to work.",
+                        "It’s not my fault. He made me ... (lie) to you!",
+                        "It may ... (snow) during the night.",
+                        "Do you fancy ... (join) us?",
+                        "I hate ... (go) to the opera.",
+                        "I’d like ... (leave) a bit earlier today.",
+                        "Did he agree ... (invite) Bob to the party?",
+                        "My brother never lets me ... (drive) his car.",
+                        "He stopped ... (have) a snack, then he went back to work.",
+                        "I’ll always remember ... (visit) Venice. It was so romantic.",
+                        "Remember ... (send) a postcard.",
+                        "Don’t forget ... (lock) the door.",
+                        "He’ll never forget ... (meet) Mel Gibson.",
+                        "I regret ... (say) that the concert has been cancelled."
+                    ],
+                    "answers": [
+                        "to move",
+                        "to go",
+                        "walking",
+                        "lie",
+                        "snow",
+                        "joining",
+                        "going",
+                        "to leave",
+                        "to invite",
+                        "drive",
+                        "to have",
+                        "visiting",
+                        "to send",
+                        "to lock",
+                        "meeting",
+                        "to say"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 8/7 from student's book",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -143,6 +184,31 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Dokonaj parafrazy podanych zdań.",
+                    "content": [
+                        "Jennifer is happy to work overtime.\nJennifer doesn't mind...",
+                        "Driving her new car makes Carla happy.\nCarla loves...",
+                        "It's not Emma's fault she's so shy.\nEmma can't help...",
+                        "Sam said he would go to the party.\nSam agreed...",
+                        "Joe would prefer to stay in tonight.\nJoe would rather...",
+                        "He can't wait to go on holiday.\nHe's looking forward to...",
+                        "She didn't want to go to school.\nShe refused...",
+                        "Dave hates playing rugby.\nDave can't stand..."
+                    ],
+                    "answers": [
+                        "working overtime",
+                        "driving her new car",
+                        "being so shy",
+                        "to come to the party",
+                        "stay in tonight",
+                        "going on holiday",
+                        "to go to school",
+                        "playing rugby"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 3/8 from workbook",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
                     "content": [
@@ -154,6 +220,35 @@
                         "wearing, to answer",
                         "going, check",
                         "to take, meeting"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Wielka gramatyka języka angielskiego (edgard); ex. 31/84",
+                    "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "Dear Sirs, we regret ... (inform) you that your offer has been rejected due to high costs of production.",
+                        "I regret ... (break up) with my boyfriend - I miss him so much!",
+                        "Please stop interrupting me, I am trying ... (relax) a little.",
+                        "Sue seems a little depressed these days, I tried ... (take) her shopping and to the cinema, but it didn't help.",
+                        "Did you remember ... (call) Jim and invite him for dinner tonight?",
+                        "I remember ... (see) the book you are talking about - do you want me to get it for you?",
+                        "I will never forget ... (see) my future wife for the first time it was love at the first sight.",
+                        "My husband forgot ... (pick up) the kids from school!",
+                        "Please stop ... (yell) at me and calm down!",
+                        "It was a long drive, so once or twice we stopped ... (have) something to eat."
+                    ],
+                    "answers": [
+                        "to inform",
+                        "breaking",
+                        "to relax",
+                        "taking",
+                        "to call",
+                        "seeing",
+                        "seeing",
+                        "to pick up",
+                        "yelling",
+                        "to have"
                     ]
                 },
                 {
