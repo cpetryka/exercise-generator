@@ -6,6 +6,40 @@
             "subsectionContent": [
                 {
                     "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Kiedy używamy zwrotów I wish/If only? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grama to nie drama 2; ex. 54.1/22",
+                    "task": "Przekształć każde zdanie tak, żeby to drugie zdanie znaczyło to samo co pierwsze. Każde zdanie zacznij od zwrotu I wish/If only.",
+                    "content": [
+                        "You're so stubborn.",
+                        "My mother doesn't cook well.",
+                        "I'm not a woman.",
+                        "London is so far away.",
+                        "They didn't accept my invitation.",
+                        "I didn't get that job.",
+                        "I locked myself out.",
+                        "Please leave!",
+                        "I hate it when you ignore me.",
+                        "I hate it when she doesn't text me back."
+                    ],
+                    "answers": [
+                        "I wish/If only you weren't so stubborn.",
+                        "I wish/If only my mother cooked well.",
+                        "I wish/If only I were a woman.",
+                        "I wish/If only London wasn't so far away.",
+                        "I wish/If only they had accepted my invitation.",
+                        "I wish/If only I had got that job.",
+                        "I wish/If only I hadn't locked myself out.",
+                        "I wish/If only you would leave.",
+                        "I wish/If only you wouldn't ignore me. ('didn't ignore' is also possible; depends on the context)",
+                        "I wish/If only she would text me back. ('texted' is also possible; depends on the context)"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 5/111 from student's book",
                     "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
                     "content": [
@@ -42,6 +76,186 @@
                         "hadn't gone",
                         "had",
                         "had never left"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grama to nie drama 2; ex. 54.3/23",
+                    "task": "Przetłumacz poniższe zdania.",
+                    "content": [
+                        "Chciałabym mieć więcej przyjaciół.",
+                        "Chciałabym, żebyś tu był.",
+                        "Chciałabym znaleźć sztabkę złota.",
+                        "Żałuję, że cię obraziłem.",
+                        "Sanda chciałaby być lepszą nauczycielką.",
+                        "Żałuję, że wrzuciłem to zdjęcie na Instagrama."
+                    ],
+                    "answers": [
+                        "I wish I had more friends.",
+                        "I wish you were here.",
+                        "I wish I could find a gold bar.",
+                        "I wish I hadn't offended you.",
+                        "Sanda wishes she were a better teacher.",
+                        "I wish I hadn't posted that picture on Instagram."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "would-rather-and-would-prefer",
+            "subsectionContent": [
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Kiedy używamy zwrotów would rather/would prefer? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grama to nie drama 2; ex. 69.1/104",
+                    "task": "Przetłumacz fragmenty zdań w nawiasach. Możesz używać I'd rather lub I'd prefer, jak Ci wygodnie, ale najlepiej, żeby było tu trochę i tego, i tego.",
+                    "content": [
+                        "_____ (Wolę pocałować) a frog than go bungee-jumping.",
+                        "_____ (Wolisz kupić mi) a diamond or a new ring?",
+                        "_____ (Wolałbym zostać) at home yesterday. The party was really boring.",
+                        "_____ (Wolę, żebyś zapomniał) everything you have seen here today.",
+                        "_____ (Woleliby nie przyjeżdżać) here because they have been bored all week.",
+                        "_____ (Wolę, żebyś nie mówił) anything about it. It's a secret."
+                    ],
+                    "answers": [
+                        "I'd rather kiss / I'd prefer to kiss",
+                        "Would you rather buy me / Would you prefer to buy me",
+                        "I'd rather have stayed / I'd prefer to have stayed",
+                        "I'd rather you forgot / I'd prefer you forgot",
+                        "They'd rather not come / They'd prefer not to come",
+                        "I'd rather you didn't say / I'd prefer you didn't say"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grama to nie drama 2; ex. 69.2/104",
+                    "task": "Wybierz jedną z dwóch rzeczy, które wolałbyś zrobić lub której wolałbyś nie robić. Napisz po dwa zdania - jedno z I'd rather, a drugie z I'd prefer.",
+                    "content": [
+                        "eat a mouse / drink monkey blood",
+                        "die in a car crash / die in my sleep",
+                        "marry someone beautiful but stupid / marry someone ugly but intelligent",
+                        "be rich and have no friends / be poor and have many friends"
+                    ],
+                    "answers": [
+                        "I'd rather eat a mouse than drink monkey blood.\nI'd prefer ti eat a mouse rather than drink monkey blood.",
+                        "I'd rather die in my sleep than die in a car crash.\nI'd prefer to die in my sleep rather than die in a car crash.",
+                        "I'd rather marry someone beautiful but stupid than marry someone ugly but intelligent.\nI'd prefer to marry someone beautiful but stupid rather than marry someone ugly but intelligent.",
+                        "I'd rather be poor and have many friends than be rich and have no friends.\nI'd prefer to be poor and have many friends rather than be rich and have no friends."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Wielka Gramatyka Języka Angielskiego; ex. 22/361",
+                    "task": "Przetłumacz poniższe zdania, korzystając z wyrazów w nawiasach.",
+                    "content": [
+                        "Wolałabym pójść do kina niż do teatru. (rather)",
+                        "Wolelibyśmy jechać na wycieczkę, niż pracować. (rather)",
+                        "Wolałabym być teraz sama. (prefer)",
+                        "Walałbym, żebyś więcej do mnie nie dzownił. (prefer)",
+                        "Kiedy byłam mała wolałam jeść słodycze niż warzywa. (rather)",
+                        "Wolałbym, żebyś do mnie nie dzwonił. (rather)"
+                    ],
+                    "answers": [
+                        "I would rather go to the cinema than to the theatre.",
+                        "We would rather go on a trip than work.",
+                        "I would prefer to be alone now.",
+                        "I would prefer you not to call me anymore.",
+                        "When I was little, I would rather have eaten sweets than vegetables.",
+                        "I would rather you didn't call me."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "it's-(high)-time",
+            "subsectionContent": [
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Kiedy używamy konstrukcji It's (high) time? Jak wygląda jej użycie w zdaniu (konstrukcja)?"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz poniższe zdania.",
+                    "content": [
+                        "Czas iść spać.",
+                        "Najwyższy czas, żebyśmy poszli do lekarza.",
+                        "Pora, żebyś zaczął uprawiać sport.",
+                        "Najwyższy czas, żebyśmy mieli dziecko.",
+                        "Czas, żeby ludzie zaczęli dbać o środowisko.",
+                        "Najwyższy czas, żebyś zaczął uczyć się angielskiego."
+                    ],
+                    "answers": [
+                        "It's time to go/we went to bed.",
+                        "It's high time we went to the doctor.",
+                        "It's time for you to start/you started doing sports.",
+                        "It's high time we had a child.",
+                        "It's time for people to start/people started taking care of the environment.",
+                        "It's high time you started learning English."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grama to nie drama 2; ex. ex. 68.2/100-101",
+                    "task": "Kolega opowiada Ci o swoich problemach. Poradź mu, jak może sobie z nimi poradzić. Co czas zrobić?",
+                    "content": [
+                        "My car is really dirty.",
+                        "I don't have a girlfriend.",
+                        "I'm always late for work.",
+                        "This jettle won't work.",
+                        "I don't like my job."
+                    ],
+                    "answers": [
+                        "It's time to clean your car.",
+                        "It's high time you got a girlfriend.",
+                        "It's time you started being on time for work.",
+                        "It's high time you bought a new kettle.",
+                        "It's time you found a new job."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "had-better",
+            "subsectionContent": [
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Kiedy używamy zwrotu had better? Jak wygląda jego użycie w zdaniu (konstrukcja)?"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Wielka Gramatyka Języka Angielskiego; ex. 23/360",
+                    "task": "Dopisz radę do każdej z poniższych sytuacji stosując had better. Radę wybierz z poniższej listy: ask first, not go there, take an umbrella, tell the truth, go to the dentist.",
+                    "content": [
+                        "It's going to rain. ________________",
+                        "I have a toothache. ________________",
+                        "I want to take my dad's car. ________________",
+                        "I lied to my parents. ________________",
+                        "This place looks dangerous. ________________"
+                    ],
+                    "answers": [
+                        "You had better take an umbrella.",
+                        "You had better go to the dentist.",
+                        "You had better ask first.",
+                        "You had better tell the truth.",
+                        "You had better not go there."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Wielka Gramatyka Języka Angielskiego; ex. 23/360",
+                    "task": "Wyobraź sobie, że za miesiąc bierzesz ślub. Organizacja ślubu i wesela to duże wyzwania i sporo może pojść nie tak. Przygotuj 5 zdań o tym, co masz nadzieję, że się wydarzy i nie wydarzy tego dnia, używając had better.",
+                    "content": [
+                        "Example: There had better be enough alcohol for Uncle Kazik."
+                    ],
+                    "answers": [
+                        "Example sentences:\nThere had better be a good meal.\nA photographer had better have a good camera.\nThere had better be a good weather.\nThere had better be a good atmosphere.\nA band had better play good music."
                     ]
                 }
             ]
