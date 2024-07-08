@@ -2576,6 +2576,47 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 3/244",
+                    "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach.",
+                    "content": [
+                        "Tom ___ (learn) to play the trumpet since he was six.",
+                        "This time next week I expect I ___ (sunbathe) on the beach in Majorca.",
+                        "I’ll wait here until the rehearsal ___ (finish).",
+                        "I’m afraid it’s too late. By the time we get there, the film ___ (start).",
+                        "I had a nightmare yesterday – I ___ (chase) by a pack of hungry wolves.",
+                        "Mobile phones ___ (become) cheaper and cheaper.",
+                        "I ___ (do) the shopping yesterday when I bumped into an old friend of mine.",
+                        "I’m sure she’ll call us as soon as the ship ___ (reach) its destination."
+                    ],
+                    "answers": [
+                        "has been learning",
+                        "will be sunbathing",
+                        "finishes",
+                        "will have started",
+                        "was being chased",
+                        "are becoming",
+                        "was doing",
+                        "reaches"
+                    ]
+                },                
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 1/244",
+                    "task": "Wybierz poprawną odpowiedź.",
+                    "content": [
+                        "Dr Stevenson is very experienced. How long ___ here?\na) has he been working\nb) is he working\nc) does he work\nd) had he worked",
+                        "Martha ___ her class reunion next week. Everything has already been arranged.\na) has\nb) will have\nc) is having\nd) would have",
+                        "Before I met Chris, I ___ truly in love.\na) had never been\nb) would never be\nc) never was\nd) have never been",
+                        "I’m sure you’ll recognise him. He ___ a black duffle coat.\na) would wear\nb) will have worn\nc) will wear\nd) will be wearing",
+                        "When I entered the room, everybody ___ .\na) has been dancing\nb) was dancing\nc) had been dancing\nd) was used to dancing",
+                        "Have you heard the news? Tom and Sarah ___ married on 20 March.\na) were going to get\nb) would get\nc) are getting\nd) will get"
+                    ],
+                    "answers": [
+                        "1. a, 2. c, 3. a, 4. d, 5. b, 6. c"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wybierz poprawną odpowiedź.",
                     "content": [
@@ -2608,6 +2649,88 @@
                     ],
                     "answers": [
                         "1. b, 2. c, 3. a, 4. b, 5. d, 6. a, 7. b, 8. d"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 2/244",
+                    "task": "Wybierz właściwą formę czasownika.",
+                    "content": [
+                        "\nA:\tHi there. I ___ (phone / am phoning) to ask a question about a delivery. We ___ (have been waiting / were waiting) for it yesterday, but the package still ___ (hasn’t come / didn’t come).\n\nB:\tLet me just ___ (check / to check) it for you. Oh dear, you’re right – you ___ (should receive / should have received) it yesterday.\n\nA:\tDo you know why it ___ (is not arriving / hasn’t arrived)? The problem is that we ___ (made / make) a promise to our customers.\n\nB:\tThat’s terrible. I ___ (don’t know / didn’t know) why it ___ (hasn’t come / isn’t coming) yet, but I ___ (am calling / will call) the courier now to see if they can explain. I ___ (will get / would get) back to you as soon as I ___ (will know / know) how to solve your problem."
+                    ],
+                    "answers": [
+                        "am phoning, were waiting, hasn’t come, check, should have received, hasn’t arrived, made, don’t know, hasn’t come, will call, will get, know"
+                    ]
+                },     
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 4/244",
+                    "task": "Uzupełnij tekst właściwymi formami czasowników w nawiasach.",
+                    "content": [
+                        "The Tower of London is one of Britain’s most famous tourist attractions. Through the centuries it ________ (1)(play) a vital role in the country’s history. Over the years the monarchs ________ (2)(use) it as a castle and a prison. However, little ________ (3)(know) about its other functions. For example, there was a time when it ________ (4)(know) for ________ (5)(be) a royal observatory or even a royal zoo.\n\nThe history of the building ________ (6)(date) back to 1066. As soon as England ________ (7)(conquer) by the Normans, the new king, William I, ________ (8)(give) orders ________ (9)(build) a wooden castle near the river Thames with the aim of ________ (10)(improve) London’s safety. Ten years later, William had the castle ________ (11)(rebuild) in stone. It was then that the castle started ________ (12)(know) as the White Tower and ________ (13)(associate) as a symbol of the oppression ________ (14)(create) by the new king.\n\nThe tower as we know it today ________ (15)(surround) by a huge stone fortress. However, it ________ (16)(not be) William I who ________ (17)(build) it; the tower ________ (18)(add) by other monarchs during later centuries. The entire building complex ________ (19)(take up) an impressive area of seven hectares."
+                    ],
+                    "answers": [
+                        "has played",
+                        "have used",
+                        "is known",
+                        "was known",
+                        "being",
+                        "dates",
+                        "was conquered",
+                        "gave",
+                        "to build",
+                        "improving",
+                        "rebuilt",
+                        "to be known/being known",
+                        "(be) associated",
+                        "created",
+                        "is surrounded",
+                        "was not",
+                        "built",
+                        "was added",
+                        "takes up"
+                    ]
+                },  
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 5/244",
+                    "task": "Przekształć zdania, używając podanych początków i zakończeń, tak aby zachować znaczenie zdania wyjściowego.",
+                    "content": [
+                        "I haven’t driven on the left side of the road for ages.\nIt’s ages __________ on the left side of the road.",
+                        "Several thousand tourists visit the Natural History Museum in our city every month.\nBy the end of the month __________ the Natural History Museum in our city.",
+                        "When did you start learning Chinese?\nHow long __________ Chinese?",
+                        "We ate all the food before the other guests arrived.\nBy the time __________ all the food.",
+                        "The last time this nation overthrew the government was about fifty years ago.\nThis nation __________ for about fifty years.",
+                        "Having introduced my girlfriend to my parents, I started talking about our engagement plans.\nAfter I __________, I started talking about our engagement plans."
+                    ],
+                    "answers": [
+                        "since I drove",
+                        "several thousand tourists will have visited",
+                        "have you been learning",
+                        "other guests arrived, we had eaten",
+                        "hasn't/haven't overthrown the government",
+                        "had introduced my girlfriend to my parents"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 6/245",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "When I was a child, my grandfather ___ (siadywał ze mną i opowiadał) me stories about the Warsaw Uprising.",
+                        "I will continue to study ___ (dopóki nie obronię) my Master’s thesis.",
+                        "When I saw Mary, her eyes were swollen because she ___ (długo płakała).",
+                        "Her carelessness drives me crazy! She ___ (zawsze gubi moje klucze).",
+                        "I need a break! ___ (Podlewałam kwiaty) in the garden for almost two hours.",
+                        "By the time I got home, the children ___ (poszły już spać)."
+                    ],
+                    "answers": [
+                        "would sit with me and tell",
+                        "until I defend",
+                        "had been crying for a long time",
+                        "is always losing my keys",
+                        "I have been watering the flowers",
+                        "had already gone to bed"
                     ]
                 },
                 {
@@ -2667,7 +2790,7 @@
                         "They will have finished the bridge by the end of the month.",
                         "I will have been watching TV for 2 hours by 6 pm. "
                     ]
-                },
+                },          
                 {
                     "type": "exercise",
                     "source": "Own tasks",
