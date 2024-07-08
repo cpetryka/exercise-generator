@@ -5,6 +5,16 @@
             "subsectionName": "i-wish-and-if-only",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Czasownik wish",
+                    "src": "wish.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "If only",
+                    "src": "if-only.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotów I wish/If only? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?"
@@ -105,6 +115,21 @@
             "subsectionName": "would-rather-and-would-prefer",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Would rather/sooner (part 1)",
+                    "src": "would-rather-1.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Would rather/sooner (part 2)",
+                    "src": "would-rather-2.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "(Would) prefer",
+                    "src": "prefer-and-would-prefer.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotów would rather/would prefer? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?"
@@ -171,8 +196,13 @@
             ]
         },
         {
-            "subsectionName": "it's-(high)-time",
+            "subsectionName": "it-is-time",
             "subsectionContent": [
+                {
+                    "type": "theory",
+                    "heading": "It's (high/about) time",
+                    "src": "it-is-(high)-time.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -224,6 +254,21 @@
             "subsectionName": "had-better",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Had better",
+                    "src": "had-better.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Should and had better - comparison",
+                    "src": "should-vs-had-better.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Should and had better and must - comparison",
+                    "src": "should-vs-had-better-vs-must.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotu had better? Jak wygląda jego użycie w zdaniu (konstrukcja)?"
@@ -263,6 +308,11 @@
         {
             "subsectionName": "summary",
             "subsectionContent": [
+                {
+                    "type": "theory",
+                    "heading": "Unreal Past - summary",
+                    "src": "unreal-past-summary.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 2/88 from workbook",
