@@ -336,6 +336,31 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 2/236",
+                    "task": "Które formy czasowników poprawnie uzupełniają zdania?",
+                    "content": [
+                        "We’re having a great time in Bournemouth. I wish you ... (are / were / had been) here.",
+                        "It’s high time you ... (had learnt / will learn / learnt) Italian. You need to communicate with Paolo.",
+                        "I wish you ... (hadn’t done / wouldn’t do / don’t do) it. It’s so annoying!",
+                        "Matthew wishes he ... (has / had / had had) a boat. He belongs to Sea Scouts and loves sailing.",
+                        "You’d better ... (get down / get down / got down) to work before the boss returns.",
+                        "If only I ... (knew / would know / had known) then what I know now.",
+                        "I’d sooner we ... (went / had gone / go) to the cinema with them last week. The film is not on any more.",
+                        "I wish he ... (had stopped / would stop / stopped) blowing his nose so loudly. I can’t concentrate on the programme."
+                    ],
+                    "answers": [
+                        "were",
+                        "learnt",
+                        "wouldn’t do",
+                        "had",
+                        "get down",
+                        "had known",
+                        "had gone",
+                        "would stop"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/111 from student's book",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
                     "content": [
@@ -382,6 +407,31 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 3/246",
+                    "task": "Przekształć zdania, używając podanych początków i zakończeń, tak aby zachować znaczenie zdań wyjściowych. Zapisz odpowiedzi w zeszycie.",
+                    "content": [
+                        "Jessica’s manager is angry with her because she often misses deadlines for projects.\nJessica’s manager __________ deadlines for projects.",
+                        "I regret that I told my parents about our engagement.\nIf only I __________ about our engagement.",
+                        "Margaret asks such stupid questions! It’s really irritating!\nI wish __________ stupid questions.",
+                        "You should apologise for your rude behaviour.\nYou’d __________ rude behaviour.",
+                        "I’m afraid I don’t know the answer to your question.\nI wish __________ to your question.",
+                        "I’m very disappointed that John missed the penalty in yesterday’s match.\nIf only John __________ in yesterday’s match.",
+                        "I’d like to be tall.\nI wish __________ tall!",
+                        "Mark talks about himself all the time.\nIf only Mark __________ about himself all the time!"
+                    ],
+                    "answers": [
+                        "would prefer her not to miss",
+                        "hadn’t told my parents",
+                        "Margaret wouldn't ask such",
+                        "better apologise for your",
+                        "I knew the answer",
+                        "hadn’t missed the penalty",
+                        "I were",
+                        "didn’t/wouldn't talk"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/111 from student's book",
                     "task": "Utwórz nowe zdania używając słów podanych w nawiasach.",
                     "content": [
@@ -403,6 +453,27 @@
                         "I would rather you spent more time studying.",
                         "It's about time you took your piano playing seriously.",
                         "Imagine you won a lot of money. Would you spend it on your education?"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 1/236",
+                    "task": "Przetłumacz fragmenty zdań podane w nawiasach.",
+                    "content": [
+                        "If only __________ (nie musielibyśmy) deal with troublesome customers!",
+                        "I’d rather __________ (żebyś przestał) teasing me like that.",
+                        "If only __________ (umiałbym tańczyć) as gracefully as Bethany.",
+                        "__________ (Sarah żałuje, że nie zaczęła) taking the traditional medicine earlier.",
+                        "It’s time __________ (żebyś powiedziała nam prawdę) about the accident.",
+                        "__________ (Szkoda, że nie przypomniałaś mi) about the parent-teacher meeting."
+                    ],
+                    "answers": [
+                        "we didn’t have to",
+                        "you stopped",
+                        "I could dance",
+                        "Sarah wishes she had started",
+                        "you told/for you to tell us the truth",
+                        "I wish you had reminded me"
                     ]
                 },
                 {
