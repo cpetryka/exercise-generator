@@ -12,9 +12,9 @@ class ExerciseGenerator {
         this.#data = utils.createJsonObject([
             'tenses',
             'passive-voice',
-            'reported-speech',
             'conditionals',
             'unreal-past',
+            'reported-speech',
             'relative-clauses',
             'verbs',
             'inversion',
