@@ -639,6 +639,111 @@
                     ]
                 }
             ]
+        },
+        {
+            "subsectionName": "summary",
+            "subsectionContent": [
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 21/94",
+                    "task": "Popraw błędy w poniższych zdaniach.",
+                    "content": [
+                        "He is said he has been promoted.",
+                        "This pie was made by shortcrust pastry.",
+                        "Who was this cake made?",
+                        "Have you your car serviced often?",
+                        "Green clothes are suited by Katie.",
+                        "The man was seen hit the police officer.",
+                        "The house has decorated recently."
+                    ],
+                    "answers": [
+                        "to have been",
+                        "was made with",
+                        "made by",
+                        "Do you have",
+                        "suit",
+                        "was seen to hit",
+                        "has been decorated"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 22/94",
+                    "task": "Z każdego zdania wykreśl jedno zbędne słowo.",
+                    "content": [
+                        "Valerie was being sent on an important mission last month.",
+                        "She doesn’t mind to having her house photographed for interior decoration magazines.",
+                        "The famous star is believed to have been signed a new multi-million dollar contract.",
+                        "This car it is expected to be very popular with the younger generation.",
+                        "She was seen to entering the Plaza Hotel late last night.",
+                        "The painting was disappeared from the owner’s house yesterday.",
+                        "Did you have had the food provided by a caterer?",
+                        "The Prime Minister is said that to be thinking of introducing a new tax.",
+                        "You should to have an extension built as soon as possible.",
+                        "She insists on having been her breakfast brought to her room at nine o'clock sharp."
+                    ],
+                    "answers": [
+                        "being",
+                        "to",
+                        "been",
+                        "it",
+                        "to",
+                        "was",
+                        "had",
+                        "that",
+                        "to",
+                        "been"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 19/93 (sentences 1-10)",
+                    "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
+                    "content": [
+                        "The boss will shout at you if you’re late again. (get)\nYou __________ if you’re late again.",
+                        "People say that a problem shared is a problem halved. (be)\nA problem shared __________ a problem halved.",
+                        "John repaired the fence after the storm. (was)\nThe fence __________ John after the storm.",
+                        "Ann likes people listening to her when she is talking. (being)\nAnn __________ when she is talking.",
+                        "Mum will tell you off if you don’t stop fighting. (will)\nYou __________ if you don’t stop fighting.",
+                        "Daniel hasn’t locked the doors yet. (been)\nThe doors __________ yet.",
+                        "Are the local artists organising a new exhibition this year? (organised)\nIs a new exhibition __________ the local artists this year?",
+                        "They expect the police to be present at the demonstration. (expected)\nThe police __________ at the demonstration.",
+                        "Janet needs someone to teach her how to drive. (be)\nJanet needs __________ how to drive.",
+                        "Someone should tell Pauline about the new arrangements. (be)\nPauline __________ about the new arrangements."
+                    ],
+                    "answers": [
+                        "will get shouted at",
+                        "is said to be",
+                        "was repaired by",
+                        "likes being listened to",
+                        "will be told off",
+                        "haven’t been locked",
+                        "being organised by",
+                        "are expected to be present",
+                        "to be taught",
+                        "should be told"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 19/93 (sentences 11-15)",
+                    "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
+                    "content": [
+                        "Colin is mending the broken table. (by)\nThe broken table __________ Colin.",
+                        "Someone told us about the party. (were)\nWe __________ the party.",
+                        "She will get a famous designer to design her wedding dress. (have)\nShe will __________ by a famous designer.",
+                        "Two of his teeth were broken in a fight. (had)\nHe __________ broken in a fight.",
+                        "They will give Lily a pay rise this month. (be)\nLily __________ a pay rise this month."
+                    ],
+                    "answers": [
+                        "is being mended by",
+                        "were told about",
+                        "have her wedding dress designed",
+                        "had two of his teeth",
+                        "will be given"
+                    ]
+                }                                          
+            ]
         }
     ]
 }

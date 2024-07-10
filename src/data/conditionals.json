@@ -451,6 +451,128 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 7/129 (sentences 1-8)",
+                    "task": "Wyrazy w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "She would have come to dinner if we __________ (invite) her.",
+                        "If you had locked the door, the burglars __________ (not/get) in.",
+                        "Were I you, I __________ (put on) some warmer clothes.",
+                        "Joan __________ (be able to) come to the party if she wasn’t working.",
+                        "Had I heard any news, I __________ (tell) you immediately.",
+                        "Paul __________ (ruin) his shirt if he climbs that tree.",
+                        "If Mark __________ (be) younger, he could join the army.",
+                        "She would have stayed at home if she __________ (know) there would be so much traffic."
+                    ],
+                    "answers": [
+                        "had invited",
+                        "wouldn't have got",
+                        "would put on",
+                        "would be able to",
+                        "would have told",
+                        "may/will ruin",
+                        "was/were",
+                        "had known"
+                    ]
+                },   
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 7/129 (sentences 9-14)",
+                    "task": "Wyrazy w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "Should he __________ (get) this job, he will be able to buy his own flat.",
+                        "If you __________ (put) your keys in your pocket, you wouldn’t have lost them.",
+                        "She will be here at eight unless she __________ (lose) her way.",
+                        "If I were you, I __________ (not/go) out in this weather.",
+                        "Emily __________ (call) me if she had changed her mind.",
+                        "If you like Tom Cruise, you __________ (love) this film."
+                    ],
+                    "answers": [
+                        "get",
+                        "had put",
+                        "loses",
+                        "wouldn't go",
+                        "would have called",
+                        "will love"
+                    ]
+                },     
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 9/129 (sentences 1-8)",
+                    "task": "Wstaw czasowniki w nawiasach w odpowiedniej formie.",
+                    "content": [
+                        "A: If you __________ (pass) a bakery, __________ (you/buy) some bread, please?\nB: Yes, of course. How much do you need?",
+                        "A: Did you invite Tim to the party?\nB: No, but when I __________ (speak) to him, I __________ (invite) him.",
+                        "A: May I go out now, please?\nB: Yes, provided you __________ (do) your homework.",
+                        "A: Mum seems very busy at the moment.\nB: Were I you, I __________ (offer) to help her.",
+                        "A: Hurry up, or else we __________ (miss) the train.\nB: I know, I’m being as quick as I can.",
+                        "A: Unless you __________ (work) hard, you __________ (fail) the exam.\nB: I know. I’ve been studying every evening.",
+                        "A: I forgot to ask Simon for his phone number.\nB: If I __________ (see) him today, I __________ (ask) him for you.",
+                        "A: Peter won’t help me with my homework.\nB: I’m sure he __________ (help) you if he __________ (have) the time."
+                    ],
+                    "answers": [
+                        "pass, will you buy",
+                        "speak, will invite",
+                        "have done",
+                        "would offer",
+                        "will miss",
+                        "work, will fail",
+                        "see, will ask",
+                        "would help, had"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 9/129 (sentences 9-14)",
+                    "task": "Wstaw czasowniki w nawiasach w odpowiedniej formie.",
+                    "content": [
+                        "A: I’m not going to tell him what happened.\nB: What if he __________ (find out) on his own?",
+                        "A: If I __________ (not/buy) that lottery ticket, I __________ (never/win) all this money!\nB: I know. Isn’t it amazing!",
+                        "A: Unless you __________ (go) to bed now, you __________ (be) tired in the morning.\nB: I know. I’m going.",
+                        "A: I need some wrapping paper.\nB: Well, if I __________ (find) any at the shop, I __________ (buy) some for you.",
+                        "A: Can I have some chocolate cake, please?\nB: Well, as long as you __________ (eat/have eaten) all your dinner, you can have some chocolate cake.",
+                        "A: I hate going into town.\nB: So do I. Whenever I __________ (go) into town, I __________ (come back) with a headache."
+                    ],
+                    "answers": [
+                        "finds out",
+                        "hadn’t bought, would never have won",
+                        "go, will be",
+                        "find, will buy",
+                        "eat/have eaten",
+                        "go, come back"
+                    ]
+                },                                   
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 8/129",
+                    "task": "Podkreśl właściwe słowo lub wyrażenie.",
+                    "content": [
+                        "I’ll lend you the money (on condition that/unless) you pay it back soon.",
+                        "(Even if/But for) her help, I’d be in trouble now.",
+                        "(Unless/Provided) it stops raining, we won’t be going to the park.",
+                        "I couldn’t lend them the money (even if/or) I wanted to.",
+                        "Try to be here on time, (and/otherwise) we’ll miss the beginning of the film.",
+                        "‘I’ll wear Mum’s necklace for the party.’ ‘(What if/Otherwise) you lose it?’",
+                        "(Supposing/Providing) we went to London – what could we do there?",
+                        "Be late again (provided/and) you’ll have to see the manager.",
+                        "(In case of/On condition that) an emergency, call this number.",
+                        "You can go to the party (in case of/as long as) you are home before 11 pm."
+                    ],
+                    "answers": [
+                        "on condition that",
+                        "But for",
+                        "Unless",
+                        "even if",
+                        "otherwise",
+                        "What if",
+                        "Supposing",
+                        "and",
+                        "In case of",
+                        "as long as",
+                        "or"
+                    ]
+                },                                     
+                {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 7/110 from student's book",
                     "task": "Utwórz zdania warunkowe używając wyrażeń podanych w nawiasach.",
                     "content": [
