@@ -55,7 +55,7 @@
                     "content": [
                         "If only ... (nie kupiła) this car. It's giving me lots of trouble.",
                         "Pam wishes the teachers ... (nie zadawali) her so much homework.",
-                        "If only I ... (mógł studiować) in London. I would hace so many cool experiences!",
+                        "If only I ... (mógł studiować) in London. I would have so many cool experiences!",
                         "Do you sometimes wish ... (żeby być) a completely different person?",
                         "Peter wishes he ... (urodził się) very rich. He wouldn't have to look for a job."
                     ],
@@ -147,12 +147,12 @@
                         "_____ (Wolę, żebyś nie mówił) anything about it. It's a secret."
                     ],
                     "answers": [
-                        "I'd rather kiss / I'd prefer to kiss",
+                        "I'd rather kiss (jedynie ta odpowiedź jest poprawna ponieważ w zdaniu występuje 'than')",
                         "Would you rather buy me / Would you prefer to buy me",
                         "I'd rather have stayed / I'd prefer to have stayed",
-                        "I'd rather you forgot / I'd prefer you forgot",
-                        "They'd rather not come / They'd prefer not to come",
-                        "I'd rather you didn't say / I'd prefer you didn't say"
+                        "I'd rather you forgot / I'd prefer you to forget",
+                        "They'd rather not have come / They'd prefer not to have come",
+                        "I'd rather you didn't say / I'd prefer you not to say"
                     ]
                 },
                 {
@@ -237,7 +237,7 @@
                         "My car is really dirty.",
                         "I don't have a girlfriend.",
                         "I'm always late for work.",
-                        "This jettle won't work.",
+                        "This kettle won't work.",
                         "I don't like my job."
                     ],
                     "answers": [
