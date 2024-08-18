@@ -181,6 +181,40 @@
             "subsectionContent": [
                 {
                     "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 1/226",
+                    "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach. Dodaj właściwe przyimki tam, gdzie jest to konieczne.",
+                    "content": [
+                        "Robert apologised ___________ (miss) our football training session yesterday.",
+                        "We were ordered by the burglars ___________ (not move).",
+                        "At the end of a long trial, the defendant admitted ___________ (commit) the crime.",
+                        "What do you suggest ___________ (do) in such a situation?"
+                    ],
+                    "answers": [
+                        "for missing",
+                        "not to move",
+                        "to committing",
+                        "doing"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 2/226",
+                    "task": "Uzupełnij drugie zdanie tak, aby znaczyło to samo, co pierwsze, używając podanego słowa.",
+                    "content": [
+                        "'Barbara, great news about your History exam!' (PASSING)\nTom ___________ her History exam.",
+                        "'We must meet again next year in Paris.' (INSISTED)\nJulia and Trevor ___________ in Paris.",
+                        "'It's bad you didn't win the last match, boys!' (CRITICISED)\nOur PE teacher ___________ the last match.",
+                        "'Ian, you have broken the window!' (FOR)\nThe teacher ___________."
+                    ],
+                    "answers": [
+                        "congratulated Barbara on passing",
+                        "insisted on meeting again next year",
+                        "criticised the boys for not winning",
+                        "blamed Ian for breaking"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source":"Password 3 (macmillan); ex. 1/47 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -319,6 +353,27 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 1/225",
+                    "task": "Uzupełnij zdania właściwymi wyrazami (okolicznikami czasu i miejsca, zaimkami wskazującymi, zaimkami osobowymi i zwrotnymi oraz zaimkami i przymiotnikami dzierżawczymi).",
+                    "content": [
+                        "'I'm leaving this hotel now.'\nShe said she was leaving ... hotel ...",
+                        "'We have to put off making the decision until tomorrow.'\nShe said that they had to put off making the decision until ...",
+                        "'The teacher wants to see you to talk about my grades.'\nI told my father the teacher wanted to see ... to talk about ... grades.",
+                        "'I can meet you here today.'\nMary said that she could meet me ...",
+                        "'We've already had our lunch. You can help yourself to everything in the fridge.'\nMy friends told me that ... 'd already had ... lunch and that ... could help ... to everything in the fridge.",
+                        "'Unfortunately all tickets for this concert were sold out two months ago.'\nWe were told that all tickets for ... concert had been sold out ..."
+                    ],
+                    "answers": [
+                        "that, then",
+                        "the next day/the following day",
+                        "him, my",
+                        "there, that day",
+                        "they, their, we/I, ourselves/myself",
+                        "that, two months earlier/two months before"
+                    ]
+                },
+                {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przekształć zdania na mowę zależną.",
                     "content": [
@@ -336,6 +391,23 @@
                         "Tim asked us if we liked Chinese food.",
                         "Mum told me to go to my room.",
                         "Sally asked if I could help her move things to her new flat."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 2/225",
+                    "task": "Przekształć zdania na mowę zależną, używając podanych początków zdań.",
+                    "content": [
+                        "'I’m going to fix this problem myself tomorrow.'\nJane said ...",
+                        "'How long have you been working for your current employer?'\nThe interviewer asked ...",
+                        "'Don’t move your wrist or thumb while doing this exercise.'\nMy PE teacher told ...",
+                        "'Does this car belong to you?'\nThe traffic warden asked my father ..."
+                    ],
+                    "answers": [
+                        "she was going to fix that problem herself the following day.",
+                        "how long I had been working for my current employer.",
+                        "me not to move my wrist or thumb while doing that exercise.",
+                        "if the car belonged to him."
                     ]
                 },
                 {
@@ -369,6 +441,50 @@
                         "the men had been looking for the document they had lost.",
                         "he couldn't concentrate in such a noise.",
                         "she had finished reading the book the day before."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 3/225",
+                    "task": "Przekształć zdania, używając podanych początków i zakończeń, tak aby zachować znaczenie zdania wyjściowego.",
+                    "content": [
+                        "'How much did you spend on your child’s first birthday party?' she asked us.\nShe asked us ...",
+                        "'I can start my project from scratch,' said Peter to the professor.\nPeter told the professor ...",
+                        "'Don’t leave the classroom without permission!' the teacher told the class.\nThe teacher told ...",
+                        "'I’ve stained my new dressing gown,' said Olivia.\nOlivia said ...",
+                        "'You must explain everything to your supervisor,' said one of my co-workers.\nOne of my co-workers told ...",
+                        "'I will work for them if they offer me a good salary,' my father told me.\nMy father told ..."
+                    ],
+                    "answers": [
+                        "how much we had spent on our child's first birthday party.",
+                        "(that) he could start his project from scratch.",
+                        "the class not to leave the classroom without permission.",
+                        "(that) she had stained her new dressing gown.",
+                        "me (that) I had to explain everything to my supervisor.",
+                        "me (that) he would work for them if they offered him a good salary."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Longman rozszerzenie; ex. 4/225",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "He said that he ... (nie będzie mógł dołączyć do nas) the following Friday.",
+                        "The waiter asked me ... (czy zostałam już obsłużona).",
+                        "My tutor wanted to know ... (kiedy zamierzam zacząć) writing my diploma project.",
+                        "Robert told me in secret ... (że zakochał się) with my older sister.",
+                        "Our teacher asked us ... (żebyśmy nie zostawili żadnego) question blank.",
+                        "Another passenger wanted to know ... (gdzie jest toaleta).",
+                        "John said ... (że pracował w tej firmie przez pięć lat) before he got promoted."
+                    ],
+                    "answers": [
+                        "wouldn't be able to join us",
+                        "if I had been served",
+                        "when I was going to start",
+                        "(that) he had fallen in love",
+                        "not to leave any",
+                        "where the toilet was",
+                        "(that) he had worked in this company for five years"
                     ]
                 }
             ]
