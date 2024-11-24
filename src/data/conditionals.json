@@ -618,6 +618,81 @@
                         "If I had known about your problems, I would have helped you.",
                         "I'll do it when I have time."
                     ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://elang.com.pl/materialy/conditional_types_exercises.pdf",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Gdybym była Tobą, przemyślałabym to.",
+                        "Dostaniesz nagordę, jeśli się postarasz.",
+                        "Gdyby wtedy nie skłamał, nie rzuciłaby go.",
+                        "Co powiedziałabyś, gdyby Ci się oświadczył?",
+                        "Jeśli powie jej coś przykrego, zaraz płacze. (zaczyna płakać).",
+                        "Gdybym nawet mogła, nie zmieniłabym niczego w moim życiu.",
+                        "Jeśli się spóźnisz Twoja mama się zezłości.",
+                        "Co zrobimy jak nas złapią?"
+                    ],
+                    "answers": [
+                        "If I were you, I would think it through.",
+                        "You will get a prize if you do your best.",
+                        "If he hadn’t lied then, she would have broken up with him.",
+                        "What would you say if he proposed to you?",
+                        "If he tells her something sad, she starts crying.",
+                        "Eeven if I could, I wouldn’t change anything in my life.",
+                        "If you are late, your mom will get angry.",
+                        "What will we do if they catch us?"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://elang.com.pl/materialy/conditional_types_exercises.pdf",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Co zrobiliby gdyby nas złapali?",
+                        "Gdybym miała dyplom, nie musiałabym teraz brać drugiej pracy.",
+                        "Jeśli możesz zrób to dla mnie.",
+                        "Jeśli podgrzejesz plastik, topi się.",
+                        "Ten pies zaatakuje Cię, jeśli będziesz go drażnił.",
+                        "Powinnaś była z nim porozmawiać, jeśli chciałaś dostać tę pracę.",
+                        "Gdyby nie mieli bogatych rodziców, nie byliby w stanie pojechać do Londynu.",
+                        "Jeśli nie zaczniesz traktować swojej pracy poważnie, wyleją Cię."
+                    ],
+                    "answers": [
+                        "What would they do if they caught us?",
+                        "If I had a diploma, I wouldn’t have to take second job.",
+                        "If you can, do this for me.",
+                        "If you heat plastic, it melts.",
+                        "This dog will attack you if you tease him.",
+                        "You should have talked to him if you had wanted to get this job.",
+                        "If they didn’t have rich parents, they couldn’t afford to go to London.",
+                        "If you don’t start taking your job seriously, they will fire you."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://elang.com.pl/materialy/conditional_types_exercises.pdf",
+                    "task": "Przetłumacz zdania.",
+                    "content": [
+                        "Będę bardzo zdziwiony, jeśli ona nie przyjdzie na przyjęcie.",
+                        "Jeśli pogoda sie nie poprawi, samolot może mieć opóźnienie.",
+                        "Gdyby była teraz w domu, paliloby sie światło.",
+                        "Na twoim miejscu wynajałbym ochroniarzy do pilnowania domu.",
+                        "Jeśli chcesz zdążyć na pociag, powinieneś wstać najpóźniej o szóstej.",
+                        "Jeśli będzie jutro ładna pogoda, pojedziemy na piknik.",
+                        "Gdyby ktoś spróbował mnie obrabować wiedziałbym jak się bronić.",
+                        "Jeśli jedziesz jutro do Warszawy dam Ci paczkę dla brata."
+                    ],
+                    "answers": [
+                        "I will be very surprise if she comes to the party.",
+                        "If the weather doesn’t improve, the plane may be delayed.",
+                        "If she were at home, the light would be on.",
+                        "If I were you, I would hire body guards to protect the house.",
+                        "If you want to get on time for a train, you should get up the latest at six.",
+                        "If the weather is nice tomorrow, we will gor for a picnic.",
+                        "If someone tried to rob me, I would know how to defend myself.",
+                        "If you go to Warsaw tomorrow, I will give you a package for my brother."
+                    ]
                 }
             ]
         }

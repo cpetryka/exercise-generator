@@ -423,90 +423,6 @@
             ]
         },
         {
-            "subsectionName": "personal-and-impersonal-passive-constructions",
-            "subsectionContent": [
-                {
-                    "type": "exercise",
-                    "source": "Password 3 (macmillan); ex. 1/68 from workbook",
-                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
-                    "content": [
-                        "Newspapers report that someone has stolen the Mona Lisa.",
-                        "They consider him the best IT specialist in the company.",
-                        "People say he invented many useful devices.",
-                        "They believed the Earth was flat.",
-                        "They expect she'll win tge race.",
-                        "People said she had supernatural powers.",
-                        "They say he is a hacker.",
-                        "Some people think tipping is insulting."
-                    ],
-                    "answers": [
-                        "The Mona Lisa is reported to have been stolen. / It is reported that the Mona Lisa has been stolen.",
-                        "He is considered to be the best IT specialist in the company. / It is considered that he is the best IT specialist in the company.",
-                        "He is said to have invented many useful devices / It is said that he invented many useful devices.",
-                        "The Earth was believed to be flat. / It was believed that the Earth was flat.",
-                        "It is expected that she'll win the race. / She is expected to win the race.",
-                        "It is said that she had supernatural powers. / She was said to have supernatural powers.",
-                        "He is said to be a hacker. / It is said that he is a hacker.",
-                        "Tipping is thought to be insulting. / It is thought that tipping is insulting. "
-                    ]
-                },
-                {
-                    "type": "exercise",
-                    "source": "Password 3 (macmillan); ex. 4/85 from student's book",
-                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
-                    "content": [
-                        "People say that computers are already advanced enough to make their own decisions.",
-                        "Many people believe that living on other planets will be possible in less than 50 years.",
-                        "They assumed that she was the most innovative engineer in the company.",
-                        "People once hoped that time travel was possible.",
-                        "Experts say that high tech gadgets cost much more than they are actually worth.",
-                        "People think that depending on technological devices has made us less active.",
-                        "We believed that Bell was a great inventor.",
-                        "Do people believe that Einstein was the most intelligent person ever?"
-                    ], 
-                    "answers": [
-                        "Computer are said to be already advanced enough to make their own decisions.\nIt is said that computers are already advanced enough to make their own decisions.",
-                        "Living on other planets is believed to be possible in less than 50 years.\nIt is believed that living on other planets will be possible in less than 50 years.",
-                        "She was assumed to be the most innovative engineer in the company.\nIt was assumed that she was the most innovative engineer in the company.",
-                        "Time travel was once hoped to be possible.\nIt was once hoped that time travel was possible.",
-                        "High tech gadgets are said to cost much more than they are actually worth.\nIt is said that high tech gadgets cost much more than they are actually worth.",
-                        "Depending on technological devices is thought to have made us less active.\nIt is thought that depending on technological devices has made us less active.",
-                        "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
-                        "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
-                    ]
-                },
-                {
-                    "type": "exercise",
-                    "source": "Grammarway 3 (express publishing); ex. 11/78",
-                    "task": "Dokonaj transformacji zdań, używając personal and impersonal passive constructions.",
-                    "content": [
-                        "It is thought that the school has good teachers.\nThe school...",
-                        "It is expected that he will win the race tomorrow.\nHe...",
-                        "It is said that she speaks seven languages.\nShe...",
-                        "It is believed that the missing jewellery has been found.\nThe missing jewellery...",
-                        "It is thought that she was a talented pianist.\nShe...",
-                        "It is said that the athletes trained for eight hours every day.\nThe athletes...",
-                        "It is expected that the American team will break the world record.\nThe American team...",
-                        "It is known that she is hiding somewhere in the city.\nShe...",
-                        "It is reported that the thieves have escaped from prison.\nThe thieves...",
-                        "It is expected that they will give her the prize.\nShe..."
-                    ], 
-                    "answers": [
-                        "is thought to have good teachers.",
-                        "is expected to win the race tomorrow.",
-                        "is said to speak seven languages.",
-                        "is believed to have been found.",
-                        "is thought to have been a talented pianist.",
-                        "are said to have trained for eight hours every day.",
-                        "is/are expected to break the world record.",
-                        "is known to be hiding somewhere in the city.",
-                        "are reported to have escaped from prison.",
-                        "is expected to be given the prize."
-                    ]
-                }
-            ]
-        },
-        {
             "subsectionName": "have-sth-done",
             "subsectionContent": [
                 {
@@ -581,6 +497,219 @@
                         "Becky has her hair done every week.",
                         "Jane is going to have her living room redecorated next month.",
                         "I have my eyes tested by the optician."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Exercise 2 from the following link: https://blog-eangielski.pl/wp-content/uploads/2023/09/Have-something-done-%E2%80%93-%C4%86wiczenia-7.pdf",
+                    "task": "Przekształć poniższe zdania używając konstrukcji 'have sth done'.",
+                    "content": [
+                        "They are painting our house.",
+                        "A clockmaker fixed Peter’s watch.",
+                        "The dentist checks my teeth once a year.",
+                        "The doctors removed my tonsils when I was a teenager.",
+                        "A cleaner vacuums my apartment once a week.",
+                        "Two men will paint the fence.",
+                        "A locksmith has changed a lock in my door.",
+                        "A postman is going to deliver Lucy’s package.",
+                        "Gardeners have planted some trees in our garden.",
+                        "They are repairing the roof."
+                    ],
+                    "answers": [
+                        "We are having our house painted.",
+                        "Peter had his watch fixed by a clockmaker.",
+                        "I have my teeth checked once a year by the dentist.",
+                        "I had my tonsils removed when I was a teenager.",
+                        "I have my apartment vacuumed once a week by a cleaner.",
+                        "We will have the fence painted by two men.",
+                        "I have had a lock in my door changed by a locksmith.",
+                        "Lucy is going to have her package delivered by a postman.",
+                        "We have had some trees planted in our garden by gardeners.",
+                        "We are having the roof repaired."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Exercise 3 from the following link: https://blog-eangielski.pl/wp-content/uploads/2023/09/Have-something-done-%E2%80%93-%C4%86wiczenia-7.pdf",
+                    "task": "Przekształć poniższe zdania używając konstrukcji 'have sth done'.",
+                    "content": [
+                        "A carpenter designed furniture for us.",
+                        "Painters have painted my kitchen.",
+                        "A hairdresser will dye my hair.",
+                        "A lawyer is going draw up a contract for Olivia.",
+                        "A handyman repaired Luke’s TV.",
+                        "They are delivering my new washing machine.",
+                        "Lucy might bake a cake for me.",
+                        "Peter will be installing new software on my computer",
+                        "Ashlie was making jewellery for my mum.",
+                        "A gardener cuts the grass outside her house once a month."
+                    ],
+                    "answers": [
+                        "We had our furniture designed by a carpenter.",
+                        "I have had my kitchen painted by painters.",
+                        "I will have my hair dyed by a hairdresser.",
+                        "Olivia is going to have a contract drawn up by a lawyer.",
+                        "Luke had his TV repaired by a handyman.",
+                        "I am having my new washing machine delivered.",
+                        "I might have a cake baked by Lucy.",
+                        "I will have new software installed on my computer by Peter.",
+                        "My mum was having jewellery made by Ashlie.",
+                        "She has the grass outside her house cut once a month by a gardener."
+                    ]
+                }
+            ]
+        },
+        {
+            "subsectionName": "personal-and-impersonal-passive-constructions",
+            "subsectionContent": [
+                {
+                    "type": "exercise",
+                    "source": "Password 3 (macmillan); ex. 1/68 from workbook",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "Newspapers report that someone has stolen the Mona Lisa.",
+                        "They consider him the best IT specialist in the company.",
+                        "People say he invented many useful devices.",
+                        "They believed the Earth was flat.",
+                        "They expect she'll win tge race.",
+                        "People said she had supernatural powers.",
+                        "They say he is a hacker.",
+                        "Some people think tipping is insulting."
+                    ],
+                    "answers": [
+                        "The Mona Lisa is reported to have been stolen. / It is reported that the Mona Lisa has been stolen.",
+                        "He is considered to be the best IT specialist in the company. / It is considered that he is the best IT specialist in the company.",
+                        "He is said to have invented many useful devices / It is said that he invented many useful devices.",
+                        "The Earth was believed to be flat. / It was believed that the Earth was flat.",
+                        "It is expected that she'll win the race. / She is expected to win the race.",
+                        "It is said that she had supernatural powers. / She was said to have supernatural powers.",
+                        "He is said to be a hacker. / It is said that he is a hacker.",
+                        "Tipping is thought to be insulting. / It is thought that tipping is insulting. "
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://ksmclasses.pbworks.com/f/impersonal-passive-2.pdf; sentences 1-8",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "People believe that English is the most widely spoken language.",
+                        "Police have reported that it was Peter who caused the accident.",
+                        "A journalist reports that they are leaving Las Vegas tomorrow night.",
+                        "The lecturer thought that Columbus never realized that he had discovered America.",
+                        "Their parents thought that the teenagers were dancing at the disco.",
+                        "Everybody thinks that she sings beautifully.",
+                        "The children reported that their friends were swimming when they disappeared.",
+                        "People believed that they had killed the animals during the night."
+                    ],
+                    "answers": [
+                        "English is believed to be the most widely spoken language. / It is believed that English is the most widely spoken language.",
+                        "Peter is reported to have caused the accident. / It has been reported that it was Peter who caused the accident.",
+                        "They are reported to be leaving Las Vegas tomorrow night. / It is reported that they are leaving Las Vegas tomorrow night.",
+                        "Columbus was thought to have never realized that he had discovered America. / It was thought that Columbus never realized that he had discovered America.",
+                        "The teenagers were thought to be dancing at the disco. / It was thought that the teenagers were dancing at the disco.",
+                        "She is thought to sing beautifully. / It is thought that she sings beautifully.",
+                        "Their friends were reported to be swimming when they disappeared. / It was reported that their friends were swimming when they disappeared.",
+                        "The animals were believed to have been killed during the night. / It was believed that they had killed the animals during the night."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://ksmclasses.pbworks.com/f/impersonal-passive-2.pdf; sentences 9-16",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "My friends think that my parents are the best parents in the world.",
+                        "They believed that the horse was a present.",
+                        "People are thinking that drugs are very dangerous.",
+                        "They knew that Mr. Brown was stealing iron from the factory.",
+                        "Ancient people thought that the stars would fall on them.",
+                        "People consider that the team will be classified for the final.",
+                        "Everybody says that he settled the business.",
+                        "The reporters believed that the meeting would finish soon."
+                    ],
+                    "answers": [
+                        "My parents are thought to be the best parents in the world. / It is thought that my parents are the best parents in the world.",
+                        "The horse was believed to be a present. / It was believed that the horse was a present.",
+                        "Drugs are thought to be very dangerous. / It is thought that drugs are very dangerous.",
+                        "Mr. Brown was known to have been stealing iron from the factory. / It was known that Mr. Brown was stealing iron from the factory.",
+                        "The stars were thought to fall on ancient people. / It was thought that the stars would fall on ancient people.",
+                        "The team is considered to be classified for the final. / It is considered that the team will be classified for the final.",
+                        "He is said to have settled the business. / It is said that he settled the business.",
+                        "The meeting was believed to finish soon. / It was believed that the meeting would finish soon."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://ksmclasses.pbworks.com/f/impersonal-passive-2.pdf; sentences 17-22",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "They have thought the sportsmen are arriving today.",
+                        "Citizens presume that the government is responsible for the accident.",
+                        "The newspapers are reporting that the most outstanding athletes represent their country.",
+                        "The shareholders thought that the group had rejected the offer.",
+                        "They say that the meeting will be held here.",
+                        "The hooligans expected that their team would win."
+                    ],
+                    "answers": [
+                        "The sportsmen are thought to be arriving today. / It is thought that the sportsmen are arriving today.",
+                        "The government is presumed to be responsible for the accident. / It is presumed that the government is responsible for the accident.",
+                        "The most outstanding athletes are reported to represent their country. / It is reported that the most outstanding athletes represent their country.",
+                        "The group was thought to have rejected the offer. / It was thought that the group had rejected the offer.",
+                        "The meeting is said to be held here. / It is said that the meeting will be held here.",
+                        "Their team was expected to win. / It was expected that their team would win."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Password 3 (macmillan); ex. 4/85 from student's book",
+                    "task": "Przepisz każde zdanie na dwa różne sposoby, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "People say that computers are already advanced enough to make their own decisions.",
+                        "Many people believe that living on other planets will be possible in less than 50 years.",
+                        "They assumed that she was the most innovative engineer in the company.",
+                        "People once hoped that time travel was possible.",
+                        "Experts say that high tech gadgets cost much more than they are actually worth.",
+                        "People think that depending on technological devices has made us less active.",
+                        "We believed that Bell was a great inventor.",
+                        "Do people believe that Einstein was the most intelligent person ever?"
+                    ], 
+                    "answers": [
+                        "Computer are said to be already advanced enough to make their own decisions.\nIt is said that computers are already advanced enough to make their own decisions.",
+                        "Living on other planets is believed to be possible in less than 50 years.\nIt is believed that living on other planets will be possible in less than 50 years.",
+                        "She was assumed to be the most innovative engineer in the company.\nIt was assumed that she was the most innovative engineer in the company.",
+                        "Time travel was once hoped to be possible.\nIt was once hoped that time travel was possible.",
+                        "High tech gadgets are said to cost much more than they are actually worth.\nIt is said that high tech gadgets cost much more than they are actually worth.",
+                        "Depending on technological devices is thought to have made us less active.\nIt is thought that depending on technological devices has made us less active.",
+                        "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
+                        "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 3 (express publishing); ex. 11/78",
+                    "task": "Dokonaj transformacji zdań, używając personal and impersonal passive constructions.",
+                    "content": [
+                        "It is thought that the school has good teachers.\nThe school...",
+                        "It is expected that he will win the race tomorrow.\nHe...",
+                        "It is said that she speaks seven languages.\nShe...",
+                        "It is believed that the missing jewellery has been found.\nThe missing jewellery...",
+                        "It is thought that she was a talented pianist.\nShe...",
+                        "It is said that the athletes trained for eight hours every day.\nThe athletes...",
+                        "It is expected that the American team will break the world record.\nThe American team...",
+                        "It is known that she is hiding somewhere in the city.\nShe...",
+                        "It is reported that the thieves have escaped from prison.\nThe thieves...",
+                        "It is expected that they will give her the prize.\nShe..."
+                    ], 
+                    "answers": [
+                        "is thought to have good teachers.",
+                        "is expected to win the race tomorrow.",
+                        "is said to speak seven languages.",
+                        "is believed to have been found.",
+                        "is thought to have been a talented pianist.",
+                        "are said to have trained for eight hours every day.",
+                        "is/are expected to break the world record.",
+                        "is known to be hiding somewhere in the city.",
+                        "are reported to have escaped from prison.",
+                        "is expected to be given the prize."
                     ]
                 }
             ]
