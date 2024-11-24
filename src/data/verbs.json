@@ -132,6 +132,35 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "A material from the following link: https://wow.edu.pl/wp-content/uploads/2020/03/Verb-patterns-%C4%87wiczenia.pdf",
+                    "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach.",
+                    "content": [
+                        "I miss ___________ (go) out with my friends so much as I used to.",
+                        "Jake offered ___________ (take care) of Susan’s cats while she’s away and now he’s thinking how she normally manages ___________ (do) it.",
+                        "Has anything happened? You seem ___________ (be) a bit under the weather.",
+                        "Could you please ___________ (turn down) the music? You know I absolutely hate ___________ (listen) to Justin Bieber!",
+                        "Tiffany hopes ___________ (run) a marathon next year.",
+                        "My granny says that she’d choose ___________ (live) in the 60s forever if she could ___________ (have) the chance.",
+                        "Don’t beg me ___________ (change) my mind! I’m not going to lend you any more money!",
+                        "A: It’s written in this book that you need ___________ (believe) in yourself ___________ (learn) anything!\nB: Yeah, I’d like ___________ (see) you learn ___________ (fly) using this method!",
+                        "Why did you tell her ___________ (call) him? You know he’s already found another girlfriend!",
+                        "Helen doesn’t mind ___________ (smoke) in her apartment."
+                    ],
+                    "answers": [
+                        "going",
+                        "to take care; to do",
+                        "to be",
+                        "turn down; listening",
+                        "to run",
+                        "to live; have",
+                        "to change",
+                        "to believe; to learn; to see; to fly",
+                        "to call",
+                        "smoking"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source": "Password 2 (macmillan); ex. 8/7 from student's book",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
@@ -182,6 +211,35 @@
                         "able to get"
                     ]
                 },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://wow.edu.pl/wp-content/uploads/2020/03/Verb-patterns-%C4%87wiczenia.pdf",
+                    "task": "Czy możesz znaleźć błędy w poniższych zdaniach? Niektóre zdania są poprawne.",
+                    "content": [
+                        "Susan’s always enjoyed to reading books.",
+                        "Why are you avoiding talking to her?",
+                        "My dad doesn’t let me going to the parties alone.",
+                        "Phil is considering to go to Harvard.",
+                        "I never thought I’d choose to stay in my hometown.",
+                        "My neighbour practices playing her trombone every day. I can’t stand listen to it anymore!",
+                        "How did you manage paying for all of this by yourself?",
+                        "Our headmaster doesn’t allow us wear very strong make-up to school.",
+                        "I’d prefer to live on a desert island than to live in such a huge city as Tokyo.",
+                        "Jack might to go to the cinema with Wendy today if she agrees going out with him."
+                    ],
+                    "answers": [
+                        "Susan’s always enjoyed READING books.",
+                        "Correct",
+                        "My dad doesn’t let me GO to the parties alone.",
+                        "Phil is considering GOING to Harvard.",
+                        "Correct",
+                        "I can’t stand LISTENING to it anymore!",
+                        "How did you manage TO PAY for all of this by yourself?",
+                        "Our headmaster doesn’t allow us TO WEAR very strong make-up to school.",
+                        "Correct",
+                        "Jack might GO to the cinema with Wendy today if she agrees TO GO out with him."
+                    ]
+                },                
                 {
                     "type": "exercise",
                     "source": "Own tasks",

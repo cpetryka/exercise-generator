@@ -266,7 +266,82 @@
                         "congratulated his opponent on winning",
                         "assured us that he would consider"
                     ]
-                }
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://englishteachermagda.pl/wp-content/uploads/2021/01/Reporting-verbs-praktyka.pdf (exercise 2)",
+                    "task": "Przekształć zdania na mowę zależną.",
+                    "content": [
+                        "'You should wear some warmer clothes because it's very cold,' my mom told me.\nMy mom advised ____________________________________________.",
+                        "'I'm so sorry I didn't show up at the meeting,' Mary said.\nMary apologized ____________________________________________.",
+                        "'Don't forget to take the documents with you,' my husband said to me.\nMy husband reminded ____________________________________________.",
+                        "'Sit down and calm down right now!' said dad to his children.\nDad ordered ____________________________________________.",
+                        "'Don't annoy the cat - it might scratch you!' I said to my younger brother.\nI warned ____________________________________________.",
+                        "'Please, could you lend me your phone just for a second?' the man asked me.\nThe man asked ____________________________________________.",
+                        "'Okay, I'll help you with your homework,' my sister told me.\nMy sister agreed ____________________________________________.",
+                        "'No, you may not drink it. It's for adults only,' said mom to her daughter.\nMom forbade ____________________________________________."
+                    ],
+                    "answers": [
+                        "My mom advised me to wear some warmer clothes because it was cold.",
+                        "Mary apologized for not showing up at the meeting.",
+                        "My husband reminded me to take the documents with me.",
+                        "Dad ordered us to sit down and calm down immediately.",
+                        "I warned my younger brother not to annoy the cat because it might scratch him.",
+                        "The man asked me to lend him my phone for a second.",
+                        "My sister agreed to help me with my homework.",
+                        "Mom forbade us to drink it because it was for adults only."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://englishteachermagda.pl/wp-content/uploads/2021/01/Reporting-verbs-praktyka.pdf (exercise 3)",
+                    "task": "Przekształć zdania na mowę zależną, używając odpowiedniego czasownika mowy zależnej.",
+                    "content": [
+                        "'No, I will not borrow you my clothes anymore,' my sister said to me.",
+                        "'You took all my money from me!,' said Peter to his ex-wife.",
+                        "'You know, I have been waiting in this line for soooo long. I've had enough,' said the lady standing next to me.",
+                        "'Give me your phone, now!' the robber shouted to us.",
+                        "'I've never said I wanted to move abroad,' he told me.",
+                        "'How about going to the beach next weekend?' Emma asked me.",
+                        "'I'm sure it was a howl of a wolf I've heard in the forest,' he said to me.",
+                        "'You should sleep more,' my best friend told me."
+                    ],
+                    "answers": [
+                        "My sister refused to borrow me her clothes anymore.",
+                        "Peter accused his ex-wife of taking/having taken all his money from him.",
+                        "The lady standing next to me complained about waiting/that she had been waiting in that line for so long.",
+                        "The robber demanded that we give him our phones immediately.",
+                        "He denied saying that he wanted to move abroad.",
+                        "Emma suggested going to the beach next weekend.",
+                        "He claimed to have heard a howl of a wolf in the forest/He claimed that he had heard a howl of a wolf in the forest.",
+                        "My best friend advised me to sleep more."
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://englishteachermagda.pl/wp-content/uploads/2021/01/Reporting-verbs-praktyka.pdf (exercise 4)",
+                    "task": "Znajdź i popraw błędy w poniższych zdaniach.",
+                    "content": [
+                        "We offered paying for the delivery, but they refused.",
+                        "He suggested me to give up smoking.",
+                        "My friend refused to admit she was wrong.",
+                        "She promised me to meet at 4pm.",
+                        "Sam admitted not doing his homework.",
+                        "We have agreed organising the event.",
+                        "They recommended to visit this beautiful city.",
+                        "He ordered closing the door."
+                    ],
+                    "answers": [
+                        "We offered TO PAY for the delivery, but they refused.",
+                        "He suggested THAT I GIVE UP smoking.",
+                        "Correct.",
+                        "She promised TO MEET ME at 4pm.",
+                        "Correct.",
+                        "We have agreed TO ORGANISE the event.",
+                        "They recommended VISITING this beautiful city.",
+                        "He ordered US TO CLOSE the door."
+                    ]
+                }                                         
             ]
         },
         {

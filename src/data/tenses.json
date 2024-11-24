@@ -2598,7 +2598,65 @@
                         "was doing",
                         "reaches"
                     ]
-                },                
+                },            
+                {
+                    "type": "exercise",
+                    "source": "A material from the website English Grammar (https://www.english-grammar.at/); Tenses -> All Tenses -> Fill in the correct form - T20 (sentenses 1-10)",
+                    "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach.",
+                    "content": [
+                        "My family have ___________________ (buy) some land in southern France recently. They ___________________ (build) a summer house there at the moment.",
+                        "Andy and Mary ___________________ (go) to a concert tomorrow night. They ____________________________ (look forward to) it the whole week.",
+                        "Jonathon ___________________ (watch) the news on TV every day and it ___________________ (help) him with his English.",
+                        "My car ___________________ (break) down when I ___________________ (drive) home from work. I ________________________ (fix) it if I ___________________ (know) what was wrong. But I didn’t so ___________________ (have) to take it to the garage.",
+                        "When he ___________________ (found) Microsoft, Bill Gates was only 20 years old. He ___________________________ (already write) his first computer programme six years earlier.",
+                        "An accident ___________________ (happen) near my house last night. A car ___________________ (hit) a young man. He ___________________ (ride) his bike when someone in front of him suddenly ___________________ (open) a car door. Many people ___________________ (see) the accident. The police ___________________ (interrogate) them last night.",
+                        "Mrs Smith said that one day she ________________________ (retire) from teaching. She said that she ___________________ (spend) her new free time learning about computers.",
+                        "I ______________________ (not sleep) at all last night. Someone ___________________ (listen) to music all night.",
+                        "I ___________________ (see) a film a week ago, but I _______________________ (not enjoy) it very much because I _______________________ (already read) the book. If I ___________________ (not read) the book I ____________________________ (probably enjoy) the film more.",
+                        "The judge sentenced the man to eight years in prison because he ___________________ (rob) a bank."
+                    ],
+                    "answers": [
+                        "have bought; are building",
+                        "are going; have been looking forward to",
+                        "watches; helps",
+                        "broke; drove/was driving; would have fixed; had known; had;",
+                        "founded; had already written",
+                        "happened; hit; was riding; opened; saw; interrogated",
+                        "would retire; would spend",
+                        "did not sleep; was listening",
+                        "saw; did not enjoy; had already read; had not read; would probably have enjoyed",
+                        "had robbed"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the website English Grammar (https://www.english-grammar.at/); Tenses -> All Tenses -> Fill in the correct form - T20 (sentenses 1-10)",
+                    "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach.",
+                    "content": [
+                        "They ___________________ (stand) in the queue for over an hour when the manager ___________________ (tell) them that there were no more tickets.",
+                        "Alan ___________________ (be) in the car accident yesterday. The other driver ___________________ (lose) control of his car because he ___________________ (fall) asleep.",
+                        "She ___________________ (not see) her father since he ___________________ (start) to work in Marseille two years ago.",
+                        "I ___________________ (sleep) when the fire ___________________ (break) out.",
+                        "Linda phoned and explained that she ___________________ (not can) come to the party the next day because she ___________________ (be) still sick.",
+                        "I ___________________ (just see) the film “The Da Vinci Code”. – ___________________ (you see) it too? – No, I ___________________ (not have) but I ___________________ (read) the book.",
+                        "My sister ___________________ (fly) home from London today. Her flight ___________________ (arrive) in an hour so I ___________________ (leave) for the airport right now to get there in time.",
+                        "Unless he ___________________ (sell) more he ___________________ (not get) much money.",
+                        "While he ___________________ (wait) for the bus there ___________________ (be) a robbery at the bank. After the robbers ___________________ (go) away the police ___________________ (come) but they ___________________ (not can) catch them.",
+                        "I ___________________ (use) to ski when I was at the university but I ___________________ (break) a leg five years ago and since then I ___________________ (not ski) any more."
+                    ],
+                    "answers": [
+                        "had been standing; told",
+                        "was; lost; had fallen",
+                        "has not seen; started",
+                        "was sleeping; broke",
+                        "would not be able; was",
+                        "have just seen; Have you seen; haven’t; read",
+                        "is flying; will arrive; am leaving",
+                        "sells; won’t get",
+                        "was waiting; was; had gone; came; were not able",
+                        "used; broke; have not skied"
+                    ]
+                },                                    
                 {
                     "type": "exercise",
                     "source": "Longman Repetytorium Maturalne (poziom rozszerzony); ex. 1/244",
