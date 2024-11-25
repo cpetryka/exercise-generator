@@ -16,8 +16,8 @@ class ExerciseGenerator {
             'unreal-past',
             'reported-speech',
             'relative-clauses',
-            'verbs',
             'inversion',
+            'verbs',
             'word-formation'
         ]);
 

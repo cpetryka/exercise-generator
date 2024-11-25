@@ -65,6 +65,31 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Wielka gramatyka języka angielskiego (edgard); ex. 39 p. 373",
+                    "task": "Uzupełnij zdania właściwą formą wyrazów podanych w nawiasach.",
+                    "content": [
+                        "Only when I returned home, (I, notice) ____________________ I had left my phone at work.",
+                        "Rarely (it, happen) ____________________ that a woman proposes to a man.",
+                        "No sooner (the book, publish) ____________________ than it became a bestseller.",
+                        "Should (you, speak) ____________________ to Ms Brown, please tell her to come to my office.",
+                        "Under no circumstances (be, you, lend) ____________________ money to Jerry.",
+                        "Not only (I, be) ____________________ late for work but I also lost my wallet.",
+                        "Only after he spoke to his boss (he, decide) ____________________ to stay on at his old job.",
+                        "Not until I had got on the bus (I, realize) ____________________ my ticket was invalid."
+                    ],
+                    "answers": [
+                        "did I notice",
+                        "does it happen",
+                        "had the book been published",
+                        "you speak",
+                        "are you to lend",
+                        "was I",
+                        "did he decide",
+                        "did I realize"
+                    ]
+                },                  
+                {
+                    "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 3/98 from workbook",
                     "task": "Przepisz zdania zaczynając od podanych słów.",
                     "content": [
@@ -92,7 +117,32 @@
                         "Hardly had everyone left the building when the bomb went off.",
                         "So cold was the water that no one went for a swim. "
                     ]
-                }
+                },
+                {
+                    "type": "exercise",
+                    "source": "Wielka gramatyka języka angielskiego (edgard); ex. 38 p. 373",
+                    "task": "Przepisz zdania zaczynając od podanych słów i uzupełnij formą czasowników.",
+                    "content": [
+                        "The discussion was so vivid that we couldn’t calm down.\nSo ... .",
+                        "The tension was so great that nobody said a word.\nSuch ... .",
+                        "I have seldom heard such kind words.\nSeldom ... .",
+                        "As soon as I entered the room, I noticed there had been a burglary.\nNo sooner ... .",
+                        "The country was in a crisis, not only a financial one, but also a political one.\nNot only ... .",
+                        "You can’t show these documents to anybody no matter what.\nUnder no circumstances ... .",
+                        "If we had known about his past, we wouldn’t have hired him.\nHad ... .",
+                        "The police knew little about the scope of that fishy business.\nLittle ... ."
+                    ],
+                    "answers": [
+                        "So vivid was the discussion that we couldn’t calm down.",
+                        "Such was the tension that nobody said a word.",
+                        "Seldom have I heard such kind words.",
+                        "No sooner had I entered the room than I noticed there had been a burglary.",
+                        "Not only was the country in a financial crisis, but also a political one.",
+                        "Under no circumstances can you show these documents to anybody.",
+                        "Had we known about his past, we wouldn’t have hired him.",
+                        "Little did the police know about the scope of that fishy business."
+                    ]
+                  }
             ]
         }
     ]
