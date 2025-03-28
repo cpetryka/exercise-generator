@@ -70,7 +70,7 @@
                 {
                     "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/88 from workbook",
-                    "task": "Przetłumacz polskie fragmenty zdań na język angielski.",
+                    "task": "Czasowniki w nawiasac wstaw w odpowiedniej formie.",
                     "content": [
                         "If only you ... (tell) me about your problems earlier!",
                         "I really wish my boyfriend ... (not spend) so much time watching sports on TV! It's driving me mad! ",
@@ -88,6 +88,54 @@
                         "had never left"
                     ]
                 },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 14/131 (1-10)",
+                    "task": "Czasowniki w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "I wish Paul ... (tell) me what is wrong with him.",
+                        "I wish I ... (not/shout) at the children like that.",
+                        "I wish you ... (tidy) your room more often.",
+                        "I wish I ... (practise) harder before the concert.",
+                        "If only Stuart ... (call) me.",
+                        "I wish I ... (be) back at school again.",
+                        "I wish Mark ... (stop) playing his music so loudly.",
+                        "If only I ... (buy) those shoes we saw today.",
+                        "I wish you ... (try) harder with your Maths homework.",
+                        "If only we ... (go) to France last summer."
+                    ],
+                    "answers": [
+                        "told / would tell",
+                        "hadn't shouted",
+                        "tidied / would tidy",
+                        "had practised",
+                        "would call",
+                        "were/was",
+                        "would stop",
+                        "had bought",
+                        "would try",
+                        "had gone"
+                    ]
+                },         
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 14/131 (11-15)",
+                    "task": "Czasowniki w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "I wish I ... (afford) some new CDs.",
+                        "If only it ... (stop) raining.",
+                        "No. I wish I ... (go), because I’m sure it will be fun.",
+                        "I wish you ... (help) with the housework more often.",
+                        "I'm bored. I wish I ... (arrange) to go out this evening."
+                    ],
+                    "answers": [
+                        "could afford",
+                        "would stop",
+                        "could go / was/were going",
+                        "would help",
+                        "had arranged"
+                    ]
+                },          
                 {
                     "type": "exercise",
                     "source": "Grama to nie drama 2; ex. 54.3/23",
@@ -172,6 +220,35 @@
                         "I'd rather be poor and have many friends than be rich and have no friends.\nI'd prefer to be poor and have many friends rather than be rich and have no friends."
                     ]
                 },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 19/133",
+                    "task": "Czasowniki w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "A: Do you watch much television?\nB: No. I prefer ... (read) books to ... (watch) television.",
+                        "A: I didn't enjoy the concert much.\nB: Nor did I! I would rather they ... (play) more modern music.",
+                        "A: Shall I tidy your bedroom for you?\nB: I'd rather you ... (not/tidy) it. I'll do it later.",
+                        "A: Shall we go for a walk this afternoon?\nB: No. I would prefer ... (stay) here and read a book.",
+                        "A: My brother prefers ... (play) computer games to ... (do) his homework.\nB: So does mine.",
+                        "A: Did you enjoy the play last night?\nB: No. I'd rather ... (go) to the cinema.",
+                        "A: I'd rather you ... (not/make) so much noise.\nB: Sorry. I'll try to be quiet.",
+                        "A: Did you enjoy the party last night?\nB: Yes, but I would rather we ... (stay) a little longer.",
+                        "A: Shall we spend the evening together?\nB: Well, actually, I'd prefer ... (spend) some time alone.",
+                        "A: That meal was terrible. I'd rather ... (eat) at home.\nB: It was very expensive, too."
+                    ],
+                    "answers": [
+                        "reading", "watching",
+                        "had played",
+                        "didn't tidy",
+                        "to stay",
+                        "playing", "doing",
+                        "have gone",
+                        "not mention",
+                        "had stayed",
+                        "to spend",
+                        "have eaten"
+                    ]
+                },                
                 {
                     "type": "exercise",
                     "source": "Wielka Gramatyka Języka Angielskiego; ex. 22/361",
@@ -592,6 +669,31 @@
                         "I wish you had reminded me"
                     ]
                 },
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 25/136",
+                    "task": "Popraw błędy w poniższych zdaniach.",
+                    "content": [
+                        "You'd not better be late for your interview.",
+                        "We would better go soon.",
+                        "It's high time you tidy your bedroom.",
+                        "We'd better to do the washing-up.",
+                        "I'd rather the guests come at eight o'clock.",
+                        "Unless you don't study, you won't pass the exams.",
+                        "I wish we would afford a new car.",
+                        "If you will need any help, just call me."
+                    ],
+                    "answers": [
+                        "You'd better not be late for your interview.",
+                        "We had better go soon.",
+                        "It's high time you tidied your bedroom.",
+                        "We'd better do the washing-up.",
+                        "I'd rather the guests came at eight o'clock.",
+                        "Unless you study, you won't pass the exams.",
+                        "I wish we could afford a new car.",
+                        "If you need any help, just call me."
+                    ]
+                },                
                 {
                     "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 6/88 from workbook",
