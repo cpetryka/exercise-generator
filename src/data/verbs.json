@@ -41,6 +41,31 @@
                         "smells, am smelling",
                         "think, am thinking"
                     ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij pary zdań właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "I ... (think) you should apologize for what you said.\nI ... (think) about taking a gap year before university.",
+                        "This soup ... (taste) delicious!\nI ... (taste) the sauce to check if it needs more salt.",
+                        "The flowers ... (smell) wonderful in the spring.\nHe ... (smell) the perfume to see if he likes it.",
+                        "I ... (see) a therapist about my anxiety next week.\nI ... (see) a bird sitting on the windowsill.",
+                        "You ... (look) great in that outfit!\nShe ... (look) for her lost keys everywhere.",
+                        "We ... (have) dinner with our new neighbors tonight.\nShe ... (have) a lot of experience in marketing.",
+                        "This dress ... (fit) me perfectly.\nThe tailor ... (fit) the suit to make sure it's the right size.",
+                        "She ... (weigh) the flour before adding it to the dough.\nHe ... (weigh) 80 kilograms."
+                    ],
+                    "answers": [
+                        "think, am thinking",
+                        "tastes, am tasting",
+                        "smells, is smelling",
+                        "am seeing, see",
+                        "looks, is looking",
+                        "are having, has",
+                        "fits, is fitting",
+                        "is weighing, weighs"
+                    ]
                 }
             ]
         },
