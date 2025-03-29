@@ -142,7 +142,36 @@
                         "Had we known about his past, we wouldn’t have hired him.",
                         "Little did the police know about the scope of that fishy business."
                     ]
-                  }
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na angielski, stosując inwersję.",
+                    "content": [
+                        "Nigdy wcześniej nie widziałem tak pięknego widoku.",
+                        "Pod żadnym pozorem nie wolno ci otwierać tego pudełka.",
+                        "Nie tylko znał odpowiedź, ale także potrafił ją wyjaśnić.",
+                        "Rzadko kiedy widuje się tak utalentowanego artystę.",
+                        "Dopiero gdy wyszła, zdał sobie sprawę, jak bardzo ją kocha.",
+                        "Tylko kiedy stracił pracę, zrozumiał, jak bardzo jej potrzebował.",
+                        "Mało kto wie o jej sekretnym hobby.",
+                        "Pod żadnym pozorem nie wolno ci zdradzać tego sekretu.",
+                        "Rzadko kiedy spotykam kogoś tak miłego.",
+                        "Nie wcześniej niż po godzinie skończyliśmy projekt."
+                    ],
+                    "answers": [
+                        "Never before had I seen such a beautiful view.",
+                        "Under no circumstances are you allowed to open this box.",
+                        "Not only did he know the answer, but he could also explain it.",
+                        "Rarely do you see such a talented artist.",
+                        "Only when she left did he realize how much he loved her.",
+                        "Only when he lost his job did he understand how much he needed it.",
+                        "Little does anyone know about her secret hobby.",
+                        "Under no circumstances must you reveal this secret.",
+                        "Seldom do I meet someone so kind.",
+                        "Not until an hour later did we finish the project."
+                    ]
+                }                  
             ]
         }
     ]
