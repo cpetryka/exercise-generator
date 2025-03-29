@@ -561,7 +561,40 @@
                         "where the toilet was",
                         "(that) he had worked in this company for five years"
                     ]
-                }
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na angielski, stosując mowę zależną.",
+                    "content": [
+                        "Ona powiedziała: 'Nie lubię kawy.'",
+                        "On zapytał: 'Gdzie byłeś wczoraj?'",
+                        "Mama powiedziała mi: 'Musisz posprzątać swój pokój.'",
+                        "Oni zapytali: 'Czy przyjdziesz na naszą imprezę?'",
+                        "Nauczyciel powiedział: 'Egzamin odbędzie się w przyszłym tygodniu.'",
+                        "Ona zapytała: 'Czy widziałeś ten film?'",
+                        "On powiedział: 'Nie mogę teraz rozmawiać, jestem zajęty.'",
+                        "Zapytali mnie: 'Co zrobisz, jeśli nie zdasz testu?'",
+                        "Szef powiedział: 'Macie termin do końca miesiąca.'",
+                        "On powiedział: 'Byłem wczoraj w kinie.'",
+                        "Ona zapytała mnie: 'Dlaczego nie odpowiedziałeś na moje pytanie?'",
+                        "Lekarz powiedział: 'Powinieneś więcej odpoczywać.'"
+                    ],
+                    "answers": [
+                        "She said that she didn't like coffee.",
+                        "He asked where I had been the day before.",
+                        "My mom told me that I had to clean my room.",
+                        "They asked if I would come to their party.",
+                        "The teacher said that the exam would take place the following week.",
+                        "She asked if I had seen that movie.",
+                        "He said that he couldn't talk at the moment because he was busy.",
+                        "They asked me what I would do if I didn't pass the test.",
+                        "The boss said that we had a deadline until the end of the month.",
+                        "He said that he had been to the cinema the day before.",
+                        "She asked me why I hadn't answered her question.",
+                        "The doctor said that I should rest more."
+                    ]
+                }                  
             ]
         }
     ]
