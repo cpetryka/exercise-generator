@@ -5,6 +5,26 @@
             "subsectionName": "stative-and-dynamic-verbs",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Czasowniki statyczne (stative verbs)",
+                    "src": "stative-verbs.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Czasowniki dynamiczne (dynamic/active verbs)",
+                    "src": "dynamic-verbs.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Czasowniki statyczne/dynamiczne",
+                    "src": "both-stative-and-dynamic-verbs.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Czasowniki statyczne/dynamiczne - przykłady",
+                    "src": "both-stative-and-dynamic-verbs-examples.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz cechy czasowników statycznych i dynamicznych, podaj kilka przykładów. Jeżeli nie wiesz czym są czasowniki statyczne i dynamiczne opisz różnicą między 'stanem', a 'czynnością'."
