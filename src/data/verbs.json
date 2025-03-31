@@ -93,6 +93,31 @@
             "subsectionName": "verb-patterns",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Gerund (czasownik + -ing)",
+                    "src": "gerund.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "To-infinitive (bezokolicznik z 'to')",
+                    "src": "to-infinitive.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Bare infinitive (bezokolicznik bez 'to')",
+                    "src": "bare-infinitive.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Gerund lub to-infinitive - bez zmiany znaczenia",
+                    "src": "gerund-or-to-infinitive-with-no-difference.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Gerund lub to-infinitive - zmiana znaczenia",
+                    "src": "gerund-or-to-infinitive-with-difference.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż 5 zdań z wykorzystaniem gerund, 5 zdań z wykorzystaniem to-infinitive oraz 2 zdania z wykorzystaniem bare infinitive."
