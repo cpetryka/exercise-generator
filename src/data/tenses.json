@@ -3013,6 +3013,99 @@
                     ]
                 }
             ]
+        },
+        {
+            "subsectionName": "other-ways-of-expressing-the-future",
+            "subsectionContent": [
+                {
+                    "type": "theory",
+                    "heading": "Other ways of expressing the future",
+                    "src": "other-ways-of-expressing-the-future.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Other ways of expressing the future in the past",
+                    "src": "other-ways-of-expressing-the-future-in-the-past.png"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Czy znasz jakieś konstrukcje (nie wliczając konstrukcji 'be going to'), które wyrażają przyszłość? Krótko o nich opowiedz."
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania, używając odpowiedniej konstrukcji przyszłości oraz czasownika podanego w nawiasie.",
+                    "content": [
+                        "The Prime Minister ... (give) a speech tomorrow morning.",
+                        "Look! The train ... (leave) in a few minutes.",
+                        "The conference ... (start) at 10 AM.",
+                        "We ... (launch) a new website next month.",
+                        "This project ... (be) a great success.",
+                        "The company ... (open) a new branch in London next year.",
+                        "He ... (find) a new job in the IT sector.",
+                        "She ... (sign) the contract before the end of the week.",
+                        "The ferry ... (depart) at 7 PM sharp.",
+                        "The factory ... (close) down due to financial problems."
+                    ],
+                    "answers": [
+                        "is to give",
+                        "is about to leave",
+                        "is due to start",
+                        "intend to launch",
+                        "is bound to be",
+                        "plans to open",
+                        "means to find",
+                        "is certain to sign",
+                        "is due to depart",
+                        "is on the point of closing"
+                    ]
+                },                
+                {
+                    "type": "exercise",
+                    "source": "Grammarway 4 (express publishing); ex. 31/24",
+                    "task": "Uzupełnij drugie zdanie tak, aby miało podobny sens do pierwszego. Wykorzystaj podane słowa.",
+                    "content": [
+                        "The Queen will open the new sports centre next week. IS\nThe Queen ... the new sports centre next week.",
+                        "We are planning to go to Spain next summer. INTEND\nWe ... Spain next summer.",
+                        "The guests should have arrived at nine, but they were late. DUE\nThe guests ... at nine, but they were late.",
+                        "Jane was thinking of looking for a new job, but she changed her mind. GOING\nJane ... a new job, but she changed her mind.",
+                        "The manager will be angry when he hears the news. BOUND\nThe manager ... angry when he hears the news.",
+                        "Hurry up! The bus is going to leave! ABOUT\nHurry up! The bus ... leave!",
+                        "Helen will love this present. SURE\nHelen ... this present."
+                    ],
+                    "answers": [
+                        "is to open",
+                        "intend to go",
+                        "were due to arrive",
+                        "was going to look for",
+                        "is bound to be",
+                        "is about to",
+                        "is sure to love"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na język angielski, używając odpowiednich konstrukcji.",
+                    "content": [
+                        "Prezydent ma odwiedzić Berlin w przyszłym miesiącu.",
+                        "Ostrożnie! Most zaraz się zawali!",
+                        "Pociąg ma przyjechać o 18:45.",
+                        "Zamierzamy kupić nowy samochód w tym roku.",
+                        "Ten film na pewno odniesie sukces.",
+                        "Spotkanie ma się rozpocząć o 10:30."
+                    ],
+                    "answers": [
+                        "The President is to visit Berlin next month.",
+                        "Careful! The bridge is about to collapse!",
+                        "The train is due to arrive at 6:45 PM.",
+                        "We intend to buy a new car this year.",
+                        "This movie is bound to be a success.",
+                        "The meeting is due to start at 10:30 AM."
+                    ]
+                }                                   
+            ]
         }
     ]
 }
