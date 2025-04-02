@@ -234,6 +234,35 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Own tasks.",
+                    "task": "Wyrazy w nawiasach wstaw w odpowiedniej formie.",
+                    "content": [
+                        "If you __________ (study) harder, you will pass the test.",
+                        "If I __________ (be) you, I would take the job.",
+                        "She __________ (help) you if you ask her nicely.",
+                        "If I __________ (win) the lottery, I would buy a big house.",
+                        "We __________ (go) to the mountains if the weather is nice.",
+                        "If they __________ (not/be) so rude, more people would like them.",
+                        "You __________ (feel) better if you drink some water.",
+                        "If I __________ (speak) Spanish, I would move to Spain.",
+                        "Unless he __________ (apologize), she won't forgive him.",
+                        "If she __________ (work) harder, she would get a promotion."
+                    ],
+                    "answers": [
+                        "study",
+                        "were",
+                        "will help",
+                        "won",
+                        "will go",
+                        "weren't",
+                        "will feel",
+                        "spoke",
+                        "apologizes",
+                        "worked"
+                    ]
+                },                
+                {
+                    "type": "exercise",
                     "source": "Own tasks",
                     "task": "Przetłumacz zdania.",
                     "content": [
