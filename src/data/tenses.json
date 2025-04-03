@@ -2376,6 +2376,11 @@
                     "src": "all-tenses.png"
                 },
                 {
+                    "type": "theory",
+                    "heading": "All tenses - constructions",
+                    "src": "all-tenses-constructions.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Podaj najważniejsze zastosowania poszczególnych czasów, a następnoe ułóż 2 przykładowe zdania z wykorzystaniem charakterystycznych zwrotów w każdym z nich."
