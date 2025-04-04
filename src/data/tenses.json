@@ -1041,7 +1041,73 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania."
-                }
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania, używając odpowiedniego czasu (present simple, present continuous, past simple, past continuous, future simple, future continuous) oraz czasownika podanego w nawiasie.",
+                    "content": [
+                        "She usually ... (go) to school by bus.",
+                        "At the moment, they ... (discuss) the project details.",
+                        "Last weekend, we ... (visit) our grandparents.",
+                        "While I ... (read) a book, the phone rang.",
+                        "I think they ... (arrive) late tonight.",
+                        "At this time tomorrow we ... (travel) to Paris.",
+                        "He always ... (forget) to lock the door.",
+                        "They ... (watch) a movie when the power went out.",
+                        "We ... (not/finish) the report yesterday.",
+                        "She ... (help) her mother with cooking right now.",
+                        "Look! He ... (run) to catch the bus.",
+                        "Tomorrow at 5 PM, I ... (meet) my friend for coffee."
+                    ],
+                    "answers": [
+                        "goes",
+                        "are discussing",
+                        "visited",
+                        "was reading",
+                        "will arrive",
+                        "will be travelling",
+                        "forgets",
+                        "were watching",
+                        "didn't finish",
+                        "is helping",
+                        "is running",
+                        "will be meeting"
+                    ]
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na język angielski, używając odpowiedniego czasu (present simple, present continuous, past simple, past continuous, future simple, future continuous).",
+                    "content": [
+                        "Ona często chodzi do parku w soboty.",
+                        "W tej chwili piszemy list do dyrektora.",
+                        "W zeszłym tygodniu spotkaliśmy się z klientem.",
+                        "Podczas gdy gotowałem, zadzwonił telefon.",
+                        "Myślę, że jutro spadnie śnieg.",
+                        "Jutro o tej porze będziemy oglądać mecz.",
+                        "On zwykle zapomina o urodzinach swoich znajomych.",
+                        "Wczoraj o 20:00 oglądałem telewizję.",
+                        "Nie przeczytałem tej książki wczoraj.",
+                        "W tej chwili ona pomaga swojej siostrze.",
+                        "Spójrz! On rozmawia z nauczycielem.",
+                        "Jutro o 10:00 będziemy rozmawiać z szefem."
+                    ],
+                    "answers": [
+                        "She often goes to the park on Saturdays.",
+                        "We are writing a letter to the principal at the moment.",
+                        "We met with the client last week.",
+                        "While I was cooking, the phone rang.",
+                        "I think it will snow tomorrow.",
+                        "This time tomorrow we will be watching a match.",
+                        "He usually forgets about his friends' birthdays.",
+                        "I was watching TV yesterday at 8 PM.",
+                        "I didn't read this book yesterday.",
+                        "She is helping her sister right now.",
+                        "Look! He is talking to the teacher.",
+                        "Tomorrow at 10 AM, we will be talking to the boss."
+                    ]
+                }                
             ]
         },
         {
