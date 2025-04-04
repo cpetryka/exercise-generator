@@ -7,7 +7,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz jak tworzymy stronę bierną oraz kiedy ją wykorzystujemy."
+                    "task": "Powiedz jak tworzymy stronę bierną oraz kiedy ją wykorzystujemy.",
+                    "guid": "38403079-14c0-4c74-8a8c-4a4a709ffb50"
                 },
                 {
                     "type": "exercise",
@@ -46,7 +47,8 @@
                         "You won't be arrested.",
                         "When will the new shopping centre be opened?",
                         "Who was “Harry Potter” written by?"
-                    ]
+                    ],
+                    "guid": "5666d7ce-13d2-4867-ac3d-7e55fee65dc0"
                 },
                 {
                     "type": "exercise",
@@ -79,7 +81,8 @@
                         "Its a good idea, but one that cannot be carried out in practice by one person.",
                         "Had the date on the invitations been changed before they were sent / we sent them?",
                         "Look! This photograph has been taken with my old camera. "
-                    ]
+                    ],
+                    "guid": "3b14baa7-10db-4125-ad73-47ef128cfef0"
                 },
                 {
                     "type": "exercise",
@@ -108,7 +111,8 @@
                         "More newspapers were being bought back then.",
                         "The money is being given to me next week./I am given the money next week.",
                         "A new novel was being written every month."
-                    ]
+                    ],
+                    "guid": "bc2903f6-b171-40dc-8663-fe9e4fa72bff"
                 },
                 {
                     "type": "exercise",
@@ -137,7 +141,8 @@
                         "We are going to be given a pay rise by the boss.",
                         "I expect my new car will be delivered soon.",
                         "The suspects are being questioned by the police."
-                    ]
+                    ],
+                    "guid": "abce7a55-fb68-4289-a62e-525dcade8a37"
                 },
                 {
                     "type": "exercise",
@@ -166,7 +171,8 @@
                         "Had the windows been closed by Helen before she left the house?",
                         "The housework hasn't been done by Jill yet.",
                         "The parcel may not be delivered today."
-                    ]
+                    ],
+                    "guid": "6cfd427d-2fb5-4f28-a95a-4012729de275"
                 },
                 {
                     "type": "exercise",
@@ -191,7 +197,8 @@
                         "She told him that they wouldn't complete the/his report by five o'clock.",
                         "Had we not been invited to the wedding, we would have gone to the cinema.",
                         "They/The government may pass a new bill by the end of summer."
-                    ]
+                    ],
+                    "guid": "2a8abfea-2249-4ce1-afe5-097cac729be8"
                 },
                 {
                     "type": "exercise",
@@ -224,11 +231,12 @@
                         "was being repaired",
                         "has been written",
                         "will have been read"
-                    ]
+                    ],
+                    "guid": "25833d3b-07db-46f3-9b7a-0172a3edacd2"
                 },
                 {
                     "type": "exercise",
-                    "source":"Password 3 (macmillan); ex. 3/66 from workbook",
+                    "source": "Password 3 (macmillan); ex. 3/66 from workbook",
                     "task": "Uzupełnij zdania wykorzystując stronę czynną lub bierną.",
                     "content": [
                         "All subsection content ... (must / do) by Tuesday.",
@@ -253,7 +261,8 @@
                         "isn't plugged",
                         "hadn't been cleaned",
                         "will the invitations be sent"
-                    ]
+                    ],
+                    "guid": "144260ae-2d4f-4d5c-b0d7-d84720f5c79e"
                 },
                 {
                     "type": "exercise",
@@ -286,7 +295,8 @@
                         "runs",
                         "was built",
                         "will be"
-                    ]
+                    ],
+                    "guid": "5c7f14dd-d70f-4910-b4b7-088fe3a954de"
                 },
                 {
                     "type": "exercise",
@@ -307,7 +317,8 @@
                         "with",
                         "by",
                         "with"
-                    ]
+                    ],
+                    "guid": "6bfb8991-f963-42e4-b24d-21482647709f"
                 },
                 {
                     "type": "exercise",
@@ -336,7 +347,8 @@
                         "weren't told",
                         "was given",
                         "have you been offered"
-                    ]
+                    ],
+                    "guid": "64dc89ee-8cff-44f7-a95e-792c2cc22de4"
                 },
                 {
                     "type": "exercise",
@@ -361,7 +373,8 @@
                         "likes being driven",
                         "should be informed",
                         "hans't been signed by"
-                    ]
+                    ],
+                    "guid": "ab12c5f8-7a83-4a18-bc8c-393c987c8734"
                 },
                 {
                     "type": "exercise",
@@ -394,7 +407,8 @@
                         "My furniture will be delivered next week.",
                         "How is butter made?",
                         "They've already been invited."
-                    ]
+                    ],
+                    "guid": "19d9a90c-b54f-4e32-8b0f-78d670a8f97a"
                 },
                 {
                     "type": "exercise",
@@ -402,7 +416,8 @@
                     "task": "Wybierz konkretny przedmiot (np. komputer, telefon), a następnie powiedz, co można, a czego nie można zrobić z tym przedmiotem (wykorzystując stronę bierną).",
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\na television ...can be watched/can't be eaten/can be bought in different sizes/should be turned off when you're not watching it."
-                    ]
+                    ],
+                    "guid": "3e8ffba4-56b7-4fdd-91ad-a279e0ce8231"
                 },
                 {
                     "type": "exercise",
@@ -410,7 +425,8 @@
                     "task": "Strona bierna jest często wykorzystywana do opisu różnych procesów. Wybierz jeden z procesów (sending an e-mail, preparing a meal, making a cup of coffee, doing online shopping, updating a system), a następnie omów kolejne etapy wykonywania tej czynności.",
                     "answers": [
                         "MOŻNA WYKOSZYSTAĆ NASTĘPUJĄCY SCHEMAT:\nFirst, …. Next, …. Then, …. After that, …. Finally, …."
-                    ]
+                    ],
+                    "guid": "c7764ce1-a37f-416a-8110-198b2b5c6e18"
                 },
                 {
                     "type": "exercise",
@@ -418,7 +434,8 @@
                     "task": "Wyobraź sobie, że pracujesz w biurze podróży i musisz opisać jedną z waszych ofertę podróży.",
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nOur package holiday is in Hawaii. You will be met at the airport by our representative and taken to your hotel. Your luggage will be taken to your room for you. You are invited to the welcome cocktails on the beach. All your meals are prepared with the finest ingredients and by the best chefs in the region …"
-                    ]
+                    ],
+                    "guid": "516c204e-2e81-4071-966a-ae7022939066"
                 }
             ]
         },
@@ -428,7 +445,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz kiedy używamy konstrukcji 'have something done'."
+                    "task": "Powiedz kiedy używamy konstrukcji 'have something done'.",
+                    "guid": "2b97efcc-6f4c-42c3-9ce7-f261f883b29a"
                 },
                 {
                     "type": "exercise",
@@ -447,7 +465,8 @@
                         "has them typed",
                         "had my birthday cake baked",
                         "have your eyes tested"
-                    ]
+                    ],
+                    "guid": "f50e600e-f4c5-434a-8426-fb9123c95301"
                 },
                 {
                     "type": "exercise",
@@ -472,7 +491,8 @@
                         "John is going to have his car repaired.",
                         "I have just had food delivered to my house.",
                         "Carol sometimes has his essays written (by Katy)."
-                    ]
+                    ],
+                    "guid": "4caa884c-fd0e-45a3-bd10-3f701e4e29bf"
                 },
                 {
                     "type": "exercise",
@@ -497,7 +517,8 @@
                         "Becky has her hair done every week.",
                         "Jane is going to have her living room redecorated next month.",
                         "I have my eyes tested by the optician."
-                    ]
+                    ],
+                    "guid": "10330ed8-8e72-4848-b25d-374839a192c6"
                 },
                 {
                     "type": "exercise",
@@ -526,7 +547,8 @@
                         "Lucy is going to have her package delivered by a postman.",
                         "We have had some trees planted in our garden by gardeners.",
                         "We are having the roof repaired."
-                    ]
+                    ],
+                    "guid": "a1bd9edf-a961-4e74-8e53-3d5f6af555f9"
                 },
                 {
                     "type": "exercise",
@@ -555,7 +577,8 @@
                         "I will have new software installed on my computer by Peter.",
                         "My mum was having jewellery made by Ashlie.",
                         "She has the grass outside her house cut once a month by a gardener."
-                    ]
+                    ],
+                    "guid": "0b701cc7-e03a-4103-b094-7f24db0b76a2"
                 }
             ]
         },
@@ -585,7 +608,8 @@
                         "It is said that she had supernatural powers. / She was said to have supernatural powers.",
                         "He is said to be a hacker. / It is said that he is a hacker.",
                         "Tipping is thought to be insulting. / It is thought that tipping is insulting. "
-                    ]
+                    ],
+                    "guid": "91f241b2-37c0-430b-9d86-cb721cc8a231"
                 },
                 {
                     "type": "exercise",
@@ -610,7 +634,8 @@
                         "She is thought to sing beautifully. / It is thought that she sings beautifully.",
                         "Their friends were reported to be swimming when they disappeared. / It was reported that their friends were swimming when they disappeared.",
                         "The animals were believed to have been killed during the night. / It was believed that they had killed the animals during the night."
-                    ]
+                    ],
+                    "guid": "4753ed19-9685-47e6-a696-f86dec694e67"
                 },
                 {
                     "type": "exercise",
@@ -635,7 +660,8 @@
                         "The team is considered to be classified for the final. / It is considered that the team will be classified for the final.",
                         "He is said to have settled the business. / It is said that he settled the business.",
                         "The meeting was believed to finish soon. / It was believed that the meeting would finish soon."
-                    ]
+                    ],
+                    "guid": "9e5299e3-f064-40bd-b7d8-2fc858f5a4bb"
                 },
                 {
                     "type": "exercise",
@@ -656,7 +682,8 @@
                         "The group was thought to have rejected the offer. / It was thought that the group had rejected the offer.",
                         "The meeting is said to be held here. / It is said that the meeting will be held here.",
                         "Their team was expected to win. / It was expected that their team would win."
-                    ]
+                    ],
+                    "guid": "5d0dfff0-6e2e-4206-90da-32479d2d4e0d"
                 },
                 {
                     "type": "exercise",
@@ -671,7 +698,7 @@
                         "People think that depending on technological devices has made us less active.",
                         "We believed that Bell was a great inventor.",
                         "Do people believe that Einstein was the most intelligent person ever?"
-                    ], 
+                    ],
                     "answers": [
                         "Computer are said to be already advanced enough to make their own decisions.\nIt is said that computers are already advanced enough to make their own decisions.",
                         "Living on other planets is believed to be possible in less than 50 years.\nIt is believed that living on other planets will be possible in less than 50 years.",
@@ -681,7 +708,8 @@
                         "Depending on technological devices is thought to have made us less active.\nIt is thought that depending on technological devices has made us less active.",
                         "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
                         "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
-                    ]
+                    ],
+                    "guid": "c84b3f4f-9f0b-4629-9407-30f419c86637"
                 },
                 {
                     "type": "exercise",
@@ -698,7 +726,7 @@
                         "It is known that she is hiding somewhere in the city.\nShe...",
                         "It is reported that the thieves have escaped from prison.\nThe thieves...",
                         "It is expected that they will give her the prize.\nShe..."
-                    ], 
+                    ],
                     "answers": [
                         "is thought to have good teachers.",
                         "is expected to win the race tomorrow.",
@@ -710,7 +738,8 @@
                         "is known to be hiding somewhere in the city.",
                         "are reported to have escaped from prison.",
                         "is expected to be given the prize."
-                    ]
+                    ],
+                    "guid": "33e217cc-9fef-4438-ae4e-85f6e7256b42"
                 }
             ]
         },
@@ -744,7 +773,8 @@
                         "be applied",
                         "to have been implemented",
                         "to be looked at"
-                    ]
+                    ],
+                    "guid": "584289f3-ad85-43db-94c8-26d74a2fc347"
                 },
                 {
                     "type": "exercise",
@@ -765,7 +795,8 @@
                         "... needs promoting/to be promoted at universities.",
                         "... had my car tested for emissions (by the garage).",
                         "... to have been tested."
-                    ]
+                    ],
+                    "guid": "ecb920b5-0120-4422-8d4b-9c036743b28d"
                 }
             ]
         },
@@ -793,7 +824,8 @@
                         "suit",
                         "was seen to hit",
                         "has been decorated"
-                    ]
+                    ],
+                    "guid": "de3e89bb-dea2-40ce-af05-109cd5a141b9"
                 },
                 {
                     "type": "exercise",
@@ -822,7 +854,8 @@
                         "that",
                         "to",
                         "been"
-                    ]
+                    ],
+                    "guid": "1ee61efb-ffd2-4365-bcd8-1761cbd53449"
                 },
                 {
                     "type": "exercise",
@@ -851,7 +884,8 @@
                         "are expected to be present",
                         "to be taught",
                         "should be told"
-                    ]
+                    ],
+                    "guid": "4c973965-0bca-4536-84b3-c8347a01b235"
                 },
                 {
                     "type": "exercise",
@@ -870,8 +904,9 @@
                         "have her wedding dress designed",
                         "had two of his teeth",
                         "will be given"
-                    ]
-                }                                          
+                    ],
+                    "guid": "cca38d13-291d-4083-9f46-1aface59be8a"
+                }
             ]
         }
     ]

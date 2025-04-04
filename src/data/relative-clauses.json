@@ -7,7 +7,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz czym są zdania przydawkowe, a następnie opisz ich rodzaje."
+                    "task": "Powiedz czym są zdania przydawkowe, a następnie opisz ich rodzaje.",
+                    "guid": "6197ad66-2493-40ae-ae3a-3326bdbf94f3"
                 },
                 {
                     "type": "exercise",
@@ -46,7 +47,8 @@
                         "whose",
                         "who",
                         "who"
-                    ]
+                    ],
+                    "guid": "388c1fb3-24af-45b9-93f9-d5789e1266e8"
                 },
                 {
                     "type": "exercise",
@@ -75,7 +77,8 @@
                         "that/-/when",
                         "that/-/whom",
                         "who/that"
-                    ]
+                    ],
+                    "guid": "d3ff1072-d6a2-4766-b974-900a2a9e9600"
                 },
                 {
                     "type": "exercise",
@@ -104,7 +107,8 @@
                         "Mark, who is usually on time, was late for school yesterday.",
                         "I went to the library where I met Dave.",
                         "We saw a film which/that I liked a lot."
-                    ]
+                    ],
+                    "guid": "2014713c-31c4-47b4-ad64-1507f0c31050"
                 },
                 {
                     "type": "exercise",
@@ -133,7 +137,8 @@
                         "This is the book (which/that) I said I would give to you.",
                         "Ivy's house, which was designed by a grwat architect, is nearly finished.",
                         "This is our new teacher (who/that/whom) I told you about last week."
-                    ]
+                    ],
+                    "guid": "aaaeabfa-6071-44b1-98e7-a918ec5619e1"
                 },
                 {
                     "type": "exercise",
@@ -152,7 +157,8 @@
                         "My white coat, which I bought last year, is too small for me.",
                         "My boss, who is very nice, lives in London.",
                         "Last year I visited the town where I was born."
-                    ]
+                    ],
+                    "guid": "6e28cc67-db17-4156-9231-393bd4cd5bd9"
                 }
             ]
         },
@@ -162,7 +168,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz czym są tzw. reduced relative clauses oraz kiedy ich używamy."
+                    "task": "Powiedz czym są tzw. reduced relative clauses oraz kiedy ich używamy.",
+                    "guid": "868cc350-cd19-4a5c-9db0-565ce093fcb3"
                 },
                 {
                     "type": "exercise",
@@ -183,7 +190,8 @@
                         "bouncing",
                         "conducting",
                         "offering"
-                    ]
+                    ],
+                    "guid": "16ad30d7-6c7c-47be-9adc-0801f35b1dde"
                 },
                 {
                     "type": "exercise",
@@ -204,7 +212,8 @@
                         "arrested",
                         "taking part",
                         "driven"
-                    ]
+                    ],
+                    "guid": "6843a4f4-2a65-4054-bba8-d8612c72f11b"
                 },
                 {
                     "type": "exercise",
@@ -225,7 +234,8 @@
                         "x",
                         "They are now renovating the bridge CONNECTING the two parts of the city.",
                         "x"
-                    ]
+                    ],
+                    "guid": "147940d0-9ab2-4b32-aa29-dc6ea9f7e2c4"
                 },
                 {
                     "type": "exercise",
@@ -250,7 +260,8 @@
                         "The film script, WRITTEN by the author of the novel, is really brilliant.",
                         "x",
                         "My best friend Julia, NOT HAVING any brothers or sisters, has a large room of her own."
-                    ]
+                    ],
+                    "guid": "bb38060b-aeee-4bef-83ee-bdebe87983d0"
                 }
             ]
         }

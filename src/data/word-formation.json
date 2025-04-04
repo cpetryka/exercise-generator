@@ -31,7 +31,8 @@
                         "fashionable",
                         "arrival",
                         "expectations"
-                    ]
+                    ],
+                    "guid": "c86a7c59-c85e-4e74-8d0e-8069caf759ac"
                 },
                 {
                     "type": "exercise",
@@ -60,7 +61,8 @@
                         "decisions",
                         "wisdom",
                         "amazing"
-                    ]
+                    ],
+                    "guid": "868921d2-eadf-4d6a-9bde-303c8074d831"
                 },
                 {
                     "type": "exercise",
@@ -89,7 +91,8 @@
                         "behaviour",
                         "harmful",
                         "difficulty"
-                    ]
+                    ],
+                    "guid": "c8ff51c3-a6ef-4055-97cc-703079fdb003"
                 },
                 {
                     "type": "exercise",
@@ -118,7 +121,8 @@
                         "commercial",
                         "agreement",
                         "invitation"
-                    ]
+                    ],
+                    "guid": "711cbf45-ebdf-4106-87bd-5e6401ccd21f"
                 },
                 {
                     "type": "exercise",
@@ -147,7 +151,8 @@
                         "irresponsible",
                         "unbelievable",
                         "valuable"
-                    ]
+                    ],
+                    "guid": "795a102f-fe26-45a8-a226-c2a509644643"
                 },
                 {
                     "type": "exercise",
@@ -176,7 +181,8 @@
                         "scientist",
                         "influential",
                         "importance"
-                    ]
+                    ],
+                    "guid": "6242bfa5-3586-41d9-a380-fa32ad2d3e15"
                 },
                 {
                     "type": "exercise",
@@ -205,7 +211,8 @@
                         "graduation",
                         "cancellation",
                         "weakness"
-                    ]
+                    ],
+                    "guid": "99339945-fb41-4e0e-a77e-526983918783"
                 },
                 {
                     "type": "exercise",
@@ -234,7 +241,8 @@
                         "boredom",
                         "improvement",
                         "numerous"
-                    ]
+                    ],
+                    "guid": "bbb678d7-4534-4b29-8931-f3faeace901f"
                 },
                 {
                     "type": "exercise",
@@ -263,7 +271,8 @@
                         "obedient",
                         "miserable",
                         "vanity"
-                    ]
+                    ],
+                    "guid": "ba7cf578-4682-4e95-bfe5-63d2491725a5"
                 },
                 {
                     "type": "exercise",
@@ -292,8 +301,9 @@
                         "memorise",
                         "recognition",
                         "inventive"
-                    ]
-                }                                                      
+                    ],
+                    "guid": "d670ad95-b042-4e02-b55e-1bcd7051af29"
+                }
             ]
         }
     ]

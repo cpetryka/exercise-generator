@@ -7,7 +7,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz czym jest mowa zależna, kiedy jej używamy oraz jak ją tworzymy."
+                    "task": "Powiedz czym jest mowa zależna, kiedy jej używamy oraz jak ją tworzymy.",
+                    "guid": "d467137b-417b-47f4-a96a-a4ca68d716df"
                 },
                 {
                     "type": "exercise",
@@ -36,7 +37,8 @@
                         "My sister told me (that) sarah was going to start a new job.",
                         "They informed us (that) that letter was a mistake.",
                         "He said (that) he had seen them a few weeks before."
-                    ]
+                    ],
+                    "guid": "385d9b8d-9468-4bac-952c-7b8f10dab522"
                 },
                 {
                     "type": "exercise",
@@ -55,12 +57,14 @@
                         "My wife said that she wouldn't make a cake. ",
                         "Bob said that Jenny had gone to London.",
                         "Mary told me she liked Tom a lot."
-                    ]
+                    ],
+                    "guid": "ab569343-5a5c-4dd0-a9a1-b8cc684f220c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Pytaniem dnia jest: „czy lubisz plotkować”. Jeżeli tak to bardzo dobrze, ponieważ rozmawiasz z właściwą osobą, w dodatku na odpowiedni temat (jeżeli nie i tak wykonaj to zadanie). Opowiedz o najnowszych plotkach, które słyszałeś (plotki mogą dotyczyć np. celebrytów, twoich przyjaciół lub nauczycieli)."
+                    "task": "Pytaniem dnia jest: „czy lubisz plotkować”. Jeżeli tak to bardzo dobrze, ponieważ rozmawiasz z właściwą osobą, w dodatku na odpowiedni temat (jeżeli nie i tak wykonaj to zadanie). Opowiedz o najnowszych plotkach, które słyszałeś (plotki mogą dotyczyć np. celebrytów, twoich przyjaciół lub nauczycieli).",
+                    "guid": "ae9fabe7-fde2-45b9-8be3-e01da74da0c9"
                 }
             ]
         },
@@ -70,7 +74,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz jak tworzymy pytania w mowie zależnej w języku angielskim"
+                    "task": "Powiedz jak tworzymy pytania w mowie zależnej w języku angielskim",
+                    "guid": "51f0f739-0f5e-4b41-8fa1-25395d5d5b55"
                 },
                 {
                     "type": "exercise",
@@ -95,7 +100,8 @@
                         "She asked me where my wife was.",
                         "He asked me what time she would arrive at the airport.",
                         "Sam asked me if I could speak Spanish."
-                    ]
+                    ],
+                    "guid": "c494f558-c721-4970-bd50-c498a0fd00a6"
                 },
                 {
                     "type": "exercise",
@@ -114,7 +120,8 @@
                         "I didn't remember who I had invited to the party.",
                         "He didn't know what my favourite color was.",
                         "We asked if we could park there."
-                    ]
+                    ],
+                    "guid": "14397204-d344-43b6-8396-3d56ac39eaf6"
                 },
                 {
                     "type": "exercise",
@@ -122,7 +129,8 @@
                     "task": "Zastanów się, o co ostatnio pytali cię znajomi, rodzice czy przechodnie na ulicy. Podaj 5 takich pytań w mowie zależnej.",
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nMy brother asked me if I could lend him some money.\nAnna asked me where I had bought my shoes.\nThe dentist asked me why she hadn't seen me for so long.\nI asked my wife if she wanted to have more children."
-                    ]
+                    ],
+                    "guid": "d053d40c-e14e-45ec-babb-076de291a041"
                 }
             ]
         },
@@ -132,7 +140,8 @@
                 {
                     "type": "exercise",
                     "source": "Own tasks",
-                    "task": "Powiedz jak tworzymy tryb rozkazujący w mowie zależnej (sytuacja wygląda identycznie w przypadku sugestii, propozycji itp.)."
+                    "task": "Powiedz jak tworzymy tryb rozkazujący w mowie zależnej (sytuacja wygląda identycznie w przypadku sugestii, propozycji itp.).",
+                    "guid": "32ef13e3-be7c-47d5-8f6e-2caa3307476e"
                 },
                 {
                     "type": "exercise",
@@ -153,7 +162,8 @@
                         "Mum reminded me not to be late.",
                         "Mum asked me to open the door.",
                         "She told me not to go there."
-                    ]
+                    ],
+                    "guid": "5c0f8f27-47a4-4781-94a2-98b857859d3d"
                 },
                 {
                     "type": "exercise",
@@ -172,7 +182,8 @@
                         "She told me to forget about him.",
                         "Mum told me to clean my room and do the shopping.",
                         "The teacher told me to stay after school."
-                    ]
+                    ],
+                    "guid": "1a71e1f9-ef99-46b0-9e4c-f3c1e00ee31f"
                 }
             ]
         },
@@ -194,7 +205,8 @@
                         "not to move",
                         "to committing",
                         "doing"
-                    ]
+                    ],
+                    "guid": "975898ca-3d54-4c32-a3bb-9f16a0b3175d"
                 },
                 {
                     "type": "exercise",
@@ -211,11 +223,12 @@
                         "insisted on meeting again next year",
                         "criticised the boys for not winning",
                         "blamed Ian for breaking"
-                    ]
-                },                
+                    ],
+                    "guid": "31c29982-ff55-48d1-9412-98bf73d69f2d"
+                },
                 {
                     "type": "exercise",
-                    "source":"Password 3 (macmillan); ex. 1/47 from workbook",
+                    "source": "Password 3 (macmillan); ex. 1/47 from workbook",
                     "task": "Wybierz poprawne uzupełnienie zdania.",
                     "content": [
                         "The police officer insisted (to see / on seeing) our documents. ",
@@ -240,11 +253,12 @@
                         "being",
                         "to read",
                         "to take"
-                    ]
+                    ],
+                    "guid": "12244767-9ae7-48f9-b10a-78289b30f9d0"
                 },
                 {
                     "type": "exercise",
-                    "source":"Password 3 (macmillan); ex. 3/48 from workbook",
+                    "source": "Password 3 (macmillan); ex. 3/48 from workbook",
                     "task": "Uzupełnij zdania właściwą formą wyrazów podanych w nawiasach.",
                     "content": [
                         "As Steven isn't a good public speaker, he ... (object / make) a speech during the end-of-year ceremony.",
@@ -265,7 +279,8 @@
                         "boasted that she had scored",
                         "congratulated his opponent on winning",
                         "assured us that he would consider"
-                    ]
+                    ],
+                    "guid": "6df50803-2dfd-41ad-a5c4-602d033ab6f8"
                 },
                 {
                     "type": "exercise",
@@ -290,7 +305,8 @@
                         "The man asked me to lend him my phone for a second.",
                         "My sister agreed to help me with my homework.",
                         "Mom forbade us to drink it because it was for adults only."
-                    ]
+                    ],
+                    "guid": "223df192-b848-4d2d-8fdc-d0cecfbabd29"
                 },
                 {
                     "type": "exercise",
@@ -315,7 +331,8 @@
                         "Emma suggested going to the beach next weekend.",
                         "He claimed to have heard a howl of a wolf in the forest/He claimed that he had heard a howl of a wolf in the forest.",
                         "My best friend advised me to sleep more."
-                    ]
+                    ],
+                    "guid": "46a75f86-e7b2-4f6c-9135-7f84c6f63ad9"
                 },
                 {
                     "type": "exercise",
@@ -340,8 +357,9 @@
                         "We have agreed TO ORGANISE the event.",
                         "They recommended VISITING this beautiful city.",
                         "He ordered US TO CLOSE the door."
-                    ]
-                }                                         
+                    ],
+                    "guid": "213b1bc4-96dc-4c5e-9bf5-a9ffdeac9144"
+                }
             ]
         },
         {
@@ -374,7 +392,8 @@
                         "told, then",
                         "if I enjoyed",
                         "announced, the day before"
-                    ]
+                    ],
+                    "guid": "b6221530-b366-4278-b660-a5d309577a3f"
                 },
                 {
                     "type": "exercise",
@@ -399,7 +418,8 @@
                         "had enjoyed/was enjoying, had been, had been/was",
                         "would never reveal, had never broken",
                         "had been doing, had been reading"
-                    ]
+                    ],
+                    "guid": "fb0b7b0c-04c2-482c-80a2-e6e8e93dba79"
                 },
                 {
                     "type": "exercise",
@@ -424,7 +444,8 @@
                         "if I had seen his wallet",
                         "would reduce unemployment",
                         "if I could come to the meeting the next day"
-                    ]
+                    ],
+                    "guid": "51c697ca-5396-43e5-917d-c39328d662e6"
                 },
                 {
                     "type": "exercise",
@@ -445,7 +466,8 @@
                         "there, that day",
                         "they, their, we/I, ourselves/myself",
                         "that, two months earlier/two months before"
-                    ]
+                    ],
+                    "guid": "81dc0cf6-4c4b-4dde-ba65-764eddd6a147"
                 },
                 {
                     "type": "exercise",
@@ -466,7 +488,8 @@
                         "Tim asked us if we liked Chinese food.",
                         "Mum told me to go to my room.",
                         "Sally asked if I could help her move things to her new flat."
-                    ]
+                    ],
+                    "guid": "ccd9697a-4dfa-4583-b7c3-d4faecc666bd"
                 },
                 {
                     "type": "exercise",
@@ -483,7 +506,8 @@
                         "how long I had been working for my current employer.",
                         "me not to move my wrist or thumb while doing that exercise.",
                         "if the car belonged to him."
-                    ]
+                    ],
+                    "guid": "5046eea8-c948-4937-87cb-b5f0e9645cad"
                 },
                 {
                     "type": "exercise",
@@ -516,7 +540,8 @@
                         "the men had been looking for the document they had lost.",
                         "he couldn't concentrate in such a noise.",
                         "she had finished reading the book the day before."
-                    ]
+                    ],
+                    "guid": "a27c49db-5e24-4c1d-87e1-749e1c5a34df"
                 },
                 {
                     "type": "exercise",
@@ -537,7 +562,8 @@
                         "(that) she had stained her new dressing gown.",
                         "me (that) I had to explain everything to my supervisor.",
                         "me (that) he would work for them if they offered him a good salary."
-                    ]
+                    ],
+                    "guid": "13565b03-011a-4016-b316-9b76e86f6fd3"
                 },
                 {
                     "type": "exercise",
@@ -560,7 +586,8 @@
                         "not to leave any",
                         "where the toilet was",
                         "(that) he had worked in this company for five years"
-                    ]
+                    ],
+                    "guid": "6a657c06-7a8a-4244-b2c2-ddd5e2750bd1"
                 },
                 {
                     "type": "exercise",
@@ -593,8 +620,9 @@
                         "He said that he had been to the cinema the day before.",
                         "She asked me why I hadn't answered her question.",
                         "The doctor said that I should rest more."
-                    ]
-                }                  
+                    ],
+                    "guid": "4c23ed8a-d0d5-4b43-a43e-645525fd00e0"
+                }
             ]
         }
     ]
