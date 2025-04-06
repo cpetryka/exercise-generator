@@ -8,7 +8,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak tworzymy stronę bierną oraz kiedy ją wykorzystujemy.",
-                    "guid": "38403079-14c0-4c74-8a8c-4a4a709ffb50"
+                    "uuid": "38403079-14c0-4c74-8a8c-4a4a709ffb50"
                 },
                 {
                     "type": "exercise",
@@ -48,7 +48,7 @@
                         "When will the new shopping centre be opened?",
                         "Who was “Harry Potter” written by?"
                     ],
-                    "guid": "5666d7ce-13d2-4867-ac3d-7e55fee65dc0"
+                    "uuid": "5666d7ce-13d2-4867-ac3d-7e55fee65dc0"
                 },
                 {
                     "type": "exercise",
@@ -82,7 +82,7 @@
                         "Had the date on the invitations been changed before they were sent / we sent them?",
                         "Look! This photograph has been taken with my old camera. "
                     ],
-                    "guid": "3b14baa7-10db-4125-ad73-47ef128cfef0"
+                    "uuid": "3b14baa7-10db-4125-ad73-47ef128cfef0"
                 },
                 {
                     "type": "exercise",
@@ -112,7 +112,7 @@
                         "The money is being given to me next week./I am given the money next week.",
                         "A new novel was being written every month."
                     ],
-                    "guid": "bc2903f6-b171-40dc-8663-fe9e4fa72bff"
+                    "uuid": "bc2903f6-b171-40dc-8663-fe9e4fa72bff"
                 },
                 {
                     "type": "exercise",
@@ -142,7 +142,7 @@
                         "I expect my new car will be delivered soon.",
                         "The suspects are being questioned by the police."
                     ],
-                    "guid": "abce7a55-fb68-4289-a62e-525dcade8a37"
+                    "uuid": "abce7a55-fb68-4289-a62e-525dcade8a37"
                 },
                 {
                     "type": "exercise",
@@ -172,7 +172,7 @@
                         "The housework hasn't been done by Jill yet.",
                         "The parcel may not be delivered today."
                     ],
-                    "guid": "6cfd427d-2fb5-4f28-a95a-4012729de275"
+                    "uuid": "6cfd427d-2fb5-4f28-a95a-4012729de275"
                 },
                 {
                     "type": "exercise",
@@ -198,7 +198,7 @@
                         "Had we not been invited to the wedding, we would have gone to the cinema.",
                         "They/The government may pass a new bill by the end of summer."
                     ],
-                    "guid": "2a8abfea-2249-4ce1-afe5-097cac729be8"
+                    "uuid": "2a8abfea-2249-4ce1-afe5-097cac729be8"
                 },
                 {
                     "type": "exercise",
@@ -232,7 +232,7 @@
                         "has been written",
                         "will have been read"
                     ],
-                    "guid": "25833d3b-07db-46f3-9b7a-0172a3edacd2"
+                    "uuid": "25833d3b-07db-46f3-9b7a-0172a3edacd2"
                 },
                 {
                     "type": "exercise",
@@ -262,7 +262,7 @@
                         "hadn't been cleaned",
                         "will the invitations be sent"
                     ],
-                    "guid": "144260ae-2d4f-4d5c-b0d7-d84720f5c79e"
+                    "uuid": "144260ae-2d4f-4d5c-b0d7-d84720f5c79e"
                 },
                 {
                     "type": "exercise",
@@ -296,7 +296,7 @@
                         "was built",
                         "will be"
                     ],
-                    "guid": "5c7f14dd-d70f-4910-b4b7-088fe3a954de"
+                    "uuid": "5c7f14dd-d70f-4910-b4b7-088fe3a954de"
                 },
                 {
                     "type": "exercise",
@@ -318,7 +318,7 @@
                         "by",
                         "with"
                     ],
-                    "guid": "6bfb8991-f963-42e4-b24d-21482647709f"
+                    "uuid": "6bfb8991-f963-42e4-b24d-21482647709f"
                 },
                 {
                     "type": "exercise",
@@ -348,7 +348,7 @@
                         "was given",
                         "have you been offered"
                     ],
-                    "guid": "64dc89ee-8cff-44f7-a95e-792c2cc22de4"
+                    "uuid": "64dc89ee-8cff-44f7-a95e-792c2cc22de4"
                 },
                 {
                     "type": "exercise",
@@ -374,7 +374,7 @@
                         "should be informed",
                         "hans't been signed by"
                     ],
-                    "guid": "ab12c5f8-7a83-4a18-bc8c-393c987c8734"
+                    "uuid": "ab12c5f8-7a83-4a18-bc8c-393c987c8734"
                 },
                 {
                     "type": "exercise",
@@ -408,7 +408,7 @@
                         "How is butter made?",
                         "They've already been invited."
                     ],
-                    "guid": "19d9a90c-b54f-4e32-8b0f-78d670a8f97a"
+                    "uuid": "19d9a90c-b54f-4e32-8b0f-78d670a8f97a"
                 },
                 {
                     "type": "exercise",
@@ -417,7 +417,7 @@
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\na television ...can be watched/can't be eaten/can be bought in different sizes/should be turned off when you're not watching it."
                     ],
-                    "guid": "3e8ffba4-56b7-4fdd-91ad-a279e0ce8231"
+                    "uuid": "3e8ffba4-56b7-4fdd-91ad-a279e0ce8231"
                 },
                 {
                     "type": "exercise",
@@ -426,7 +426,7 @@
                     "answers": [
                         "MOŻNA WYKOSZYSTAĆ NASTĘPUJĄCY SCHEMAT:\nFirst, …. Next, …. Then, …. After that, …. Finally, …."
                     ],
-                    "guid": "c7764ce1-a37f-416a-8110-198b2b5c6e18"
+                    "uuid": "c7764ce1-a37f-416a-8110-198b2b5c6e18"
                 },
                 {
                     "type": "exercise",
@@ -435,7 +435,7 @@
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nOur package holiday is in Hawaii. You will be met at the airport by our representative and taken to your hotel. Your luggage will be taken to your room for you. You are invited to the welcome cocktails on the beach. All your meals are prepared with the finest ingredients and by the best chefs in the region …"
                     ],
-                    "guid": "516c204e-2e81-4071-966a-ae7022939066"
+                    "uuid": "516c204e-2e81-4071-966a-ae7022939066"
                 }
             ]
         },
@@ -446,7 +446,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji 'have something done'.",
-                    "guid": "2b97efcc-6f4c-42c3-9ce7-f261f883b29a"
+                    "uuid": "2b97efcc-6f4c-42c3-9ce7-f261f883b29a"
                 },
                 {
                     "type": "exercise",
@@ -466,7 +466,7 @@
                         "had my birthday cake baked",
                         "have your eyes tested"
                     ],
-                    "guid": "f50e600e-f4c5-434a-8426-fb9123c95301"
+                    "uuid": "f50e600e-f4c5-434a-8426-fb9123c95301"
                 },
                 {
                     "type": "exercise",
@@ -492,7 +492,7 @@
                         "I have just had food delivered to my house.",
                         "Carol sometimes has his essays written (by Katy)."
                     ],
-                    "guid": "4caa884c-fd0e-45a3-bd10-3f701e4e29bf"
+                    "uuid": "4caa884c-fd0e-45a3-bd10-3f701e4e29bf"
                 },
                 {
                     "type": "exercise",
@@ -518,7 +518,7 @@
                         "Jane is going to have her living room redecorated next month.",
                         "I have my eyes tested by the optician."
                     ],
-                    "guid": "10330ed8-8e72-4848-b25d-374839a192c6"
+                    "uuid": "10330ed8-8e72-4848-b25d-374839a192c6"
                 },
                 {
                     "type": "exercise",
@@ -548,7 +548,7 @@
                         "We have had some trees planted in our garden by gardeners.",
                         "We are having the roof repaired."
                     ],
-                    "guid": "a1bd9edf-a961-4e74-8e53-3d5f6af555f9"
+                    "uuid": "a1bd9edf-a961-4e74-8e53-3d5f6af555f9"
                 },
                 {
                     "type": "exercise",
@@ -578,7 +578,7 @@
                         "My mum was having jewellery made by Ashlie.",
                         "She has the grass outside her house cut once a month by a gardener."
                     ],
-                    "guid": "0b701cc7-e03a-4103-b094-7f24db0b76a2"
+                    "uuid": "0b701cc7-e03a-4103-b094-7f24db0b76a2"
                 }
             ]
         },
@@ -609,7 +609,7 @@
                         "He is said to be a hacker. / It is said that he is a hacker.",
                         "Tipping is thought to be insulting. / It is thought that tipping is insulting. "
                     ],
-                    "guid": "91f241b2-37c0-430b-9d86-cb721cc8a231"
+                    "uuid": "91f241b2-37c0-430b-9d86-cb721cc8a231"
                 },
                 {
                     "type": "exercise",
@@ -635,7 +635,7 @@
                         "Their friends were reported to be swimming when they disappeared. / It was reported that their friends were swimming when they disappeared.",
                         "The animals were believed to have been killed during the night. / It was believed that they had killed the animals during the night."
                     ],
-                    "guid": "4753ed19-9685-47e6-a696-f86dec694e67"
+                    "uuid": "4753ed19-9685-47e6-a696-f86dec694e67"
                 },
                 {
                     "type": "exercise",
@@ -661,7 +661,7 @@
                         "He is said to have settled the business. / It is said that he settled the business.",
                         "The meeting was believed to finish soon. / It was believed that the meeting would finish soon."
                     ],
-                    "guid": "9e5299e3-f064-40bd-b7d8-2fc858f5a4bb"
+                    "uuid": "9e5299e3-f064-40bd-b7d8-2fc858f5a4bb"
                 },
                 {
                     "type": "exercise",
@@ -683,7 +683,7 @@
                         "The meeting is said to be held here. / It is said that the meeting will be held here.",
                         "Their team was expected to win. / It was expected that their team would win."
                     ],
-                    "guid": "5d0dfff0-6e2e-4206-90da-32479d2d4e0d"
+                    "uuid": "5d0dfff0-6e2e-4206-90da-32479d2d4e0d"
                 },
                 {
                     "type": "exercise",
@@ -709,7 +709,7 @@
                         "Bell was believed to be a great inventor.\nIt was believed that Bell was a great inventor.",
                         "IS Einstein believed to have been the most intelligent person ever?\nIs it believed that Einstein was the most intelligent person ever?"
                     ],
-                    "guid": "c84b3f4f-9f0b-4629-9407-30f419c86637"
+                    "uuid": "c84b3f4f-9f0b-4629-9407-30f419c86637"
                 },
                 {
                     "type": "exercise",
@@ -739,7 +739,7 @@
                         "are reported to have escaped from prison.",
                         "is expected to be given the prize."
                     ],
-                    "guid": "33e217cc-9fef-4438-ae4e-85f6e7256b42"
+                    "uuid": "33e217cc-9fef-4438-ae4e-85f6e7256b42"
                 }
             ]
         },
@@ -774,7 +774,7 @@
                         "to have been implemented",
                         "to be looked at"
                     ],
-                    "guid": "584289f3-ad85-43db-94c8-26d74a2fc347"
+                    "uuid": "584289f3-ad85-43db-94c8-26d74a2fc347"
                 },
                 {
                     "type": "exercise",
@@ -796,7 +796,7 @@
                         "... had my car tested for emissions (by the garage).",
                         "... to have been tested."
                     ],
-                    "guid": "ecb920b5-0120-4422-8d4b-9c036743b28d"
+                    "uuid": "ecb920b5-0120-4422-8d4b-9c036743b28d"
                 }
             ]
         },
@@ -825,7 +825,7 @@
                         "was seen to hit",
                         "has been decorated"
                     ],
-                    "guid": "de3e89bb-dea2-40ce-af05-109cd5a141b9"
+                    "uuid": "de3e89bb-dea2-40ce-af05-109cd5a141b9"
                 },
                 {
                     "type": "exercise",
@@ -855,7 +855,7 @@
                         "to",
                         "been"
                     ],
-                    "guid": "1ee61efb-ffd2-4365-bcd8-1761cbd53449"
+                    "uuid": "1ee61efb-ffd2-4365-bcd8-1761cbd53449"
                 },
                 {
                     "type": "exercise",
@@ -885,7 +885,7 @@
                         "to be taught",
                         "should be told"
                     ],
-                    "guid": "4c973965-0bca-4536-84b3-c8347a01b235"
+                    "uuid": "4c973965-0bca-4536-84b3-c8347a01b235"
                 },
                 {
                     "type": "exercise",
@@ -905,7 +905,7 @@
                         "had two of his teeth",
                         "will be given"
                     ],
-                    "guid": "cca38d13-291d-4083-9f46-1aface59be8a"
+                    "uuid": "cca38d13-291d-4083-9f46-1aface59be8a"
                 }
             ]
         }
