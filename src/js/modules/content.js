@@ -4,7 +4,7 @@ import HtmlContentGenerator from "../generator/html-content-generator";
 import {exerciseGenerator} from "../service/exercise-generator";
 
 export const generateExercise = (exerciseNumber, exerciseId, data) => {
-    let wrapper = HtmlGenerator.generateHtmlElement('div', { id: exerciseId, class: 'exercise' });
+    let wrapper = HtmlGenerator.generateHtmlElement('div', { id: exerciseId, class: 'exercise', uuid: data.uuid });
 
     // Heading
     let heading = HtmlGenerator.generateHtmlElement('h4', { class: 'exercise-heading' });
@@ -131,6 +131,24 @@ export const findExercise = (id) => {
     return exerciseGenerator.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
+export const convertUUIDToExercise = (num, uuid) => {
+    return generateExercise(num, uuid, findExerciseByUUID(uuid));
+}
+
+export const findExerciseByUUID = (uuid) => {
+    for(let i = 0; i < exerciseGenerator.data.length; ++i) {
+        for(let j = 0; j < exerciseGenerator.data[i]["subsections"].length; ++j) {
+            for(let k = 0; k < exerciseGenerator.data[i]["subsections"][j]["subsectionContent"].length; ++k) {
+                if(exerciseGenerator.data[i]["subsections"][j]["subsectionContent"][k].uuid === uuid) {
+                    return exerciseGenerator.data[i]["subsections"][j]["subsectionContent"][k];
+                }
+            }
+        }
+    }
+
+    return null;
+}
+
 export const generateSet = () => {
     const fragment = document.createDocumentFragment();
     let counter = 1;
@@ -140,7 +158,13 @@ export const generateSet = () => {
 
         switch(exerciseGenerator.chosenSet[i].type) {
             case 'exercise':
-                temp = convertIdToExercise(counter++, exerciseGenerator.chosenSet[i].id);
+                if(exerciseGenerator.chosenSet[i].uuid) {
+                    temp = convertUUIDToExercise(counter++, exerciseGenerator.chosenSet[i].uuid);
+                }
+                else {
+                    temp = convertIdToExercise(counter++, exerciseGenerator.chosenSet[i].id);
+                }
+                
                 break;
             case 'theory':
                 temp = HtmlContentGenerator.createTheoryImage(exerciseGenerator.chosenSet[i].src);

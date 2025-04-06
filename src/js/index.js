@@ -21,11 +21,10 @@ const initializeWebsite = () => {
     const temp = document.querySelectorAll('.exercise-heading span');
     temp.forEach(exercise => {
         exercise.addEventListener('click', () => {
-            const id = exercise.parentElement.parentElement.getAttribute('id');
-
             exerciseGenerator.addElementToChosenSet({
                 type: "exercise",
-                id: id
+                id: exercise.parentElement.parentElement.getAttribute('id'),
+                uuid: exercise.parentElement.parentElement.getAttribute('uuid')
             });
 
             content.refreshGeneratedSet();

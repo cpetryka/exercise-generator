@@ -3,7 +3,7 @@ class HtmlGenerator {
         const element = document.createElement(elementType);
 
         // Setting attributes
-        const allowedAttributes = ['id', 'class', 'src', 'alt', 'data-src', 'data-bs-toggle', 'data-bs-target', 'aria-expanded', 'aria-controls', 'aria-labelledby', 'data-bs-parent' ];
+        const allowedAttributes = ['id', 'class', 'src', 'alt', 'data-src', 'data-bs-toggle', 'data-bs-target', 'aria-expanded', 'aria-controls', 'aria-labelledby', 'data-bs-parent', 'uuid' ]; // uuid is a custom attribute
 
         for(let attribute in attributes) {
             if(allowedAttributes.includes(attribute)) {
