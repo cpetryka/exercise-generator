@@ -5,6 +5,16 @@
             "subsectionName": "relative-clauses",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Relative clauses - theory",
+                    "src": "relative-clauses.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Relative clauses - additional information",
+                    "src": "relative-clauses-additional-info.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są zdania przydawkowe, a następnie opisz ich rodzaje.",
