@@ -33,13 +33,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "274be6ab-c6a8-4f3d-aa4c-2ccc50485cc0"
+                    "uuid": "274be6ab-c6a8-4f3d-aa4c-2ccc50485cc0"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every week, always, often, sometimes, never, at night, on Mondays, from time to time.",
-                    "guid": "8ccb4cc4-4a2a-4940-9e6d-ec4af3b92903"
+                    "uuid": "8ccb4cc4-4a2a-4940-9e6d-ec4af3b92903"
                 },
                 {
                     "type": "exercise",
@@ -53,25 +53,25 @@
                         "Do you have any bad habits? Tell me about them.",
                         "What time do you usually wake up?"
                     ],
-                    "guid": "f2840d80-ea54-42ae-ace1-8cc9ec1f370e"
+                    "uuid": "f2840d80-ea54-42ae-ace1-8cc9ec1f370e"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wygląda twój typowy dzień.",
-                    "guid": "218fef74-b6b4-442a-a695-c2d071ac1aeb"
+                    "uuid": "218fef74-b6b4-442a-a695-c2d071ac1aeb"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wygląda typowy dzień twoich rodziców / brata / znajomego / twojej ulubionej postaci z filmu.",
-                    "guid": "2610b0bd-4f8e-4a58-b773-a2a434d55861"
+                    "uuid": "2610b0bd-4f8e-4a58-b773-a2a434d55861"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "133591b7-5007-4fcc-9111-1fca1da585f7"
+                    "uuid": "133591b7-5007-4fcc-9111-1fca1da585f7"
                 }
             ]
         },
@@ -97,13 +97,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "4b032e90-64aa-4934-9ede-b9baa4590274"
+                    "uuid": "4b032e90-64aa-4934-9ede-b9baa4590274"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, at the moment, today, nowadays, this week.",
-                    "guid": "f6788d8b-a806-4e7d-9092-623012766cc3"
+                    "uuid": "f6788d8b-a806-4e7d-9092-623012766cc3"
                 },
                 {
                     "type": "exercise",
@@ -116,19 +116,19 @@
                         "What are you doing this year to improve yourself?",
                         "Think of your favourite celebrity. What do you think they are doing right now?"
                     ],
-                    "guid": "88c3a7e9-c3cc-42e9-9ea4-8c8994f5559e"
+                    "uuid": "88c3a7e9-c3cc-42e9-9ea4-8c8994f5559e"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zastanów się, co Twoi znajomi i rodzina prawdopodobnie robią w tej chwili. Utwórz po 2 zdania o każdej osobie - jedno o tym, co być może teraz robi, i drugie o tym, czego prawdopodobnie teraz nie robi.",
-                    "guid": "ff8f9696-6ffb-4e05-86a0-a32dbf07cf7d"
+                    "uuid": "ff8f9696-6ffb-4e05-86a0-a32dbf07cf7d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "e0397573-9994-47b1-a88c-4c048eb55efe"
+                    "uuid": "e0397573-9994-47b1-a88c-4c048eb55efe"
                 }
             ]
         },
@@ -144,19 +144,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Present Simple od czasu Present Continuous, podaj kilka przykładów.",
-                    "guid": "62385ac6-139f-4ff5-8aa0-b87e8d2cf569"
+                    "uuid": "62385ac6-139f-4ff5-8aa0-b87e8d2cf569"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every month, often, usually, at night, on Sundays.",
-                    "guid": "d31eeacc-eef4-4e58-bee9-e5ddefcfa35d"
+                    "uuid": "d31eeacc-eef4-4e58-bee9-e5ddefcfa35d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, at the moment, today, nowadays, this week.",
-                    "guid": "1e21bda1-3092-4338-9260-0e9fd27352e6"
+                    "uuid": "1e21bda1-3092-4338-9260-0e9fd27352e6"
                 },
                 {
                     "type": "exercise",
@@ -178,7 +178,7 @@
                         "belongs",
                         "depends"
                     ],
-                    "guid": "f1f14ef2-f48b-495f-871b-ef288f14ef08"
+                    "uuid": "f1f14ef2-f48b-495f-871b-ef288f14ef08"
                 },
                 {
                     "type": "exercise",
@@ -208,7 +208,7 @@
                         "Do you understand",
                         "sleeps, is sleeping"
                     ],
-                    "guid": "564f8653-c1bd-40e5-aa00-e3cee526018c"
+                    "uuid": "564f8653-c1bd-40e5-aa00-e3cee526018c"
                 },
                 {
                     "type": "exercise",
@@ -238,7 +238,7 @@
                         "don't wear, make",
                         "Are we going"
                     ],
-                    "guid": "cc301ae9-27a1-4528-b8d0-1f9f282e33c1"
+                    "uuid": "cc301ae9-27a1-4528-b8d0-1f9f282e33c1"
                 },
                 {
                     "type": "exercise",
@@ -268,7 +268,7 @@
                         "... someone drives ...",
                         "... making ..."
                     ],
-                    "guid": "9d26225b-1125-4542-82a2-a3b58c51fde2"
+                    "uuid": "9d26225b-1125-4542-82a2-a3b58c51fde2"
                 },
                 {
                     "type": "exercise",
@@ -302,19 +302,19 @@
                         "We are not going to the cinema tomorrow because Jane is sick.",
                         "I always go to the gym after work, but today I am meeting my brother."
                     ],
-                    "guid": "33567d0f-4fc3-4dbc-a09a-c415370d6576"
+                    "uuid": "33567d0f-4fc3-4dbc-a09a-c415370d6576"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o sobie wykorzystując czasy present simple i present continuous.",
-                    "guid": "0b5cfede-5ae7-41c9-a064-328be2ecac44"
+                    "uuid": "0b5cfede-5ae7-41c9-a064-328be2ecac44"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "5b44a5dd-5d1e-410d-8c98-e6bab7e2e9bd"
+                    "uuid": "5b44a5dd-5d1e-410d-8c98-e6bab7e2e9bd"
                 }
             ]
         },
@@ -325,13 +325,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "407c6cf4-e4bf-4ef9-8609-40408c38a55d"
+                    "uuid": "407c6cf4-e4bf-4ef9-8609-40408c38a55d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago, when I was young.",
-                    "guid": "b93e0179-e49f-441b-b419-ab89e07b144a"
+                    "uuid": "b93e0179-e49f-441b-b419-ab89e07b144a"
                 },
                 {
                     "type": "exercise",
@@ -345,37 +345,37 @@
                         "Tell me about your last vacation. Where did you go? What did you do?",
                         "What did you do last week?"
                     ],
-                    "guid": "80101ec3-57fb-4f94-bbce-12de942b78fb"
+                    "uuid": "80101ec3-57fb-4f94-bbce-12de942b78fb"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wyglądał twój wczorajszy dzień. Powiedz co wczoraj zrobiłeś/zrobiłaś oraz czego nie zrobiłeś/zrobiłaś.",
-                    "guid": "1805a3a4-6074-4e11-aafe-51ca165f3030"
+                    "uuid": "1805a3a4-6074-4e11-aafe-51ca165f3030"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi jak wyglądał wczorajszy dzień twojego brata / znajomego / dziewczyny itp. Powiedz czego wczoraj nie zrobił/zrobiła.",
-                    "guid": "49b11ff7-e587-41ca-be90-16da9bf2531f"
+                    "uuid": "49b11ff7-e587-41ca-be90-16da9bf2531f"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jak wyglądały twoje ostatnie święta? Co wtedy zrobiłeś/zrobiłaś?",
-                    "guid": "e447ad42-cbd3-4943-8a00-67e5244d9270"
+                    "uuid": "e447ad42-cbd3-4943-8a00-67e5244d9270"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że jesteś na pierwszej randce z nową dziewczynką (lub chłopakiem - kogo wolisz) i opowiadasz jej (albo jemu) o swoim życiu. Powiedz, co zrobiłeś i czego nie zrobiłeś wczoraj, w zeszłym tygodniu, miesiącu, roku i gdy byłeś mały.",
-                    "guid": "8940c4de-a356-4c35-af45-13c497d6a5ec"
+                    "uuid": "8940c4de-a356-4c35-af45-13c497d6a5ec"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "462699e6-9896-4ae8-89d9-d15e33125b1a"
+                    "uuid": "462699e6-9896-4ae8-89d9-d15e33125b1a"
                 }
             ]
         },
@@ -386,7 +386,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji „used to” oraz jakiej formy czasownika po niej używamy.",
-                    "guid": "06331e04-c804-46a2-8035-0b4316ca204c"
+                    "uuid": "06331e04-c804-46a2-8035-0b4316ca204c"
                 },
                 {
                     "type": "exercise",
@@ -398,13 +398,13 @@
                         "When you were a child, what games did you use to play?",
                         "How often did you use to get in trouble when you were younger?"
                     ],
-                    "guid": "6adbcf87-2a4c-45f6-a806-db5116d94fb6"
+                    "uuid": "6adbcf87-2a4c-45f6-a806-db5116d94fb6"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiadasz swojemu dziecku lub wnuczkowi, jak kiedyś wyglądało Twoje życie i świat. Powiedz, co kiedyś robiłeś, czego nie robiłeś i jak żyli ludzie w dawnych czasach, kiedy byłeś młodszy.",
-                    "guid": "cbac72c1-ed12-4d15-967e-34371cd91888"
+                    "uuid": "cbac72c1-ed12-4d15-967e-34371cd91888"
                 }
             ]
         },
@@ -415,13 +415,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "a4261711-5c40-4442-aa3c-719013f3cd85"
+                    "uuid": "a4261711-5c40-4442-aa3c-719013f3cd85"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while.",
-                    "guid": "c210a7ea-780c-4b91-92fb-6a108d4ea06b"
+                    "uuid": "c210a7ea-780c-4b91-92fb-6a108d4ea06b"
                 },
                 {
                     "type": "exercise",
@@ -433,25 +433,25 @@
                         "What were you doing at school yesterday?",
                         "What were your friends doing when you came to school/work?"
                     ],
-                    "guid": "bcb7fafd-d99c-4227-9ce1-627e3144f3d2"
+                    "uuid": "bcb7fafd-d99c-4227-9ce1-627e3144f3d2"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że byłeś/byłaś świadkiem bardzo ciekawej sytuacji, opowiedz co tam się działo.",
-                    "guid": "0a51287a-d473-4050-bf99-615ed5a6affe"
+                    "uuid": "0a51287a-d473-4050-bf99-615ed5a6affe"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że składasz zeznania policjantowi. Powiedz, co robiłeś i czego nie robiłeś w konkretnych chwilach (np. yesterday at 6 p.m., this time last week, last night, yesterday at 5.30 p.m., yesterday at noon).",
-                    "guid": "d4f9f3dd-4d45-441b-a4fb-b12e51c24faf"
+                    "uuid": "d4f9f3dd-4d45-441b-a4fb-b12e51c24faf"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "a4881cd0-a94c-463a-885b-7bf983117dc6"
+                    "uuid": "a4881cd0-a94c-463a-885b-7bf983117dc6"
                 }
             ]
         },
@@ -467,19 +467,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple od czasu Past Continuous, podaj kilka przykładów.",
-                    "guid": "2ff0f208-977b-486b-a503-63fd8bcb98b2"
+                    "uuid": "2ff0f208-977b-486b-a503-63fd8bcb98b2"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago.",
-                    "guid": "209f8d6b-32f2-4d4e-9b25-d0456bc459ea"
+                    "uuid": "209f8d6b-32f2-4d4e-9b25-d0456bc459ea"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while.",
-                    "guid": "527d7194-f0d0-440f-9790-dbcfdc3a35bf"
+                    "uuid": "527d7194-f0d0-440f-9790-dbcfdc3a35bf"
                 },
                 {
                     "type": "exercise",
@@ -501,7 +501,7 @@
                         "was making, cut",
                         "dropped, was doing, did not break"
                     ],
-                    "guid": "cb4c5bd9-ed5f-48cb-8df2-1ae448fc7c51"
+                    "uuid": "cb4c5bd9-ed5f-48cb-8df2-1ae448fc7c51"
                 },
                 {
                     "type": "exercise",
@@ -531,7 +531,7 @@
                         "was going, forgot",
                         "spent"
                     ],
-                    "guid": "0e4e901e-83e9-41ed-8bb1-cd3ee0093fd8"
+                    "uuid": "0e4e901e-83e9-41ed-8bb1-cd3ee0093fd8"
                 },
                 {
                     "type": "exercise",
@@ -565,19 +565,19 @@
                         "What were you doing yesterday when I called you?",
                         "I did not hear anything because I was listening to music."
                     ],
-                    "guid": "d9482134-8f84-4c12-9a20-e947a64e43d1"
+                    "uuid": "d9482134-8f84-4c12-9a20-e947a64e43d1"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co wczoraj zrobiłeś/robiłeś wykorzystując czasy Past Simple i Past Continuous.",
-                    "guid": "16ff5141-17c3-4624-882f-653586a76f34"
+                    "uuid": "16ff5141-17c3-4624-882f-653586a76f34"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "89adb221-9c9e-43b3-bdb5-1575967d445e"
+                    "uuid": "89adb221-9c9e-43b3-bdb5-1575967d445e"
                 }
             ]
         },
@@ -588,7 +588,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz, w jakiej sytuacji używamy czasów Present Simple i Continuous, mówiąc o przyszłości. Podaj przykłady.",
-                    "guid": "6cb1217b-5dbc-440f-98c6-654e580ddab5"
+                    "uuid": "6cb1217b-5dbc-440f-98c6-654e580ddab5"
                 },
                 {
                     "type": "exercise",
@@ -608,7 +608,7 @@
                         "starts",
                         "is flying"
                     ],
-                    "guid": "2bea5a7d-2064-46f4-8159-1604b397c66e"
+                    "uuid": "2bea5a7d-2064-46f4-8159-1604b397c66e"
                 }
             ]
         },
@@ -619,13 +619,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "8d377a72-e3bc-4839-8b52-d6efa2934850"
+                    "uuid": "8d377a72-e3bc-4839-8b52-d6efa2934850"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, next …, in an hour, I hope ….",
-                    "guid": "8a76d58e-dc8b-473e-86b8-b470392bca2b"
+                    "uuid": "8a76d58e-dc8b-473e-86b8-b470392bca2b"
                 },
                 {
                     "type": "exercise",
@@ -637,31 +637,31 @@
                         "What will future houses look like?",
                         "How long will people live in the future?"
                     ],
-                    "guid": "d7018578-e64d-406d-8bcf-ac1dfb1e15ac"
+                    "uuid": "d7018578-e64d-406d-8bcf-ac1dfb1e15ac"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zrobisz: po tej lekcji, w weekend, w wakacje, za rok itp.",
-                    "guid": "5af8913d-968f-431d-a22c-336d52b85b53"
+                    "uuid": "5af8913d-968f-431d-a22c-336d52b85b53"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz jak według ciebie będzie wyglądała przyszłość",
-                    "guid": "0b30a58d-ff82-4d4f-a22c-5a31074d6d59"
+                    "uuid": "0b30a58d-ff82-4d4f-a22c-5a31074d6d59"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jesteś wróżbitą Maciejem. Zaglądasz w karty i przepowiadasz sobie przyszłość. Powiedz, co się wydarzy (lub nie wydarzy) w Twoim życiu i na świecie.",
-                    "guid": "bcda936c-0f2d-4fa3-9aff-70d502c8a857"
+                    "uuid": "bcda936c-0f2d-4fa3-9aff-70d502c8a857"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "504d7542-518e-4612-81ca-d12e2a9aeaa1"
+                    "uuid": "504d7542-518e-4612-81ca-d12e2a9aeaa1"
                 }
             ]
         },
@@ -672,7 +672,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy konstrukcji „be going to” oraz jakiej formy czasownika po niej używamy.",
-                    "guid": "97d17802-d565-48d4-9c9b-21aab1a80f0d"
+                    "uuid": "97d17802-d565-48d4-9c9b-21aab1a80f0d"
                 },
                 {
                     "type": "exercise",
@@ -685,25 +685,25 @@
                         "What time are you going to get up tomorrow?",
                         "Are you going to travel to another country this year?"
                     ],
-                    "guid": "d4c9e452-9662-4432-a4e5-a173c6880eb3"
+                    "uuid": "d4c9e452-9662-4432-a4e5-a173c6880eb3"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zamierzasz robić po dzisiejszym spotkaniu.",
-                    "guid": "e648afe6-07ce-4957-b24b-647bb16dcc1e"
+                    "uuid": "e648afe6-07ce-4957-b24b-647bb16dcc1e"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jakie masz plany na najbliższą przyszłość? Wyobraź sobie, że nie mieszkasz z rodzicami i dzwonisz do mamy, która umiera z ciekawości, co porabiałeś, porabiasz i będziesz porabiać. Utwórz 5 zdań o tym, co zrobisz lub czego nie zrobisz w najbliższym czasie, i 5 o tym, co zrobi lub czego nie zrobi bliska Ci osoba.",
-                    "guid": "46f7b01d-25a7-4637-8feb-942f5a752899"
+                    "uuid": "46f7b01d-25a7-4637-8feb-942f5a752899"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "7f0ea8b0-dd2b-4bcd-9b88-c1719fb367ce"
+                    "uuid": "7f0ea8b0-dd2b-4bcd-9b88-c1719fb367ce"
                 }
             ]
         },
@@ -719,7 +719,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Simple, od konstrukcji 'be going to', podaj kilka przykładów.",
-                    "guid": "a8fdf84a-cf42-4970-b081-8bed1673ae6f"
+                    "uuid": "a8fdf84a-cf42-4970-b081-8bed1673ae6f"
                 },
                 {
                     "type": "exercise",
@@ -745,7 +745,7 @@
                         "will make",
                         "are going to crash"
                     ],
-                    "guid": "e48b3e07-041f-43b7-9e6d-136b3570434f"
+                    "uuid": "e48b3e07-041f-43b7-9e6d-136b3570434f"
                 },
                 {
                     "type": "exercise",
@@ -783,25 +783,25 @@
                         "The fridge is empty. I will do the shoppoing.",
                         "I'm going to call him tomorrow, but I'm not sure he'll answer."
                     ],
-                    "guid": "9f2a2a53-1e47-4ef8-9e0e-d9871d6b47bd"
+                    "uuid": "9f2a2a53-1e47-4ef8-9e0e-d9871d6b47bd"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zrobisz/zamierzasz zrobić w najbliższym czasie, wykorzystaj czas future simple i konstrukcję 'be going to'.",
-                    "guid": "f9a1ccb6-8d22-44ff-867b-be10717a216b"
+                    "uuid": "f9a1ccb6-8d22-44ff-867b-be10717a216b"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz historyjkę z wykorzystaniem czasu future simple i konstrukcji 'be going to'.",
-                    "guid": "dd147055-2d3d-4687-a6ba-521712b213e4"
+                    "uuid": "dd147055-2d3d-4687-a6ba-521712b213e4"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "ff75e19c-e1de-4a8d-b39b-63c743982bce"
+                    "uuid": "ff75e19c-e1de-4a8d-b39b-63c743982bce"
                 }
             ]
         },
@@ -812,7 +812,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Jakie znasz sposoby mówienia o przyszłości? Krótko je porównaj.",
-                    "guid": "8075ae6f-240e-40ca-94d0-91619ce35170"
+                    "uuid": "8075ae6f-240e-40ca-94d0-91619ce35170"
                 },
                 {
                     "type": "exercise",
@@ -838,7 +838,7 @@
                         "are having",
                         "is going to travel"
                     ],
-                    "guid": "30731878-6842-4ec6-9106-5db6256717f6"
+                    "uuid": "30731878-6842-4ec6-9106-5db6256717f6"
                 },
                 {
                     "type": "exercise",
@@ -860,7 +860,7 @@
                         "is goign to sell (prediction based on present evidence)",
                         "will help (promise)"
                     ],
-                    "guid": "febea3e7-c5c3-4201-819f-350e0eb40685"
+                    "uuid": "febea3e7-c5c3-4201-819f-350e0eb40685"
                 },
                 {
                     "type": "exercise",
@@ -882,7 +882,7 @@
                         "will help",
                         "are meeting"
                     ],
-                    "guid": "9c522b4c-5ea9-4bc0-9587-06b0ee5e2e00"
+                    "uuid": "9c522b4c-5ea9-4bc0-9587-06b0ee5e2e00"
                 },
                 {
                     "type": "exercise",
@@ -922,19 +922,19 @@
                         "What are you doing this weekend?",
                         "I am going to go to the cinema tomorrow."
                     ],
-                    "guid": "a1943a90-d5da-4382-a6ce-41b49fdbed73"
+                    "uuid": "a1943a90-d5da-4382-a6ce-41b49fdbed73"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz historyjkę z wykorzystaniem czasów present simple, present continuous, future simple oraz konstrukcji going to.",
-                    "guid": "0c0e2368-34e7-4219-9718-612179f63b1d"
+                    "uuid": "0c0e2368-34e7-4219-9718-612179f63b1d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "2a1eb89f-ac01-4fc6-b7f4-afc131efb176"
+                    "uuid": "2a1eb89f-ac01-4fc6-b7f4-afc131efb176"
                 }
             ]
         },
@@ -945,13 +945,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "3000b050-5fa5-471e-8f81-2f49301a6951"
+                    "uuid": "3000b050-5fa5-471e-8f81-2f49301a6951"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: from … to …, this time next week, next … at ….",
-                    "guid": "0c6897ea-3fdb-461e-af08-d5d6e8b2716f"
+                    "uuid": "0c6897ea-3fdb-461e-af08-d5d6e8b2716f"
                 },
                 {
                     "type": "exercise",
@@ -963,13 +963,13 @@
                         "What will you be doing next Christmas?",
                         "What will you be doing on Sunday from 4 to 5?"
                     ],
-                    "guid": "9da8c1a0-8751-4d02-afdc-a8628c7ecf85"
+                    "uuid": "9da8c1a0-8751-4d02-afdc-a8628c7ecf85"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co będziesz robił jutro o konkretnych godzinach",
-                    "guid": "902efd9a-1c68-4f33-9c42-56f25f6f22bb"
+                    "uuid": "902efd9a-1c68-4f33-9c42-56f25f6f22bb"
                 },
                 {
                     "type": "exercise",
@@ -985,25 +985,25 @@
                         "In 2 days …",
                         "When I retire …"
                     ],
-                    "guid": "06bbb588-6438-4424-bf9e-249cd1b7b7c5"
+                    "uuid": "06bbb588-6438-4424-bf9e-249cd1b7b7c5"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak według ciebie będzie wyglądała przyszłość. Wypowiedz się na temat rzeczy, które ludzie nadal będą robić i rzeczy, które zastąpią niektóre z nich w pewnym momencie w przyszłości.",
-                    "guid": "cbd7b5be-5441-4022-97f2-c37df662da68"
+                    "uuid": "cbd7b5be-5441-4022-97f2-c37df662da68"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Wyobraź sobie, że jest 2040 rok. Powiedz: gdzie jesteś, co robisz i co zmieniło się w twoim życiu.",
-                    "guid": "02709382-0485-40a7-a990-a3169cf36b56"
+                    "uuid": "02709382-0485-40a7-a990-a3169cf36b56"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "b7758fa8-7863-4325-8024-fb17bfd29692"
+                    "uuid": "b7758fa8-7863-4325-8024-fb17bfd29692"
                 }
             ]
         },
@@ -1019,19 +1019,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Simple, od czasu Future Continuous, podaj kilka przykładów.",
-                    "guid": "26cf029b-059f-4262-b652-1009064fba27"
+                    "uuid": "26cf029b-059f-4262-b652-1009064fba27"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, in an hour, I am sure.",
-                    "guid": "f5298e58-feb5-4e3f-8b21-20fb7f28f17f"
+                    "uuid": "f5298e58-feb5-4e3f-8b21-20fb7f28f17f"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: tomorrow at …, this time next week, next … at ….",
-                    "guid": "9ed3417f-4614-499b-9b6c-e3662559ec54"
+                    "uuid": "9ed3417f-4614-499b-9b6c-e3662559ec54"
                 },
                 {
                     "type": "exercise",
@@ -1051,7 +1051,7 @@
                         "will Mary be doing",
                         "will help"
                     ],
-                    "guid": "7a7f2dbb-96b3-42dd-a3f8-99dc42d6e3b0"
+                    "uuid": "7a7f2dbb-96b3-42dd-a3f8-99dc42d6e3b0"
                 },
                 {
                     "type": "exercise",
@@ -1081,13 +1081,13 @@
                         "I promise, I won't tell anyine. Will you propose to her at last?",
                         "We won't be working at this time tomorrow. We'll be lying on the beach."
                     ],
-                    "guid": "b4746c4e-d295-472b-b3e0-aa65b7e0da84"
+                    "uuid": "b4746c4e-d295-472b-b3e0-aa65b7e0da84"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "6c419959-681a-4a2c-a9f2-832e1f8b2ad4"
+                    "uuid": "6c419959-681a-4a2c-a9f2-832e1f8b2ad4"
                 }
             ]
         },
@@ -1103,37 +1103,37 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy poszczególnych czasów i konstrukcji (Past, Present, Future Simple&Continuous, used to, be going to).",
-                    "guid": "a3a8451f-e8ef-42b3-8b7b-1b287e7d6e26"
+                    "uuid": "a3a8451f-e8ef-42b3-8b7b-1b287e7d6e26"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o sobie, swoich znajomych, twoim życiu i otaczającym cię świecie z wykorzystaniem wszystkich podstawowych czasów gramatycznych.",
-                    "guid": "b81119d6-2c61-4558-957e-d9335e012b9c"
+                    "uuid": "b81119d6-2c61-4558-957e-d9335e012b9c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi historyjkę w trzeciej osobie.",
-                    "guid": "67a9a5a9-7163-4609-8048-2450217a135c"
+                    "uuid": "67a9a5a9-7163-4609-8048-2450217a135c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadaj mi po jednym pytaniu zamkniętym (ogólnym) w każdym czasie.",
-                    "guid": "8abf6a5d-2f50-419f-9fd1-1da67530dc86"
+                    "uuid": "8abf6a5d-2f50-419f-9fd1-1da67530dc86"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Zadaj mi po jednym pytaniu otwartym (szczegółowym) w każdym czasie.",
-                    "guid": "a64027e3-aea1-41db-845c-6289253f98bf"
+                    "uuid": "a64027e3-aea1-41db-845c-6289253f98bf"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "9c5f8f6f-d0a4-4822-b5e2-13021d4a00b9"
+                    "uuid": "9c5f8f6f-d0a4-4822-b5e2-13021d4a00b9"
                 },
                 {
                     "type": "exercise",
@@ -1167,7 +1167,7 @@
                         "is running",
                         "will be meeting"
                     ],
-                    "guid": "4a40c301-5fac-4b47-8194-9d351d290db3"
+                    "uuid": "4a40c301-5fac-4b47-8194-9d351d290db3"
                 },
                 {
                     "type": "exercise",
@@ -1201,7 +1201,7 @@
                         "Look! He is talking to the teacher.",
                         "Tomorrow at 10 AM, we will be talking to the boss."
                     ],
-                    "guid": "c7431560-f48f-43ef-9565-b2ef8e31e882"
+                    "uuid": "c7431560-f48f-43ef-9565-b2ef8e31e882"
                 }
             ]
         },
@@ -1212,13 +1212,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "98af5282-9dfc-4865-9500-47dcf922e6b3"
+                    "uuid": "98af5282-9dfc-4865-9500-47dcf922e6b3"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, yet, just, never, recently, so far, for, since.",
-                    "guid": "65a98ae6-04af-42a7-8c12-b9433d25471f"
+                    "uuid": "65a98ae6-04af-42a7-8c12-b9433d25471f"
                 },
                 {
                     "type": "exercise",
@@ -1231,19 +1231,19 @@
                         "What have you done today?",
                         "Have you ever forgotten an important birthday?"
                     ],
-                    "guid": "281e1b07-c5f7-470b-ab2d-6a207a18de6a"
+                    "uuid": "281e1b07-c5f7-470b-ab2d-6a207a18de6a"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o swoich doświadczeniach. Gdzie byłeś, gdzie nie byłeś (ale chciałbyś), co ciekawego czytałeś, widziałeś, słyszałeś, jadłeś, piłeś, próbowałeś.",
-                    "guid": "55cd7f87-7bdb-4b61-8642-670bff73a226"
+                    "uuid": "55cd7f87-7bdb-4b61-8642-670bff73a226"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czego nie robiłeś/robiłaś nigdy w życiu oraz czy chciałbyś/chciałabyś to zrobić.",
-                    "guid": "4a5f17da-5d1f-4ed8-97f3-1a35d6e5fc01"
+                    "uuid": "4a5f17da-5d1f-4ed8-97f3-1a35d6e5fc01"
                 },
                 {
                     "type": "exercise",
@@ -1267,13 +1267,13 @@
                         "- Have you ever been to the USA? - No, I haven't. I have never been abroad.",
                         "They've been married for more than 10 years."
                     ],
-                    "guid": "1a4fad90-0bf8-4e62-b315-8aa3b963a62a"
+                    "uuid": "1a4fad90-0bf8-4e62-b315-8aa3b963a62a"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "99b949f6-8e33-44a8-8b8c-203fab0ff9d2"
+                    "uuid": "99b949f6-8e33-44a8-8b8c-203fab0ff9d2"
                 }
             ]
         },
@@ -1289,19 +1289,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple, od czasu Present Perfect Simple, podaj kilka przykładów.",
-                    "guid": "4948bec5-fd2e-4039-985f-acd0a96a6c03"
+                    "uuid": "4948bec5-fd2e-4039-985f-acd0a96a6c03"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago.",
-                    "guid": "6bf2e5c8-5de4-402b-92bd-78759b0eae41"
+                    "uuid": "6bf2e5c8-5de4-402b-92bd-78759b0eae41"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, since, how much/many….",
-                    "guid": "19302c9e-b06d-471b-b9b6-30dd5ce7ddb2"
+                    "uuid": "19302c9e-b06d-471b-b9b6-30dd5ce7ddb2"
                 },
                 {
                     "type": "exercise",
@@ -1321,7 +1321,7 @@
                         "after all",
                         "for three weeks"
                     ],
-                    "guid": "4e8fee34-c74a-4909-8894-e54c02eb7466"
+                    "uuid": "4e8fee34-c74a-4909-8894-e54c02eb7466"
                 },
                 {
                     "type": "exercise",
@@ -1343,7 +1343,7 @@
                         "has lived",
                         "lived"
                     ],
-                    "guid": "bd9a2767-2ff1-4722-87b8-b1ad787cfd4a"
+                    "uuid": "bd9a2767-2ff1-4722-87b8-b1ad787cfd4a"
                 },
                 {
                     "type": "exercise",
@@ -1369,7 +1369,7 @@
                         "have passed",
                         "has changed"
                     ],
-                    "guid": "7b473358-cfb2-407d-86e6-6a97de8ed709"
+                    "uuid": "7b473358-cfb2-407d-86e6-6a97de8ed709"
                 },
                 {
                     "type": "exercise",
@@ -1395,7 +1395,7 @@
                         "'ve just missed",
                         "has she worked"
                     ],
-                    "guid": "81670bdc-e036-4136-b5c1-15ce8ffcedff"
+                    "uuid": "81670bdc-e036-4136-b5c1-15ce8ffcedff"
                 },
                 {
                     "type": "exercise",
@@ -1425,7 +1425,7 @@
                         "has visited",
                         "have known"
                     ],
-                    "guid": "8c8ae3cb-a206-4c92-81fb-4764f29dae0e"
+                    "uuid": "8c8ae3cb-a206-4c92-81fb-4764f29dae0e"
                 },
                 {
                     "type": "exercise",
@@ -1445,13 +1445,13 @@
                         "Have you ever swum in the ocean?",
                         "I bought a new TV yesterday."
                     ],
-                    "guid": "3b34b2f4-0815-4a70-a5a3-590d0c7cae3c"
+                    "uuid": "3b34b2f4-0815-4a70-a5a3-590d0c7cae3c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "98fe2066-a902-420b-9dfc-22b3494abfff"
+                    "uuid": "98fe2066-a902-420b-9dfc-22b3494abfff"
                 }
             ]
         },
@@ -1462,13 +1462,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Present Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "29ecd878-2292-40f7-bb9f-942e72a1e6bf"
+                    "uuid": "29ecd878-2292-40f7-bb9f-942e72a1e6bf"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all day, all night, for, how long….",
-                    "guid": "1fdf8d39-a061-4e32-8467-289908817421"
+                    "uuid": "1fdf8d39-a061-4e32-8467-289908817421"
                 },
                 {
                     "type": "exercise",
@@ -1481,19 +1481,19 @@
                         "What kinds of movies have you been watching recently?",
                         "What are some of your favourite books, newspapers or magazines that you have been reading lately?"
                     ],
-                    "guid": "ae19bfc7-abff-4250-b0ef-c1c109985d3a"
+                    "uuid": "ae19bfc7-abff-4250-b0ef-c1c109985d3a"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Co u ciebie słychać? Utwórz 5 zdań o tym, co robisz i czego nie robisz od dłuższego czasu, oraz 5 zdań o bliskiej Ci osobie.",
-                    "guid": "b6aecf17-222c-419e-a9ca-8b1a452c89ff"
+                    "uuid": "b6aecf17-222c-419e-a9ca-8b1a452c89ff"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "109ada68-09c1-49ca-aab3-0e73f266fecd"
+                    "uuid": "109ada68-09c1-49ca-aab3-0e73f266fecd"
                 }
             ]
         },
@@ -1514,19 +1514,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Present Perfect Simple, od czasu Present Perfect Continuous, podaj kilka przykładów.",
-                    "guid": "79bc05e7-8eac-470d-9cd0-72c3e7fa0ced"
+                    "uuid": "79bc05e7-8eac-470d-9cd0-72c3e7fa0ced"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, since, how much/many….",
-                    "guid": "d59c810a-f6de-433e-9e96-81904101d4df"
+                    "uuid": "d59c810a-f6de-433e-9e96-81904101d4df"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all day, all night, for, how long….",
-                    "guid": "036c601e-b03e-483b-8cc9-a1c91f6750ed"
+                    "uuid": "036c601e-b03e-483b-8cc9-a1c91f6750ed"
                 },
                 {
                     "type": "exercise",
@@ -1548,7 +1548,7 @@
                         "has finished",
                         "have been repairing"
                     ],
-                    "guid": "a15eaeda-d5e3-4cb1-a7cf-aedb84ae3465"
+                    "uuid": "a15eaeda-d5e3-4cb1-a7cf-aedb84ae3465"
                 },
                 {
                     "type": "exercise",
@@ -1574,7 +1574,7 @@
                         "have you had",
                         "haven't known"
                     ],
-                    "guid": "19bdce8b-70ab-4761-bd8c-241af81001d6"
+                    "uuid": "19bdce8b-70ab-4761-bd8c-241af81001d6"
                 },
                 {
                     "type": "exercise",
@@ -1604,7 +1604,7 @@
                         "have never met",
                         "have been painting"
                     ],
-                    "guid": "9c508a32-a8e3-4454-8802-9563eb322d50"
+                    "uuid": "9c508a32-a8e3-4454-8802-9563eb322d50"
                 },
                 {
                     "type": "exercise",
@@ -1626,7 +1626,7 @@
                         "'s been trying, 's managed",
                         "has won"
                     ],
-                    "guid": "35c094f8-edb3-4144-8875-85affcb75e32"
+                    "uuid": "35c094f8-edb3-4144-8875-85affcb75e32"
                 },
                 {
                     "type": "exercise",
@@ -1652,7 +1652,7 @@
                         "We've been running for forty minututes. I think we've already run eight kilometres.",
                         "You've been sick for five days. What have you been doing (in order) not to get bored?"
                     ],
-                    "guid": "fe953b55-377f-4af3-abbc-ddf17aee52ea"
+                    "uuid": "fe953b55-377f-4af3-abbc-ddf17aee52ea"
                 },
                 {
                     "type": "exercise",
@@ -1672,13 +1672,13 @@
                         "Have you been waiting for me for a long time.",
                         "Markus and Lydia haven't spoken to each other for weeks."
                     ],
-                    "guid": "ac5f5acd-edb1-4215-b185-fe2a305a27cf"
+                    "uuid": "ac5f5acd-edb1-4215-b185-fe2a305a27cf"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "c7aa7fe7-e57c-43dd-a2f4-7f39ed4cba64"
+                    "uuid": "c7aa7fe7-e57c-43dd-a2f4-7f39ed4cba64"
                 }
             ]
         },
@@ -1694,31 +1694,31 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy teraźniejsze: present simple, present continuous, present perfect simple, present perfect continuous.",
-                    "guid": "f599e227-cae5-417c-9297-4d116c2d95bb"
+                    "uuid": "f599e227-cae5-417c-9297-4d116c2d95bb"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Simple wykorzystując następujące zwroty: every week, often, always, at night, on Mondays.",
-                    "guid": "48f808c7-1dd4-4f77-97b3-94b8de04f899"
+                    "uuid": "48f808c7-1dd4-4f77-97b3-94b8de04f899"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Continuous wykorzystując następujące zwroty: now, nowadays, tonight.",
-                    "guid": "2d6b1396-a4e6-4573-b3ff-b589d5fbab42"
+                    "uuid": "2d6b1396-a4e6-4573-b3ff-b589d5fbab42"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect wykorzystując następujące zwroty: already, just, never, so far, for, since, how much/many….",
-                    "guid": "3eebb23c-984e-4115-b714-7e7c7251ac27"
+                    "uuid": "3eebb23c-984e-4115-b714-7e7c7251ac27"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Present Perfect Continuous wykorzystując następujące zwroty: all night, for, how long….",
-                    "guid": "4ef58790-0624-4dfd-9169-77d610822c42"
+                    "uuid": "4ef58790-0624-4dfd-9169-77d610822c42"
                 },
                 {
                     "type": "exercise",
@@ -1748,7 +1748,7 @@
                         "visits",
                         "has she edited"
                     ],
-                    "guid": "184efae6-3f70-4a7e-8567-c4658b84dfb6"
+                    "uuid": "184efae6-3f70-4a7e-8567-c4658b84dfb6"
                 },
                 {
                     "type": "exercise",
@@ -1770,7 +1770,7 @@
                         "the first time I have",
                         "has not written"
                     ],
-                    "guid": "af1bee6c-c927-45d2-bae0-f1139f11b1d8"
+                    "uuid": "af1bee6c-c927-45d2-bae0-f1139f11b1d8"
                 },
                 {
                     "type": "exercise",
@@ -1804,7 +1804,7 @@
                         "I have finished my homework. I can watch a film now.",
                         "My neighbour is a teacher. He teaches math and biology."
                     ],
-                    "guid": "16e11b58-ed2c-4f0f-81a0-5a8fa45151f9"
+                    "uuid": "16e11b58-ed2c-4f0f-81a0-5a8fa45151f9"
                 },
                 {
                     "type": "exercise",
@@ -1813,13 +1813,13 @@
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nI usually get up at 8, but now it's 6 and I'm not sleeping anymore. My dog has woken me up today. This is the second time this week. I have never woken up so early."
                     ],
-                    "guid": "3b7328cb-3ad5-4bf5-a0e3-9d311dc9e412"
+                    "uuid": "3b7328cb-3ad5-4bf5-a0e3-9d311dc9e412"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "e8d149b7-cca9-4685-98fa-bba4f0694810"
+                    "uuid": "e8d149b7-cca9-4685-98fa-bba4f0694810"
                 }
             ]
         },
@@ -1830,13 +1830,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "d03de8c2-c384-4cfd-8cb1-79d3a8c5250c"
+                    "uuid": "d03de8c2-c384-4cfd-8cb1-79d3a8c5250c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: already, before, after, by ….",
-                    "guid": "2aa3e23c-5d84-43f4-b362-bd8f6649a64b"
+                    "uuid": "2aa3e23c-5d84-43f4-b362-bd8f6649a64b"
                 },
                 {
                     "type": "exercise",
@@ -1847,7 +1847,7 @@
                         "Before you got sick the last time what had you done?",
                         "What had you done when the police stopped you the last time?"
                     ],
-                    "guid": "cc3d37fa-41e5-409c-8918-d9af30f6ae7d"
+                    "uuid": "cc3d37fa-41e5-409c-8918-d9af30f6ae7d"
                 },
                 {
                     "type": "exercise",
@@ -1863,19 +1863,19 @@
                         "I had cleaned the whole flat before grandma arrived.",
                         "After we had made a list of guests, we sent out the wedding invitations."
                     ],
-                    "guid": "cab63ebe-5165-461c-931e-44a5111ec21b"
+                    "uuid": "cab63ebe-5165-461c-931e-44a5111ec21b"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz o tym, co wydarzyło się wczoraj zanim wróciłeś do domu ze szkoły/pracy/zajęć/miasta itp.",
-                    "guid": "fe878ccc-1f09-47d6-99ec-f6130af98568"
+                    "uuid": "fe878ccc-1f09-47d6-99ec-f6130af98568"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "ca78d0d6-da37-4ca3-a292-47cd072aaa88"
+                    "uuid": "ca78d0d6-da37-4ca3-a292-47cd072aaa88"
                 }
             ]
         },
@@ -1886,19 +1886,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Simple, od czasu Past Perfect Simple, podaj kilka przykładów.",
-                    "guid": "9c68fd3b-9edb-486e-8ae0-1017d573d896"
+                    "uuid": "9c68fd3b-9edb-486e-8ae0-1017d573d896"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago.",
-                    "guid": "0421d018-2618-4159-8e9d-e013ad773190"
+                    "uuid": "0421d018-2618-4159-8e9d-e013ad773190"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: before, after, already, by.",
-                    "guid": "2132c807-7318-4b31-9855-f232c0b73f1f"
+                    "uuid": "2132c807-7318-4b31-9855-f232c0b73f1f"
                 },
                 {
                     "type": "exercise",
@@ -1918,7 +1918,7 @@
                         "didn't go, had seen",
                         "watched, had gone"
                     ],
-                    "guid": "e74e27d2-6dad-4a05-9316-79a292ac0379"
+                    "uuid": "e74e27d2-6dad-4a05-9316-79a292ac0379"
                 },
                 {
                     "type": "exercise",
@@ -1938,13 +1938,13 @@
                         "After Jim had done his homework, he went out with his friends.",
                         "Where had Jim worked before he joined our company?"
                     ],
-                    "guid": "b57bb891-ab3e-4d08-86a5-bee099fb9dbc"
+                    "uuid": "b57bb891-ab3e-4d08-86a5-bee099fb9dbc"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "ad7b47be-7dcc-4317-a206-ccd02a833262"
+                    "uuid": "ad7b47be-7dcc-4317-a206-ccd02a833262"
                 }
             ]
         },
@@ -1955,13 +1955,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Past Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "1c81a56e-c579-4612-9b07-6333af244d05"
+                    "uuid": "1c81a56e-c579-4612-9b07-6333af244d05"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for.",
-                    "guid": "256088f1-15f4-43e8-8c72-ba1a4d96297b"
+                    "uuid": "256088f1-15f4-43e8-8c72-ba1a4d96297b"
                 },
                 {
                     "type": "exercise",
@@ -1971,13 +1971,13 @@
                         "What had you been doing before your last big change (e.g. last move to another country)?",
                         "Had you been eating enough, when you got sick last time?"
                     ],
-                    "guid": "726d303f-8040-49ed-96c4-6203b8d8526d"
+                    "uuid": "726d303f-8040-49ed-96c4-6203b8d8526d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "41a395c9-7815-40e6-9d20-2d6b2e718ffd"
+                    "uuid": "41a395c9-7815-40e6-9d20-2d6b2e718ffd"
                 }
             ]
         },
@@ -1988,19 +1988,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Past Perfect Simple, od czasu Past Perfect Continuous, podaj kilka przykładów.",
-                    "guid": "1940d320-0bac-4c39-bf27-77d00ea1c028"
+                    "uuid": "1940d320-0bac-4c39-bf27-77d00ea1c028"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Simple wykorzystując następujące zwroty: already, before, after, by.",
-                    "guid": "37768c3a-5283-4f80-9a36-a773da02d858"
+                    "uuid": "37768c3a-5283-4f80-9a36-a773da02d858"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for.",
-                    "guid": "35e23ef2-3f58-4202-8e7b-792b7a49910a"
+                    "uuid": "35e23ef2-3f58-4202-8e7b-792b7a49910a"
                 },
                 {
                     "type": "exercise",
@@ -2018,7 +2018,7 @@
                         "had had",
                         "had been waiting"
                     ],
-                    "guid": "740456d4-c456-4868-9b9e-0c7eb4d5bd2e"
+                    "uuid": "740456d4-c456-4868-9b9e-0c7eb4d5bd2e"
                 },
                 {
                     "type": "exercise",
@@ -2038,13 +2038,13 @@
                         "I got late to the cinema. The film had been showing for 30 minutes.",
                         "By the time she finished her studies in Barcelona, she had lived there for 5 years."
                     ],
-                    "guid": "f7206f66-5da6-470e-a697-3e0b3ae03aee"
+                    "uuid": "f7206f66-5da6-470e-a697-3e0b3ae03aee"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "0891e281-b93c-4ea1-b9bf-efebe593b04e"
+                    "uuid": "0891e281-b93c-4ea1-b9bf-efebe593b04e"
                 }
             ]
         },
@@ -2060,31 +2060,31 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy przeszłe: past simple, past continuous, past perfect simple, past perfect continuous.",
-                    "guid": "fc2d7d78-cbea-479c-8f49-546f36f42bdd"
+                    "uuid": "fc2d7d78-cbea-479c-8f49-546f36f42bdd"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Simple wykorzystując następujące zwroty: yesterday, in … (year), last …, … ago.",
-                    "guid": "08461f6e-ab1f-42c5-a108-80fc8b206176"
+                    "uuid": "08461f6e-ab1f-42c5-a108-80fc8b206176"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Continuous wykorzystując następujące zwroty: yesterday at … pm, when, while.",
-                    "guid": "d7ccc1e6-2503-4a5b-a01a-522c2886c1b9"
+                    "uuid": "d7ccc1e6-2503-4a5b-a01a-522c2886c1b9"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect wykorzystując następujące zwroty: before, after, for, already, by.",
-                    "guid": "7c57374f-25d5-4718-840b-22a3af74f92d"
+                    "uuid": "7c57374f-25d5-4718-840b-22a3af74f92d"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Past Perfect Continuous wykorzystując następujące zwroty: before, after, for.",
-                    "guid": "d5edb18d-bd48-4c5c-a98f-6de5a016dd88"
+                    "uuid": "d5edb18d-bd48-4c5c-a98f-6de5a016dd88"
                 },
                 {
                     "type": "exercise",
@@ -2114,7 +2114,7 @@
                         "were drinking",
                         "had lived/had been living"
                     ],
-                    "guid": "2c658b31-12be-4e3b-9bab-700645d931b6"
+                    "uuid": "2c658b31-12be-4e3b-9bab-700645d931b6"
                 },
                 {
                     "type": "exercise",
@@ -2140,7 +2140,7 @@
                         "had been swimming",
                         "Were you watching, rang"
                     ],
-                    "guid": "ce8cf813-a15d-4a60-b6e3-f5839c6c80f9"
+                    "uuid": "ce8cf813-a15d-4a60-b6e3-f5839c6c80f9"
                 },
                 {
                     "type": "exercise",
@@ -2166,7 +2166,7 @@
                         "was, was doing",
                         "got, had already moved"
                     ],
-                    "guid": "8049c4e8-0856-473a-95d9-724d19393c28"
+                    "uuid": "8049c4e8-0856-473a-95d9-724d19393c28"
                 },
                 {
                     "type": "exercise",
@@ -2188,7 +2188,7 @@
                         "was playing, had never seen",
                         "wanted, realised, had, had left"
                     ],
-                    "guid": "25dd53e5-32f1-4af4-b7fa-4fc887d79ce5"
+                    "uuid": "25dd53e5-32f1-4af4-b7fa-4fc887d79ce5"
                 },
                 {
                     "type": "exercise",
@@ -2200,7 +2200,7 @@
                     "answers": [
                         "was opening, heard, entered, had hidden, were opening, was lying, were coming, got, was looking, found, didn't want, had taken"
                     ],
-                    "guid": "7f7e964d-0ee5-4972-a2ca-d8587b9b950a"
+                    "uuid": "7f7e964d-0ee5-4972-a2ca-d8587b9b950a"
                 },
                 {
                     "type": "exercise",
@@ -2212,7 +2212,7 @@
                     "answers": [
                         "decided, cleaned, ordered, decorated, were sitting, waiting, switched, turned, had missed, hadn't paid, had already ended"
                     ],
-                    "guid": "d65bd1cf-3b50-4d0d-8098-b4aa29fdc588"
+                    "uuid": "d65bd1cf-3b50-4d0d-8098-b4aa29fdc588"
                 },
                 {
                     "type": "exercise",
@@ -2242,7 +2242,7 @@
                         "Her hands were dirty. She had been working in the garden all morning.",
                         "I met many friendly people and explored many interesting places."
                     ],
-                    "guid": "2737f9c8-a2a3-45dc-a21a-c4166667483c"
+                    "uuid": "2737f9c8-a2a3-45dc-a21a-c4166667483c"
                 },
                 {
                     "type": "exercise",
@@ -2282,7 +2282,7 @@
                         "I did want to lend you the money, but I'd spent it all.",
                         "What were you talking about when I came up to you?"
                     ],
-                    "guid": "8a514378-e72d-421c-9d4f-e1094eb2deea"
+                    "uuid": "8a514378-e72d-421c-9d4f-e1094eb2deea"
                 },
                 {
                     "type": "exercise",
@@ -2304,7 +2304,7 @@
                         "Ted was running very fast when he fell down, but he still came in second in the race.",
                         "How long had you been practising before you learned that trick?"
                     ],
-                    "guid": "c865f58f-a029-4551-b097-8159b7747503"
+                    "uuid": "c865f58f-a029-4551-b097-8159b7747503"
                 },
                 {
                     "type": "exercise",
@@ -2334,7 +2334,7 @@
                         "not used to eating",
                         "got used to speaking"
                     ],
-                    "guid": "6c67284e-e446-431f-954e-2b0dca6f4a29"
+                    "uuid": "6c67284e-e446-431f-954e-2b0dca6f4a29"
                 },
                 {
                     "type": "exercise",
@@ -2343,13 +2343,13 @@
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nYesterday I was hurrying home because I wanted to help my brother with homework. However before I came back I had had a lot of problems. My car had broken down and I had lost my mobile phone. So, I had been trying to find it. When I finally arrived, it turned out that he had already finished his homework."
                     ],
-                    "guid": "a84c9040-760a-4bc0-a650-6d4fa20303a4"
+                    "uuid": "a84c9040-760a-4bc0-a650-6d4fa20303a4"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "2f406e4a-c4ba-40e3-ac1b-78eecf9b38ad"
+                    "uuid": "2f406e4a-c4ba-40e3-ac1b-78eecf9b38ad"
                 }
             ]
         },
@@ -2360,13 +2360,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Perfect Simple, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "3c544ee7-d9a6-4f66-b6c2-552dfd16313e"
+                    "uuid": "3c544ee7-d9a6-4f66-b6c2-552dfd16313e"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Simple wykorzystując następujące zwroty: by … (month, year), by the end of the year.",
-                    "guid": "18f91012-01c2-4805-a3aa-fbe6aec6567d"
+                    "uuid": "18f91012-01c2-4805-a3aa-fbe6aec6567d"
                 },
                 {
                     "type": "exercise",
@@ -2379,19 +2379,19 @@
                         "By this time next week what important thing will you have done?",
                         "By this time tomorrow, will you have watched TV?"
                     ],
-                    "guid": "3a74b366-4cf0-4c60-8d17-7de746014e55"
+                    "uuid": "3a74b366-4cf0-4c60-8d17-7de746014e55"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o tym, co zrobisz do końca tego roku.",
-                    "guid": "5ea0b9bd-f108-4501-ad04-4c781ab1056c"
+                    "uuid": "5ea0b9bd-f108-4501-ad04-4c781ab1056c"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "280e4d95-7446-4f21-a35b-900c5639db20"
+                    "uuid": "280e4d95-7446-4f21-a35b-900c5639db20"
                 }
             ]
         },
@@ -2402,13 +2402,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz kiedy używamy czasu Future Perfect Continuous, przedstaw jego konstrukcję oraz charakterystyczne zwroty.",
-                    "guid": "915e065b-c927-44c7-bdcc-a9f680ed6278"
+                    "uuid": "915e065b-c927-44c7-bdcc-a9f680ed6278"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the month, for.",
-                    "guid": "e974f970-3b66-4caa-8251-3c7e2dc0df6d"
+                    "uuid": "e974f970-3b66-4caa-8251-3c7e2dc0df6d"
                 },
                 {
                     "type": "exercise",
@@ -2418,13 +2418,13 @@
                         "How long will you have been learning English by next month?",
                         "How long will you have living in your city by 2030?"
                     ],
-                    "guid": "fa17bff2-16ca-4054-8bcf-23481f673351"
+                    "uuid": "fa17bff2-16ca-4054-8bcf-23481f673351"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "6e9213f4-3a29-44c9-a7c0-af981fee745f"
+                    "uuid": "6e9213f4-3a29-44c9-a7c0-af981fee745f"
                 }
             ]
         },
@@ -2435,19 +2435,19 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym różni się czas Future Perfect Simple, od czasu Future Perfect Continuous, podaj kilka przykładów.",
-                    "guid": "340208a6-8ae8-4f88-b4df-094f048318fd"
+                    "uuid": "340208a6-8ae8-4f88-b4df-094f048318fd"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Simple wykorzystując następujące zwroty: by … (month, year), by the end of the year.",
-                    "guid": "3b980faf-841c-454c-89de-23e274cc57dc"
+                    "uuid": "3b980faf-841c-454c-89de-23e274cc57dc"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the year, for.",
-                    "guid": "fcd9cadf-0fc5-4caf-9bb5-349d61209528"
+                    "uuid": "fcd9cadf-0fc5-4caf-9bb5-349d61209528"
                 },
                 {
                     "type": "exercise",
@@ -2467,7 +2467,7 @@
                         "will have painted",
                         "will have been painting"
                     ],
-                    "guid": "8bb43fc0-3e3d-4da7-843b-84fa07f3dfa1"
+                    "uuid": "8bb43fc0-3e3d-4da7-843b-84fa07f3dfa1"
                 },
                 {
                     "type": "exercise",
@@ -2487,13 +2487,13 @@
                         "Who will have finished the project by Friday?",
                         "My brother will have been playing a computer game for six hours by 8 o'clock."
                     ],
-                    "guid": "ceef8b29-24d1-4de4-b32e-26b036a5df85"
+                    "uuid": "ceef8b29-24d1-4de4-b32e-26b036a5df85"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "6e639eb5-1cb0-4a79-bdad-242cbfa2fc5d"
+                    "uuid": "6e639eb5-1cb0-4a79-bdad-242cbfa2fc5d"
                 }
             ]
         },
@@ -2509,31 +2509,31 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz krótko następujące czasy przyszłe: future simple, future continuous, future perfect simple, future perfect continuous.",
-                    "guid": "cffb4e51-65ba-460a-a0cd-7dbbfae196b5"
+                    "uuid": "cffb4e51-65ba-460a-a0cd-7dbbfae196b5"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Simple wykorzystując następujące zwroty: tomorrow, the day after tomorrow, I am sure.",
-                    "guid": "744a7f90-b0ce-4255-b7b7-4b6128159a4e"
+                    "uuid": "744a7f90-b0ce-4255-b7b7-4b6128159a4e"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Continuous wykorzystując następujące zwroty: from … to …, this time next week, next … at ….",
-                    "guid": "301a5c26-b8c4-4bb0-90a7-1a5236830f87"
+                    "uuid": "301a5c26-b8c4-4bb0-90a7-1a5236830f87"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect wykorzystując następujące zwroty: by … (month, year), by the end of the year.",
-                    "guid": "767b97b1-216f-4d28-8e81-948548378a84"
+                    "uuid": "767b97b1-216f-4d28-8e81-948548378a84"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż przykładowe zdania w czasie Future Perfect Continuous wykorzystując następujące zwroty: by … (month, year), by the end of the year, for.",
-                    "guid": "c8ab3a30-6029-410d-8145-2a81f7ba47a9"
+                    "uuid": "c8ab3a30-6029-410d-8145-2a81f7ba47a9"
                 },
                 {
                     "type": "exercise",
@@ -2563,7 +2563,7 @@
                         "will help",
                         "will be waiting"
                     ],
-                    "guid": "98eb4a58-5d20-4cba-90f4-59b222ae3e3b"
+                    "uuid": "98eb4a58-5d20-4cba-90f4-59b222ae3e3b"
                 },
                 {
                     "type": "exercise",
@@ -2585,7 +2585,7 @@
                         "By the end of the holiday we will have spent",
                         "we will have had more than/over"
                     ],
-                    "guid": "438a7b6d-edf1-4e2d-930c-d6e8eb973c7b"
+                    "uuid": "438a7b6d-edf1-4e2d-930c-d6e8eb973c7b"
                 },
                 {
                     "type": "exercise",
@@ -2615,7 +2615,7 @@
                         "Will you be waiting for her at the airport tomorrow?",
                         "The phone is ringing. I'll get it."
                     ],
-                    "guid": "1fd93f9c-cace-430e-ad49-ffaf029e71e5"
+                    "uuid": "1fd93f9c-cace-430e-ad49-ffaf029e71e5"
                 },
                 {
                     "type": "exercise",
@@ -2624,13 +2624,13 @@
                     "answers": [
                         "PRZYKŁADOWA ODPOWIEDŹ:\nFrom 8 to 9 I'll be watching the next episode of my favourite series. I'm sure it will be very interesting. I'll have finished watching this series by the end of next week and then I'm going to start watching 'House of Paper'."
                     ],
-                    "guid": "be56e326-5ce5-4310-84e3-7fbcd043e83f"
+                    "uuid": "be56e326-5ce5-4310-84e3-7fbcd043e83f"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "d4a30a04-ea33-4773-b963-97160c67b933"
+                    "uuid": "d4a30a04-ea33-4773-b963-97160c67b933"
                 }
             ]
         },
@@ -2651,7 +2651,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Podaj najważniejsze zastosowania poszczególnych czasów, a następnoe ułóż 2 przykładowe zdania z wykorzystaniem charakterystycznych zwrotów w każdym z nich.",
-                    "guid": "b8622d76-fc67-40ad-a75e-23fa35c9919a"
+                    "uuid": "b8622d76-fc67-40ad-a75e-23fa35c9919a"
                 },
                 {
                     "type": "exercise",
@@ -2685,7 +2685,7 @@
                         "have already watched",
                         "will have been playing"
                     ],
-                    "guid": "2bcf0b3c-cbfb-4bdb-acc1-eb6220912468"
+                    "uuid": "2bcf0b3c-cbfb-4bdb-acc1-eb6220912468"
                 },
                 {
                     "type": "exercise",
@@ -2715,7 +2715,7 @@
                         "will be skiing",
                         "will help"
                     ],
-                    "guid": "d365a7f1-90c2-4bca-ab3c-a9455d43d6f6"
+                    "uuid": "d365a7f1-90c2-4bca-ab3c-a9455d43d6f6"
                 },
                 {
                     "type": "exercise",
@@ -2753,7 +2753,7 @@
                         "closes",
                         "have heard"
                     ],
-                    "guid": "95c277a8-b132-4048-aab4-d32b5206058b"
+                    "uuid": "95c277a8-b132-4048-aab4-d32b5206058b"
                 },
                 {
                     "type": "exercise",
@@ -2787,7 +2787,7 @@
                         "photographed, were performing",
                         "will have"
                     ],
-                    "guid": "66e2803f-23ca-46a5-a85f-f604b248c393"
+                    "uuid": "66e2803f-23ca-46a5-a85f-f604b248c393"
                 },
                 {
                     "type": "exercise",
@@ -2821,7 +2821,7 @@
                         "gave, was making",
                         "will be doing"
                     ],
-                    "guid": "d63e141f-2ea8-4ebb-88c2-ca605e6c44e1"
+                    "uuid": "d63e141f-2ea8-4ebb-88c2-ca605e6c44e1"
                 },
                 {
                     "type": "exercise",
@@ -2851,7 +2851,7 @@
                         "fell, am making, doesn't feel, is seeing, will get",
                         "am / was, (had) expected"
                     ],
-                    "guid": "8ab90f7f-55b3-4cf2-beb0-8f99ef776b16"
+                    "uuid": "8ab90f7f-55b3-4cf2-beb0-8f99ef776b16"
                 },
                 {
                     "type": "exercise",
@@ -2877,7 +2877,7 @@
                         "was doing",
                         "reaches"
                     ],
-                    "guid": "e2a39176-8ae6-402e-8fbb-f741046909cc"
+                    "uuid": "e2a39176-8ae6-402e-8fbb-f741046909cc"
                 },
                 {
                     "type": "exercise",
@@ -2907,7 +2907,7 @@
                         "saw; did not enjoy; had already read; had not read; would probably have enjoyed",
                         "had robbed"
                     ],
-                    "guid": "62a1e788-f683-4af2-83f1-ccfca06cf3d3"
+                    "uuid": "62a1e788-f683-4af2-83f1-ccfca06cf3d3"
                 },
                 {
                     "type": "exercise",
@@ -2937,7 +2937,7 @@
                         "was waiting; was; had gone; came; were not able",
                         "used; broke; have not skied"
                     ],
-                    "guid": "4f90a0a9-b79f-4ddf-9d40-885d6f72d0f0"
+                    "uuid": "4f90a0a9-b79f-4ddf-9d40-885d6f72d0f0"
                 },
                 {
                     "type": "exercise",
@@ -2954,7 +2954,7 @@
                     "answers": [
                         "1. a, 2. c, 3. a, 4. d, 5. b, 6. c"
                     ],
-                    "guid": "b7d031b8-9756-491e-8399-431f2d0805c7"
+                    "uuid": "b7d031b8-9756-491e-8399-431f2d0805c7"
                 },
                 {
                     "type": "exercise",
@@ -2973,7 +2973,7 @@
                     "answers": [
                         "1. c, 2. c, 3. a, 4. b, 5. d, 6. a, 7. b, 8. d"
                     ],
-                    "guid": "348aaf4d-6a76-47de-8eda-bdd7204c9b29"
+                    "uuid": "348aaf4d-6a76-47de-8eda-bdd7204c9b29"
                 },
                 {
                     "type": "exercise",
@@ -2992,7 +2992,7 @@
                     "answers": [
                         "1. b, 2. c, 3. a, 4. b, 5. d, 6. a, 7. b, 8. d"
                     ],
-                    "guid": "838f5563-397a-4836-b0b9-0431f91c40bb"
+                    "uuid": "838f5563-397a-4836-b0b9-0431f91c40bb"
                 },
                 {
                     "type": "exercise",
@@ -3004,7 +3004,7 @@
                     "answers": [
                         "am phoning, were waiting, hasn’t come, check, should have received, hasn’t arrived, made, don’t know, hasn’t come, will call, will get, know"
                     ],
-                    "guid": "77bcd042-bb17-4ccb-a8b9-ccddbb9fe3da"
+                    "uuid": "77bcd042-bb17-4ccb-a8b9-ccddbb9fe3da"
                 },
                 {
                     "type": "exercise",
@@ -3034,7 +3034,7 @@
                         "was added",
                         "takes up"
                     ],
-                    "guid": "de893ea9-0672-4009-ad17-a7803bbc95ae"
+                    "uuid": "de893ea9-0672-4009-ad17-a7803bbc95ae"
                 },
                 {
                     "type": "exercise",
@@ -3056,7 +3056,7 @@
                         "hasn't/haven't overthrown the government",
                         "had introduced my girlfriend to my parents"
                     ],
-                    "guid": "6ece062c-8534-4dc1-a740-302bbd7a9e95"
+                    "uuid": "6ece062c-8534-4dc1-a740-302bbd7a9e95"
                 },
                 {
                     "type": "exercise",
@@ -3078,7 +3078,7 @@
                         "I have been watering the flowers",
                         "had already gone to bed"
                     ],
-                    "guid": "f0d21327-11a1-4ff3-8f66-bb188d47148e"
+                    "uuid": "f0d21327-11a1-4ff3-8f66-bb188d47148e"
                 },
                 {
                     "type": "exercise",
@@ -3108,7 +3108,7 @@
                         "I will call you when I check in at the hotel.",
                         "I was watching TV yesterday at 4 am."
                     ],
-                    "guid": "d0937929-f840-4a67-a880-21f33457dbe4"
+                    "uuid": "d0937929-f840-4a67-a880-21f33457dbe4"
                 },
                 {
                     "type": "exercise",
@@ -3138,25 +3138,25 @@
                         "They will have finished the bridge by the end of the month.",
                         "I will have been watching TV for 2 hours by 6 pm. "
                     ],
-                    "guid": "e568fce6-72ca-499b-8553-f4bdf5b25461"
+                    "uuid": "e568fce6-72ca-499b-8553-f4bdf5b25461"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opowiedz mi o sobie, o swoich nawykach i przyzwyczajeniach. Powiedz jak wyglądało twoje dzieciństwo, o tym czy byłeś szczęśliwy oraz co wtedy robiłeś. Możesz również wspomnieć o ciekawej sytuacji, która ci się wówczas przytrafiła. Na koniec powiedz jakie masz plany na najbliższą przyszłość. Możesz powiedzieć co zamierzasz robić po naszym spotkaniu lub gdzie zamierzasz pojechać w trakcie następnych wakacje.",
-                    "guid": "2b3398f0-8daa-47ea-8a68-02824f9bbb4a"
+                    "uuid": "2b3398f0-8daa-47ea-8a68-02824f9bbb4a"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz co zmieniło się w twoim życie od naszego ostatniego spotkania (dotyczącego czasów gramatycznych). Powiedz co się ostatnio wydarzyło oraz jak aktualnie wygląda twój dzień, twoja rutyna. Na koniec powiedz jak zmieniły się twoje plany na życie oraz co zamierzasz zrobić w najbliższym czasie.",
-                    "guid": "7abf073c-1868-4131-b95d-807bc4aa81d1"
+                    "uuid": "7abf073c-1868-4131-b95d-807bc4aa81d1"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Do każdego zdania podanego przez nauczyciela zadaj minimum 2 różne pytania.",
-                    "guid": "1b915041-ebc3-4368-bccc-e400a2de9078"
+                    "uuid": "1b915041-ebc3-4368-bccc-e400a2de9078"
                 }
             ]
         },
@@ -3167,7 +3167,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są czasy Future in the Past, kiedy ich używamy oraz jak je budujemy.",
-                    "guid": "f324668e-fd9a-4902-a561-00b8d88b4420"
+                    "uuid": "f324668e-fd9a-4902-a561-00b8d88b4420"
                 },
                 {
                     "type": "exercise",
@@ -3187,7 +3187,7 @@
                         "I would write, would get",
                         "I wouldn't do"
                     ],
-                    "guid": "3b6bed75-3766-4a25-b687-63fde98d488d"
+                    "uuid": "3b6bed75-3766-4a25-b687-63fde98d488d"
                 },
                 {
                     "type": "exercise",
@@ -3207,7 +3207,7 @@
                         "would he be singing",
                         "wouldn't be working"
                     ],
-                    "guid": "44dd565e-ef01-41dd-bac4-beff0619b0fc"
+                    "uuid": "44dd565e-ef01-41dd-bac4-beff0619b0fc"
                 },
                 {
                     "type": "exercise",
@@ -3237,7 +3237,7 @@
                         "Would you be eating bugs?",
                         "Would you try again?"
                     ],
-                    "guid": "9d3f5cd8-a1a9-4f5f-9434-341badf7d4fb"
+                    "uuid": "9d3f5cd8-a1a9-4f5f-9434-341badf7d4fb"
                 },
                 {
                     "type": "exercise",
@@ -3257,7 +3257,7 @@
                         "would have bought",
                         "wouldn't have broken"
                     ],
-                    "guid": "ad8ddc39-28f2-4acc-8538-dac5658bfa0c"
+                    "uuid": "ad8ddc39-28f2-4acc-8538-dac5658bfa0c"
                 },
                 {
                     "type": "exercise",
@@ -3266,7 +3266,7 @@
                     "answers": [
                         "Przykładowe odpowiedzi:\n1) I would have saved more money.\n2) I wouldn't have married that girl.\n3) I would have been a better student.\n4) I would have been a better student."
                     ],
-                    "guid": "f67be33b-de03-4cdd-a3bb-12f88f039641"
+                    "uuid": "f67be33b-de03-4cdd-a3bb-12f88f039641"
                 },
                 {
                     "type": "exercise",
@@ -3286,7 +3286,7 @@
                         "wouldn't have been thinking",
                         "would have been studying"
                     ],
-                    "guid": "fc1e662e-214c-47eb-95bd-6a125705af6a"
+                    "uuid": "fc1e662e-214c-47eb-95bd-6a125705af6a"
                 },
                 {
                     "type": "exercise",
@@ -3312,7 +3312,7 @@
                         "We would have helped you.",
                         "I would have started learning English sooner."
                     ],
-                    "guid": "da9a3e2d-ed5c-46f7-ad44-f1ffb31e54a5"
+                    "uuid": "da9a3e2d-ed5c-46f7-ad44-f1ffb31e54a5"
                 }
             ]
         },
@@ -3333,7 +3333,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Czy znasz jakieś konstrukcje (nie wliczając konstrukcji 'be going to'), które wyrażają przyszłość? Krótko o nich opowiedz.",
-                    "guid": "56e4b91e-6564-4d98-a158-17b4c38ee83f"
+                    "uuid": "56e4b91e-6564-4d98-a158-17b4c38ee83f"
                 },
                 {
                     "type": "exercise",
@@ -3363,7 +3363,7 @@
                         "is due to depart",
                         "is on the point of closing"
                     ],
-                    "guid": "65d3fd7c-1797-468a-9f59-1551612f5db9"
+                    "uuid": "65d3fd7c-1797-468a-9f59-1551612f5db9"
                 },
                 {
                     "type": "exercise",
@@ -3387,7 +3387,7 @@
                         "is about to",
                         "is sure to love"
                     ],
-                    "guid": "2fc9b1b2-9b00-4651-b3d2-8c7f909d87f5"
+                    "uuid": "2fc9b1b2-9b00-4651-b3d2-8c7f909d87f5"
                 },
                 {
                     "type": "exercise",
@@ -3409,7 +3409,7 @@
                         "This movie is bound to be a success.",
                         "The meeting is due to start at 10:30 AM."
                     ],
-                    "guid": "7b079261-37cf-41f1-bcbd-9947e9466609"
+                    "uuid": "7b079261-37cf-41f1-bcbd-9947e9466609"
                 }
             ]
         }

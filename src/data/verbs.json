@@ -28,13 +28,13 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Opisz cechy czasowników statycznych i dynamicznych, podaj kilka przykładów. Jeżeli nie wiesz czym są czasowniki statyczne i dynamiczne opisz różnicą między 'stanem', a 'czynnością'.",
-                    "guid": "0d64b775-402b-4220-8093-82f1e1fb1d0f"
+                    "uuid": "0d64b775-402b-4220-8093-82f1e1fb1d0f"
                 },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż po 5 zdań z wybranymi czasownikami statycznymi i dynamicznymi.",
-                    "guid": "93b1b087-3d5e-4d69-a1bb-795ee3614a22"
+                    "uuid": "93b1b087-3d5e-4d69-a1bb-795ee3614a22"
                 },
                 {
                     "type": "exercise",
@@ -46,7 +46,7 @@
                     "answers": [
                         "Stative verbs: need, understand, want, agree, believe, dislike, have\nDynamic verbs: play, sleep, read"
                     ],
-                    "guid": "511ad314-0e2b-4e71-8e95-84bc96c6975d"
+                    "uuid": "511ad314-0e2b-4e71-8e95-84bc96c6975d"
                 },
                 {
                     "type": "exercise",
@@ -64,7 +64,7 @@
                         "smells, am smelling",
                         "think, am thinking"
                     ],
-                    "guid": "94cd2abe-0cc7-4e08-a2e1-870259661830"
+                    "uuid": "94cd2abe-0cc7-4e08-a2e1-870259661830"
                 },
                 {
                     "type": "exercise",
@@ -90,7 +90,7 @@
                         "fits, is fitting",
                         "is weighing, weighs"
                     ],
-                    "guid": "f657f4b0-b53c-4ac1-b9eb-9c91195339cf"
+                    "uuid": "f657f4b0-b53c-4ac1-b9eb-9c91195339cf"
                 }
             ]
         },
@@ -126,7 +126,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Ułóż 5 zdań z wykorzystaniem gerund, 5 zdań z wykorzystaniem to-infinitive oraz 2 zdania z wykorzystaniem bare infinitive.",
-                    "guid": "e92dcf04-384b-49ba-917b-7b472ddd150d"
+                    "uuid": "e92dcf04-384b-49ba-917b-7b472ddd150d"
                 },
                 {
                     "type": "exercise",
@@ -164,7 +164,7 @@
                         "send",
                         "to take"
                     ],
-                    "guid": "99cb8673-cc24-479f-9483-31429c6ac2d3"
+                    "uuid": "99cb8673-cc24-479f-9483-31429c6ac2d3"
                 },
                 {
                     "type": "exercise",
@@ -206,7 +206,7 @@
                         "meeting",
                         "to say"
                     ],
-                    "guid": "b64b6f33-f330-443c-be51-a32419c85da6"
+                    "uuid": "b64b6f33-f330-443c-be51-a32419c85da6"
                 },
                 {
                     "type": "exercise",
@@ -236,7 +236,7 @@
                         "to call",
                         "smoking"
                     ],
-                    "guid": "dc9d0fcb-cc35-4e81-9e96-2fc38b2f599d"
+                    "uuid": "dc9d0fcb-cc35-4e81-9e96-2fc38b2f599d"
                 },
                 {
                     "type": "exercise",
@@ -262,7 +262,7 @@
                         "to get",
                         "to love"
                     ],
-                    "guid": "a17cdd97-30f8-4ecd-92da-8be494d5e7d3"
+                    "uuid": "a17cdd97-30f8-4ecd-92da-8be494d5e7d3"
                 },
                 {
                     "type": "exercise",
@@ -290,7 +290,7 @@
                         "in case I need",
                         "able to get"
                     ],
-                    "guid": "af21d6d9-d625-4580-9a7f-8aaee8d38a9c"
+                    "uuid": "af21d6d9-d625-4580-9a7f-8aaee8d38a9c"
                 },
                 {
                     "type": "exercise",
@@ -320,7 +320,7 @@
                         "Correct",
                         "Jack might GO to the cinema with Wendy today if she agrees TO GO out with him."
                     ],
-                    "guid": "afc317f1-c323-4e77-b255-344792108dc3"
+                    "uuid": "afc317f1-c323-4e77-b255-344792108dc3"
                 },
                 {
                     "type": "exercise",
@@ -346,7 +346,7 @@
                         "to go to school",
                         "playing rugby"
                     ],
-                    "guid": "3e074c64-e2a6-4fe6-aa28-a72517efc570"
+                    "uuid": "3e074c64-e2a6-4fe6-aa28-a72517efc570"
                 },
                 {
                     "type": "exercise",
@@ -362,7 +362,7 @@
                         "going, check",
                         "to take, meeting"
                     ],
-                    "guid": "e3327913-cf4f-4f76-9937-89bd89c789b4"
+                    "uuid": "e3327913-cf4f-4f76-9937-89bd89c789b4"
                 },
                 {
                     "type": "exercise",
@@ -392,7 +392,7 @@
                         "yelling",
                         "to have"
                     ],
-                    "guid": "dae091b5-54c0-4feb-b4a2-e8cbb8d372a7"
+                    "uuid": "dae091b5-54c0-4feb-b4a2-e8cbb8d372a7"
                 },
                 {
                     "type": "exercise",
@@ -418,7 +418,7 @@
                         "managed to pass all the exams",
                         "aim at giving"
                     ],
-                    "guid": "3493064c-2419-4f4b-91ce-4dc3eb33e207"
+                    "uuid": "3493064c-2419-4f4b-91ce-4dc3eb33e207"
                 },
                 {
                     "type": "exercise",
@@ -438,7 +438,7 @@
                         "I miss living in Barcelona. I hope to go back to Spain one day.",
                         "I went shopping to buy a suit, but it was difficult to find a nice one."
                     ],
-                    "guid": "37136688-b92b-4615-aaf1-e3efc2cd7fc2"
+                    "uuid": "37136688-b92b-4615-aaf1-e3efc2cd7fc2"
                 }
             ]
         }

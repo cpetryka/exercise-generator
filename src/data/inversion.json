@@ -8,7 +8,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym jest inwersja stylistyczna oraz kiedy jej używamy.",
-                    "guid": "14a9fcdd-fa51-418f-b6d5-8804d3577465"
+                    "uuid": "14a9fcdd-fa51-418f-b6d5-8804d3577465"
                 },
                 {
                     "type": "exercise",
@@ -34,7 +34,7 @@
                         "no sooner",
                         "hardly"
                     ],
-                    "guid": "0583e4cd-1904-4cae-8fdc-a27c62ff006c"
+                    "uuid": "0583e4cd-1904-4cae-8fdc-a27c62ff006c"
                 },
                 {
                     "type": "exercise",
@@ -64,7 +64,7 @@
                         "was the novel",
                         "does a romance make"
                     ],
-                    "guid": "e257088a-829f-44d2-9e40-d6ff17366ef4"
+                    "uuid": "e257088a-829f-44d2-9e40-d6ff17366ef4"
                 },
                 {
                     "type": "exercise",
@@ -90,7 +90,7 @@
                         "did he decide",
                         "did I realize"
                     ],
-                    "guid": "3bfda5ef-c3cd-4ff9-bd05-af3bcb03120c"
+                    "uuid": "3bfda5ef-c3cd-4ff9-bd05-af3bcb03120c"
                 },
                 {
                     "type": "exercise",
@@ -120,7 +120,7 @@
                         "Hardly had everyone left the building when the bomb went off.",
                         "So cold was the water that no one went for a swim. "
                     ],
-                    "guid": "30664e4b-4dbe-41ff-8bf4-9812b28841fd"
+                    "uuid": "30664e4b-4dbe-41ff-8bf4-9812b28841fd"
                 },
                 {
                     "type": "exercise",
@@ -146,7 +146,7 @@
                         "Had we known about his past, we wouldn’t have hired him.",
                         "Little did the police know about the scope of that fishy business."
                     ],
-                    "guid": "4b4b6c5f-fbef-416e-9a85-a1aa178fabe2"
+                    "uuid": "4b4b6c5f-fbef-416e-9a85-a1aa178fabe2"
                 },
                 {
                     "type": "exercise",
@@ -176,7 +176,7 @@
                         "Seldom do I meet someone so kind.",
                         "Not until an hour later did we finish the project."
                     ],
-                    "guid": "6c12ffc6-c1e5-4ccd-bd91-b91602f77a94"
+                    "uuid": "6c12ffc6-c1e5-4ccd-bd91-b91602f77a94"
                 }
             ]
         }

@@ -18,7 +18,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotów I wish/If only? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?",
-                    "guid": "8db066f4-f00d-473d-b36d-9214c7742de1"
+                    "uuid": "8db066f4-f00d-473d-b36d-9214c7742de1"
                 },
                 {
                     "type": "exercise",
@@ -48,7 +48,7 @@
                         "I wish/If only you wouldn't ignore me. ('didn't ignore' is also possible; depends on the context)",
                         "I wish/If only she would text me back. ('texted' is also possible; depends on the context)"
                     ],
-                    "guid": "735a01e3-7873-4dfb-8465-69a8ad5af5a2"
+                    "uuid": "735a01e3-7873-4dfb-8465-69a8ad5af5a2"
                 },
                 {
                     "type": "exercise",
@@ -68,7 +68,7 @@
                         "you were",
                         "had been born"
                     ],
-                    "guid": "62b7479d-5704-4e83-bf3e-c77e33f9a130"
+                    "uuid": "62b7479d-5704-4e83-bf3e-c77e33f9a130"
                 },
                 {
                     "type": "exercise",
@@ -90,7 +90,7 @@
                         "had",
                         "had never left"
                     ],
-                    "guid": "bc5fefdf-1e5d-4c83-9ac9-8715005a3dea"
+                    "uuid": "bc5fefdf-1e5d-4c83-9ac9-8715005a3dea"
                 },
                 {
                     "type": "exercise",
@@ -120,7 +120,7 @@
                         "would try",
                         "had gone"
                     ],
-                    "guid": "405984ba-f47e-40ea-b9f0-3ab499063b1a"
+                    "uuid": "405984ba-f47e-40ea-b9f0-3ab499063b1a"
                 },
                 {
                     "type": "exercise",
@@ -140,7 +140,7 @@
                         "would help",
                         "had arranged"
                     ],
-                    "guid": "ef1d80dc-5bc4-42ca-a7a7-2e2ce566e394"
+                    "uuid": "ef1d80dc-5bc4-42ca-a7a7-2e2ce566e394"
                 },
                 {
                     "type": "exercise",
@@ -162,7 +162,7 @@
                         "Sanda wishes she were a better teacher.",
                         "I wish I hadn't posted that picture on Instagram."
                     ],
-                    "guid": "6e73dc05-c949-4618-9163-872c603e6145"
+                    "uuid": "6e73dc05-c949-4618-9163-872c603e6145"
                 }
             ]
         },
@@ -188,7 +188,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotów would rather/would prefer? Jaka jest między nimi różnica? Jak wygląda ich użycie w zdaniu (konstrukcja)?",
-                    "guid": "662ec021-ac1f-4c7e-b589-d6822b10d6ff"
+                    "uuid": "662ec021-ac1f-4c7e-b589-d6822b10d6ff"
                 },
                 {
                     "type": "exercise",
@@ -210,7 +210,7 @@
                         "They'd rather not have come / They'd prefer not to have come",
                         "I'd rather you didn't say / I'd prefer you not to say"
                     ],
-                    "guid": "8e667dfb-4c03-4c3e-ab2a-17046ba8a3a4"
+                    "uuid": "8e667dfb-4c03-4c3e-ab2a-17046ba8a3a4"
                 },
                 {
                     "type": "exercise",
@@ -228,7 +228,7 @@
                         "I'd rather marry someone beautiful but stupid than marry someone ugly but intelligent.\nI'd prefer to marry someone beautiful but stupid rather than marry someone ugly but intelligent.",
                         "I'd rather be poor and have many friends than be rich and have no friends.\nI'd prefer to be poor and have many friends rather than be rich and have no friends."
                     ],
-                    "guid": "1a15dace-db41-4f57-bc72-044c991cc1f4"
+                    "uuid": "1a15dace-db41-4f57-bc72-044c991cc1f4"
                 },
                 {
                     "type": "exercise",
@@ -258,7 +258,7 @@
                         "to spend",
                         "have eaten"
                     ],
-                    "guid": "32027965-ebe9-4078-ab4f-b22b8850bc7c"
+                    "uuid": "32027965-ebe9-4078-ab4f-b22b8850bc7c"
                 },
                 {
                     "type": "exercise",
@@ -280,7 +280,7 @@
                         "When I was little, I would rather have eaten sweets than vegetables.",
                         "I would rather you didn't call me."
                     ],
-                    "guid": "f4364a76-af5b-4a38-aae2-f8e18e932a12"
+                    "uuid": "f4364a76-af5b-4a38-aae2-f8e18e932a12"
                 }
             ]
         },
@@ -296,7 +296,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy konstrukcji It's (high) time? Jak wygląda jej użycie w zdaniu (konstrukcja)?",
-                    "guid": "be2f8410-ce8c-4c46-969b-2b4bfcf5c43d"
+                    "uuid": "be2f8410-ce8c-4c46-969b-2b4bfcf5c43d"
                 },
                 {
                     "type": "exercise",
@@ -318,7 +318,7 @@
                         "It's time for people to start/people started taking care of the environment.",
                         "It's high time you started learning English."
                     ],
-                    "guid": "a9f1df50-ac80-4e73-aeac-8bdca7ee30ea"
+                    "uuid": "a9f1df50-ac80-4e73-aeac-8bdca7ee30ea"
                 },
                 {
                     "type": "exercise",
@@ -338,7 +338,7 @@
                         "It's high time you bought a new kettle.",
                         "It's time you found a new job."
                     ],
-                    "guid": "b017ca5f-7a28-4e68-bcee-a922abff1633"
+                    "uuid": "b017ca5f-7a28-4e68-bcee-a922abff1633"
                 }
             ]
         },
@@ -364,7 +364,7 @@
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Kiedy używamy zwrotu had better? Jak wygląda jego użycie w zdaniu (konstrukcja)?",
-                    "guid": "44fe55e6-2000-4c45-8955-20462ac3316c"
+                    "uuid": "44fe55e6-2000-4c45-8955-20462ac3316c"
                 },
                 {
                     "type": "exercise",
@@ -384,7 +384,7 @@
                         "You had better tell the truth.",
                         "You had better not go there."
                     ],
-                    "guid": "8dcb3e13-8492-4b96-bda1-5f61d9cd6067"
+                    "uuid": "8dcb3e13-8492-4b96-bda1-5f61d9cd6067"
                 },
                 {
                     "type": "exercise",
@@ -396,7 +396,7 @@
                     "answers": [
                         "Example sentences:\nThere had better be a good meal.\nA photographer had better have a good camera.\nThere had better be a good weather.\nThere had better be a good atmosphere.\nA band had better play good music."
                     ],
-                    "guid": "5dc8229a-941c-4cf0-a662-b4adce50f5b9"
+                    "uuid": "5dc8229a-941c-4cf0-a662-b4adce50f5b9"
                 }
             ]
         },
@@ -428,7 +428,7 @@
                         "If only",
                         "as though"
                     ],
-                    "guid": "238c45f2-f0ad-47f2-9d85-5e9ab9b3ab42"
+                    "uuid": "238c45f2-f0ad-47f2-9d85-5e9ab9b3ab42"
                 },
                 {
                     "type": "exercise",
@@ -454,7 +454,7 @@
                         "had gone",
                         "would stop"
                     ],
-                    "guid": "20ab911f-1139-4f00-96ec-5777c7a9b633"
+                    "uuid": "20ab911f-1139-4f00-96ec-5777c7a9b633"
                 },
                 {
                     "type": "exercise",
@@ -480,7 +480,7 @@
                         "pursued",
                         "were"
                     ],
-                    "guid": "1f9dcae9-466c-4c55-8809-76c6b9ab65cb"
+                    "uuid": "1f9dcae9-466c-4c55-8809-76c6b9ab65cb"
                 },
                 {
                     "type": "exercise",
@@ -502,7 +502,7 @@
                         "hadn't bought",
                         "If only I had"
                     ],
-                    "guid": "327eee53-a111-4a5d-8439-dd06103f8274"
+                    "uuid": "327eee53-a111-4a5d-8439-dd06103f8274"
                 },
                 {
                     "type": "exercise",
@@ -532,7 +532,7 @@
                         "had better not play truant",
                         "wishes he had helped"
                     ],
-                    "guid": "30fab45e-4c2f-4c52-b31d-7ceb1a05c87b"
+                    "uuid": "30fab45e-4c2f-4c52-b31d-7ceb1a05c87b"
                 },
                 {
                     "type": "exercise",
@@ -562,7 +562,7 @@
                         "would rather have bought",
                         "would rather not have gone"
                     ],
-                    "guid": "ac355c11-c45a-469f-b302-f37672896473"
+                    "uuid": "ac355c11-c45a-469f-b302-f37672896473"
                 },
                 {
                     "type": "exercise",
@@ -592,7 +592,7 @@
                         "wish I had learnt",
                         "is high time you started/is high time to start"
                     ],
-                    "guid": "61ef8f84-595a-4399-aa52-682f96ae72c6"
+                    "uuid": "61ef8f84-595a-4399-aa52-682f96ae72c6"
                 },
                 {
                     "type": "exercise",
@@ -622,7 +622,7 @@
                         "would rather not have taken part",
                         "would rather have got to work"
                     ],
-                    "guid": "12d3d851-c3e6-47f9-91c1-9dc56db33c9b"
+                    "uuid": "12d3d851-c3e6-47f9-91c1-9dc56db33c9b"
                 },
                 {
                     "type": "exercise",
@@ -648,7 +648,7 @@
                         "I were",
                         "didn’t/wouldn't talk"
                     ],
-                    "guid": "e630f378-1d30-4293-997b-5a86f4dd8656"
+                    "uuid": "e630f378-1d30-4293-997b-5a86f4dd8656"
                 },
                 {
                     "type": "exercise",
@@ -674,7 +674,7 @@
                         "It's about time you took your piano playing seriously.",
                         "Imagine you won a lot of money. Would you spend it on your education?"
                     ],
-                    "guid": "04dea5fe-0f88-4004-9689-d6aa0e9de27a"
+                    "uuid": "04dea5fe-0f88-4004-9689-d6aa0e9de27a"
                 },
                 {
                     "type": "exercise",
@@ -696,7 +696,7 @@
                         "you told/for you to tell us the truth",
                         "I wish you had reminded me"
                     ],
-                    "guid": "017c3666-bafa-422a-b331-b004670a257e"
+                    "uuid": "017c3666-bafa-422a-b331-b004670a257e"
                 },
                 {
                     "type": "exercise",
@@ -722,7 +722,7 @@
                         "I wish we could afford a new car.",
                         "If you need any help, just call me."
                     ],
-                    "guid": "9bb2e8db-da98-410c-b6eb-2c68fce7bde7"
+                    "uuid": "9bb2e8db-da98-410c-b6eb-2c68fce7bde7"
                 },
                 {
                     "type": "exercise",
@@ -744,7 +744,7 @@
                         "Suppose you had no internet access for a few days?",
                         "We'd rather teachers gave us less homework. "
                     ],
-                    "guid": "9183dbce-f919-4806-91d9-399e537bfff3"
+                    "uuid": "9183dbce-f919-4806-91d9-399e537bfff3"
                 }
             ]
         }
