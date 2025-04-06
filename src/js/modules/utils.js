@@ -7,6 +7,14 @@ export const convertStringToTitle = str => {
     return str;
 }
 
+export const generateFilename = (str) => {
+    return str
+        .toLowerCase()
+        .replace(/\s*-\s*|\s+/g, '-')
+        .replace(/[()]/g, '')
+        .replace(/[^a-z0-9-]/g, '');
+};
+
 export const generateExercisesId = (unit, subsection, exerciseNumber) => {
     return `${unit}_${subsection}_${exerciseNumber}`
 }

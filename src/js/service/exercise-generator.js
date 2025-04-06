@@ -60,7 +60,13 @@ class ExerciseGenerator {
         if(this.#chosenSet.length) {
             const str = JSON.stringify(this.#chosenSet, null, 4);
             let blob = new Blob([str], {type: "text/plain"});
-            saveAs(blob, "chosen-exercises.json");
+            let filename = "chosen-exercises.json";
+
+            if(this.#chosenSet.at(0).type === 'title') {
+                filename = utils.generateFilename(this.#chosenSet.at(0).content) + ".json";
+            }
+
+            saveAs(blob, filename);
         }
     }
 }
