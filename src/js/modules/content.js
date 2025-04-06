@@ -131,8 +131,8 @@ export const findExercise = (id) => {
     return exerciseGenerator.data[unitsMap.get(unit)]['subsections'][subsectionsMaps[unitsMap.get(unit)].get(subsection)]['subsectionContent'][exNum - 1];
 }
 
-export const convertUUIDToExercise = (num, uuid) => {
-    return generateExercise(num, uuid, findExerciseByUUID(uuid));
+export const convertUUIDToExercise = (num, id, uuid) => {
+    return generateExercise(num, id, findExerciseByUUID(uuid));
 }
 
 export const findExerciseByUUID = (uuid) => {
@@ -159,12 +159,16 @@ export const generateSet = () => {
         switch(exerciseGenerator.chosenSet[i].type) {
             case 'exercise':
                 if(exerciseGenerator.chosenSet[i].uuid) {
-                    temp = convertUUIDToExercise(counter++, exerciseGenerator.chosenSet[i].uuid);
+                    temp = convertUUIDToExercise(
+                        counter++, 
+                        exerciseGenerator.chosenSet[i].id, 
+                        exerciseGenerator.chosenSet[i].uuid
+                    );
                 }
                 else {
                     temp = convertIdToExercise(counter++, exerciseGenerator.chosenSet[i].id);
                 }
-                
+
                 break;
             case 'theory':
                 temp = HtmlContentGenerator.createTheoryImage(exerciseGenerator.chosenSet[i].src);
