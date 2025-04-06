@@ -740,6 +740,32 @@
                         "is expected to be given the prize."
                     ],
                     "uuid": "33e217cc-9fef-4438-ae4e-85f6e7256b42"
+                },
+                {
+                    "type": "exercise",
+                    "source": "A material from the following link: https://www.aprendeinglesenleganes.com/personal-and-impersonal-passive.php",
+                    "task": "Dokonaj transformacji poniższych zdań.",
+                    "content": [
+                        "It is said that these herbs are good for you. SAID\nThese herbs ________________________________ good.",
+                        "It is said that children are afraid of ghosts. ARE\nChildren ________________________________ afraid of ghosts.",
+                        "They say that women live longer than men. IS\nIt ________________________________ longer than men.",
+                        "They think she has written a book. THOUGHT\nShe is ________________________________ a book.",
+                        "People believe he is working in Germany. IS\nHe ________________________________ in Germany.",
+                        "People believe that John Lennon was a great musician. BELIEVED\nJohn Lennon ________________________________ a grat musician.",
+                        "It is thought that the government was building new schools. THOUGHT\nThe government is ________________________________ new schools.",
+                        "It was believed that he had lived in London. BELIEVED\nHe ________________________________ in London."
+                    ],
+                    "answers": [
+                        "are said to be",
+                        "are said to be",
+                        "is said that women live",
+                        "thought to have written",
+                        "is believed to be working",
+                        "is believed to have been",
+                        "thought to have been building",
+                        "was believed to have"
+                    ],
+                    "uuid": "ff8a5449-a422-4b91-b26b-db5e1806c3d9"
                 }
             ]
         },
