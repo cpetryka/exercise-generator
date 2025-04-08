@@ -366,6 +366,32 @@
                 },
                 {
                     "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
+                    "content": [
+                        "He remembered ... (lock) the door before leaving.\nRemember ... (call) me when you get there!",
+                        "I forgot ... (buy) bread, so we have nothing for breakfast.\nI'll never forget ... (see) the Grand Canyon for the first time.",
+                        "They stopped ... (talk) to a friend on the way home.\nHe stopped ... (smoke) because of health reasons.",
+                        "I regret ... (say) that to her. It was really rude.\nWe regret ... (inform) you that your flight has been cancelled.",
+                        "He tried ... (open) the window, but it was stuck.\nIf you can’t sleep, try ... (drink) some warm milk.",
+                        "She went on ... (talk) about her new cat for an hour.\nAfter college, he went on ... (study) medicine at university.",
+                        "I didn’t mean ... (hurt) you – I was just being honest.\nBeing late often means ... (miss) important information.",
+                        "She needs ... (clean) her room before the guests arrive.\nThe bike needs ... (repair) before we can use it."
+                    ],
+                    "answers": [
+                        "locking, to call",
+                        "to buy, seeing",
+                        "to talk, smoking",
+                        "saying, to inform",
+                        "to open, drinking",
+                        "talking, to study",
+                        "to hurt, missing",
+                        "to clean, repairing"
+                    ],
+                    "uuid": "ee400918-1048-40f7-a25b-a0bc9d2a4fb0"
+                },
+                {
+                    "type": "exercise",
                     "source": "Wielka gramatyka języka angielskiego (edgard); ex. 31/84",
                     "task": "Uzupełnij zdania właściwą formą czasowników podanych w nawiasach.",
                     "content": [
@@ -420,6 +446,67 @@
                     ],
                     "uuid": "3493064c-2419-4f4b-91ce-4dc3eb33e207"
                 },
+
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "She looked at me and agreed __________ (pomóc nam dokończyć raport) without asking any questions.",
+                        "He avoided __________ (rozmawiania o szczegółach sprawy) during the entire interview.",
+                        "They encouraged their son __________ (żeby aplikował na studia) abroad despite his doubts.",
+                        "I simply can’t afford __________ (kupować tak drogich rzeczy) every month.",
+                        "She made me __________ (przemyśleć swoje decyzje) before taking any further steps.",
+                        "The teacher warned us not __________ (żeby nie ignorować poleceń) in the final exam.",
+                        "He admitted __________ (że skasował plik przez przypadek), but no one got angry.",
+                        "We managed __________ (znaleźć kompromis) after hours of intense discussion.",
+                        "Don’t forget __________ (poinformować zespół o zmianie planów) before the end of the day.",
+                        "They promised __________ (że przeanalizują nasze sugestie) before implementing any changes."
+                    ],
+                    "answers": [
+                        "to help us finish the report",
+                        "talking about the details of the case",
+                        "to apply to university",
+                        "to buy such expensive things",
+                        "rethink my decisions",
+                        "to ignore the instructions",
+                        "deleting the file by accident",
+                        "to find a compromise",
+                        "to inform the team about the change of plans",
+                        "to consider our suggestions"
+                    ],
+                    "uuid": "8d1d9bee-20c8-47e1-9e06-87c271c97ed5"
+                },         
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "He refused __________ (przejąć odpowiedzialność za wypadek), even though the evidence was clear.",
+                        "I really miss __________ (chodzenia na spacery z tobą) in the evenings after work.",
+                        "She can’t stand __________ (gdy ktoś ją poprawia) in front of other people.",
+                        "They suggested __________ (żebyśmy zaczęli spotkanie wcześniej), since everyone was already present.",
+                        "We expect all employees __________ (żeby przestrzegali zasad) during working hours.",
+                        "He helped me __________ (zrozumieć różnicę między tymi pojęciami) much more clearly.",
+                        "Don’t hesitate __________ (żeby zadać pytanie), even if it seems simple.",
+                        "She reminded me __________ (żebym zadzwonił do klienta) before leaving the office.",
+                        "They decided __________ (że zrezygnują z projektu) due to unexpected complications.",
+                        "I’d like you __________ (żebyś dokładnie przeanalizował te dane) before we publish anything."
+                    ],
+                    "answers": [
+                        "to take responsibility for the accident",
+                        "going for walks with you",
+                        "being corrected",
+                        "that we start the meeting earlier",
+                        "to follow the rules",
+                        "understand the difference between those terms",
+                        "to ask a question",
+                        "to call the client",
+                        "to withdraw from the project",
+                        "to analyse this data carefully"
+                    ],
+                    "uuid": "4e8c649e-4ec2-44f6-8e95-22555870745f"
+                },                  
                 {
                     "type": "exercise",
                     "source": "Own tasks",
