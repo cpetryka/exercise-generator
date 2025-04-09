@@ -932,7 +932,127 @@
                         "will be given"
                     ],
                     "uuid": "cca38d13-291d-4083-9f46-1aface59be8a"
-                }
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "The documents ___ (zostały podpisane przez dyrektora) before the meeting started.",
+                        "She usually ___ (ma robione paznokcie) on Fridays after work.",
+                        "He ___ (podobno mówi płynnie po japońsku), which is really impressive.",
+                        "The cake ___ (zostało upieczone) just before the guests arrived.",
+                        "I ___ (miałem wymienione opony) last week because winter is coming.",
+                        "The project ___ (jest uważany za bardzo ambitny) by the scientific community.",
+                        "We ___ (mieliśmy zainstalowaną klimatyzację) in our office last summer.",
+                        "The car ___ (jest serwisowany) twice a year.",
+                        "The man ___ (uważa się, że ukradł pieniądze) has been arrested.",
+                        "She ___ (miała zrobioną fryzurę) before the party."
+                    ],
+                    "answers": [
+                        "were signed by the director",
+                        "has her nails done",
+                        "is said to speak Japanese fluently",
+                        "was baked",
+                        "had my tyres changed",
+                        "is considered to be very ambitious",
+                        "had air conditioning installed",
+                        "is serviced",
+                        "is believed to have stolen the money",
+                        "had her hair done"
+                    ],
+                    "uuid": "e7fe1e15-c8b3-4f6b-a268-f64d5ce55071"
+                },      
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz podane fragmenty zdań.",
+                    "content": [
+                        "The building ___ (został zaprojektowany przez znanego architekta) in the 1960s.",
+                        "She ___ (podobno napisała książkę) when she was only 15.",
+                        "We ___ (mamy dostarczane jedzenie) every Monday afternoon.",
+                        "It ___ (uważa się, że on zna prawdę), but no one can prove it.",
+                        "The room ___ (był sprzątany) when I arrived.",
+                        "They ___ (mieli naprawiony dach) last autumn after the storm.",
+                        "The speech ___ (jest tłumaczona na trzy języki) for international guests.",
+                        "He ___ (podobno pracuje dla agencji rządowej), but no one knows exactly what he does.",
+                        "I ___ (miałem naprawiony telefon) yesterday afternoon.",
+                        "These paintings ___ (są uważane za dzieła sztuki) by many critics."
+                    ],
+                    "answers": [
+                        "was designed by a famous architect",
+                        "is said to have written a book",
+                        "have food delivered",
+                        "is believed that he knows the truth",
+                        "was being cleaned",
+                        "had their roof repaired",
+                        "is being translated into three languages",
+                        "is said to work for a government agency",
+                        "had my phone repaired",
+                        "are considered works of art"
+                    ],
+                    "uuid": "291b7062-82ea-4387-91af-2ee18cc9e723"
+                },                              
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na język angielski, stosując odpowiednie formy strony biernej, 'have something done' lub konstrukcji bezosobowej.",
+                    "content": [
+                        "Samochód został naprawiony wczoraj.",
+                        "Ona co tydzień ma robione paznokcie.",
+                        "Mówi się, że on mieszka w Londynie.",
+                        "Dokumenty zostaną podpisane jutro.",
+                        "On miał ostatnio malowany dom.",
+                        "Uważa się, że ta firma jest najlepsza na rynku.",
+                        "List został wysłany w zeszłym tygodniu.",
+                        "Miałam zrobione zdjęcia do paszportu w zeszły poniedziałek.",
+                        "Twierdzi się, że ona wygra wybory.",
+                        "Ten obraz został namalowany przez lokalnego artystę."
+                    ],
+                    "answers": [
+                        "The car was repaired yesterday.",
+                        "She has her nails done every week.",
+                        "He is said to live in London.",
+                        "The documents will be signed tomorrow.",
+                        "He had his house painted recently.",
+                        "This company is believed to be the best on the market.",
+                        "The letter was sent last week.",
+                        "I had my passport photos taken last Monday.",
+                        "She is claimed to win the election.",
+                        "This painting was created by a local artist."
+                    ],
+                    "uuid": "f81aede0-8ab5-473b-b756-3a63ee4f40b5"
+                },
+                {
+                    "type": "exercise",
+                    "source": "Own tasks",
+                    "task": "Przetłumacz zdania na język angielski, stosując odpowiednie formy strony biernej, 'have something done' lub konstrukcji bezosobowej.",
+                    "content": [
+                        "Uważa się, że on zna pięć języków.",
+                        "Mamy naprawiane nasze rowery raz w roku.",
+                        "To zadanie powinno być zrobione do jutra.",
+                        "On właśnie miał zrobiony tatuaż.",
+                        "Mówi się, że ona napisała tę książkę sama.",
+                        "Te produkty są sprzedawane na całym świecie.",
+                        "Zamierzam jutro ściąć włosy.",
+                        "Ten budynek został zbudowany w XIX wieku.",
+                        "Uważa się, że on uciekł za granicę.",
+                        "Miałam usuniętego wirusa z laptopa przez informatyka."
+                    ],
+                    "answers": [
+                        "He is believed to speak five languages.",
+                        "We have our bikes serviced once a year.",
+                        "This task should be done by tomorrow.",
+                        "He has just had a tattoo done.",
+                        "She is said to have written this book herself.",
+                        "These products are sold all over the world.",
+                        "I’m going to have my hair cut tomorrow.",
+                        "This building was built in the 19th century.",
+                        "He is thought to have fled abroad.",
+                        "I had the virus removed from my laptop by an IT specialist."
+                    ],
+                    "uuid": "4de128b6-752d-467b-b6b5-34126442e6ec"
+                }                               
             ]
         }
     ]
