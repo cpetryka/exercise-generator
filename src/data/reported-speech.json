@@ -191,6 +191,11 @@
             "subsectionName": "reporting-verbs",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Reporting verbs",
+                    "src": "reporting-verbs.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Longman rozszerzenie; ex. 1/226",
                     "task": "Uzupełnij zdania właściwymi formami czasowników w nawiasach. Dodaj właściwe przyimki tam, gdzie jest to konieczne.",
