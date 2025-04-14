@@ -72,6 +72,16 @@
             "subsectionName": "reported-questions",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Reported questions - theory",
+                    "src": "reported-questions.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Reported questions - additional theory",
+                    "src": "reported-questions-additional-info.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz jak tworzymy pytania w mowie zależnej w języku angielskim",
@@ -137,6 +147,11 @@
         {
             "subsectionName": "reported-orders",
             "subsectionContent": [
+                {
+                    "type": "theory",
+                    "heading": "Reported orders - theory",
+                    "src": "reported-orders.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Own tasks",
@@ -370,6 +385,21 @@
         {
             "subsectionName": "summary",
             "subsectionContent": [
+                {
+                    "type": "theory",
+                    "heading": "Reported speech - summary - statements",
+                    "src": "reported-speech-summary-statements.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Reported speech - summary - questions",
+                    "src": "reported-speech-summary-questions.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Reported speech - summary - orders",
+                    "src": "reported-speech-summary-orders.png"
+                },
                 {
                     "type": "exercise",
                     "source": "Password 3 (macmillan); ex. 1/46 from workbook",
