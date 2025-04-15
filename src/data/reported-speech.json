@@ -5,6 +5,51 @@
             "subsectionName": "reported-statements",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Direct vs reported speech",
+                    "src": "direct-vs-reported-speech.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Introduction reported speech",
+                    "src": "introduction-to-reported-speech.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Sequence of tenses",
+                    "src": "sequence-of-tenses.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Changes to pronouns and adverbs of time",
+                    "src": "changes-to-pronouns-and-adverbs-of-time.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Basic reporting verbs",
+                    "src": "basic-reporting-verbs.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Examples of reported speech",
+                    "src": "reported-speech-examples.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Skipping 'that'",
+                    "src": "skipping-that.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Situations when backshift is not needed",
+                    "src": "no-backshift-needed.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Situations when backshift is optional",
+                    "src": "backshift-optional-cases.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym jest mowa zależna, kiedy jej używamy oraz jak ją tworzymy.",
