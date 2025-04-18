@@ -234,7 +234,7 @@ export const generateAnswers = () => {
 
     for(let obj of exerciseGenerator.chosenSet) {
         if(obj.type === 'exercise') {
-            const exercise = findExercise(obj.id);
+            const exercise = findExerciseByUUID(obj.uuid);
 
             if(exercise.answers !== undefined) {
                 const exerciseHeading = generatedSet.querySelector(`#${obj.id}`).firstChild.firstChild.innerText;
