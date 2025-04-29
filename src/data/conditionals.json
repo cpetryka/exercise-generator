@@ -368,6 +368,21 @@
             "subsectionName": "mixed-conditionals",
             "subsectionContent": [
                 {
+                    "type": "theory",
+                    "heading": "Introduction to mixed conditionals",
+                    "src": "mixed-conditionals-introduction.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Mixed conditional type 3+2",
+                    "src": "mixed-conditionals-type-3+2.png"
+                },
+                {
+                    "type": "theory",
+                    "heading": "Mixed conditional type 2+3",
+                    "src": "mixed-conditionals-type-2+3.png"
+                },
+                {
                     "type": "exercise",
                     "source": "Own tasks",
                     "task": "Powiedz czym są mieszane tryby warunkowy oraz jak się je buduje.",
